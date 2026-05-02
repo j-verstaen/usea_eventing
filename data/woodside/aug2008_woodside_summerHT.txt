@@ -1,0 +1,33 @@
+Division,Horse,Rider,Dressage,SXC,JXC,TSJ,JSJ,Total_Score,Points
+"[HT] Advanced, A","Chaos Theory","TAMRA SMITH",41.7,0,6.4,0,8,56.1,112.0
+"[HT] Advanced, A","Splendorofthesun","HAWLEY BENNETT-AWAD",41.3,0,4,8,7,60.3,210.0
+"[HT] Advanced, A","Subway","OLIVIA LOIACONO",46.3,20,22.4,WW,WW,-,-
+"[HT] Advanced, A","McTwist","JESSICA MONTGOMERY",44.6,HC,HC,12,6,HC,-
+"[HT] Intermediate, OI","Spike","ALEXIS A. HELFFRICH",33.1,0,5.2,0,0,38.3,16.0
+"[HT] Intermediate, OI","Leyasta","ALEXIS A. HELFFRICH",31.2,0,10.4,0,4,45.6,25.0
+"[HT] Intermediate, OI","R-Star","KRISTI M. NUNNINK",35.8,0,19.2,4,2,61,34.0
+"[HT] Intermediate, OI","Obewon","MICHELLE HANF",46.2,0,12.4,12,23,93.6,40.0
+"[HT] Intermediate, OI","Belmont Ballygowan","JILLIAN TERZIAN",43.5,20,20.8,24,12,120.3,50.0
+"[HT] Preliminary, OP","Made Ya Look IV","LISA LEVINE",28.8,0,0,8,1,37.8,16.0
+"[HT] Preliminary, OP","Ben Cruise","KELLY PRATHER",33.3,0,7.2,0,1,41.5,25.0
+"[HT] Preliminary, OP","Reins for Justice","DAVID W. ACORD",40,0,3.2,0,0,43.2,34.0
+"[HT] Preliminary, P-CH","The Mistress II","SAMANTHA A. STEWART",33.3,0,0,0,0,33.3,13.0
+"[HT] Preliminary, P-CH","Maseratti","WHITNEY TUCKER BILLETER",33.3,0,0,0,0,33.3,22.5
+"[HT] Preliminary, PR","Court Jester","FRANCES M. ANDERSON",34.2,0,0,4,0,38.2,16.0
+"[HT] Training, JTR","Frequent Flyer VII","MADISON R. LLOYD",32.1,0,0,0,0,32.1,17.0
+"[HT] Training, JTR","Just a L'il Bit","HALEY DWIGHT",32.1,0,0.4,0,0,32.5,26.0
+"[HT] Training, OT","Socrates","TAMRA SMITH",24.2,0,0.4,0,0,24.6,17.0
+"[HT] Training, OT","Crocodile","KRISTEN ORTON",27.4,0,0,0,0,27.4,26.0
+"[HT] Training, STAR","Marcus","SUE BUXTON",30.5,0,0,0,1,31.5,16.0
+"[HT] Training, STR","Lincoln's Copper Penny","EMMA DEANE",32.6,0,0,0,2,34.6,17.0
+"[HT] Novice, JNRA","Faintly Painted","OLIVIA ALLEN",30,0,0,4,0,34,16.0
+"[HT] Novice, JNRB","Christopher Robin V","KENZIE AMACK",30,0,0,0,0,30,16.0
+"[HT] Novice, ON","Killbarry Miley","KELLY PRATHER",28.4,0,0,0,0,28.4,17.0
+"[HT] Novice, SNAR","Sportsfield Oliver","KATHRYN SCOTT",30.5,0,0,0,1,31.5,16.0
+"[HT] Novice, SNR","Giaconda","HONOR FULLERTON STONE",32.6,0,0,0,0,32.6,16.0
+"[HT] Novice, SNRB","Payton","GILLIAN RYAN",27.4,0,0,0,0,27.4,16.0
+"[HT] Beginner Novice, JBNR","Buddy","AMBER PEARSON",34.5,0,0,0,0,34.5,16.0
+"[HT] Beginner Novice, JBNRB","Unknown","TYLER CHANDLER",29,0,0,0,0,29,1.0
+"[HT] Beginner Novice, OBN","Unknown","TAMRA SMITH",26,0,0,0,0,26,1.0
+"[HT] Beginner Novice, SBNR","Cash N Diamonds","GILLIAN WARD",35,0,0,4,0,39,15.0
+"[HT] Beginner Novice, SBNRB","Paddington","ERIN SEGHESIO",28,0,0,4,0,32,15.0

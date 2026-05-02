@@ -1,0 +1,49 @@
+Division,Horse,Rider,Dressage,XC_Jump,XC_Time,SJ_Jump,SJ_Time,Final_Score,Rank
+"Advanced","McKinlaigh","GINA O. MILES",24.60,0,5.60,4,0,34.20,1
+"Advanced","Livingstone","HAWLEY BENNETT-AWAD",36.30,0,8.00,4,0,48.30,2
+"Advanced","Malik","JAMIE LAWRENCE",32.90,20,0,0,0,52.90,3
+"Advanced","Tambo Unico","JEN JOHNSON",40.80,0,14.80,12,0,67.60,4
+"Advanced","Balabooga Brawley","YVES SAUVIGNON",39.20,20,14.00,4,0,77.20,5
+"Advanced","Indego","JENNIFER T. KELLY",32.90,0,26.80,16,3,78.70,6
+"Advanced","Masters Choice","VALERIE BELOT",45.80,20,30.80,12,0,108.60,7
+"Advanced","Star Edition","LAUREN BROOKE",35.40,40,26.80,12,0,114.20,8
+"Advanced","The Good Witch","JENNIFER WOOTEN",43.30,0,0,0,0,43.30,W
+"Advanced","Philippa","GINA O. MILES",34.20,80,52.40,0,0,166.60,E
+"Intermediate","Ballinakill Glory","KELLY PRATHER",23.10,0,0,4,7,34.10,1
+"Intermediate","Killian O'Connor","JOLIE WENTWORTH",29.60,0,4.80,0,0,34.40,2
+"Intermediate","Skywalker IV","ANDREA BAXTER",42.70,0,0,0,0,42.70,3
+"Intermediate","Gin & Juice","HAWLEY BENNETT-AWAD",33.10,0,1.60,8,0,42.70,4
+"Intermediate","Ballingowan Miller","LAUREN WHITLOCK",41.50,0,0,4,0,45.50,5
+"Intermediate","Nieco","GRANT HEMINGWAY",30.80,0,6.80,8,0,45.60,6
+"Intermediate","Savoy Six","KIMBERLY KASLOW",32.70,0,8,8,0,48.70,7
+"Intermediate","High Patriot","SHANNON P. LILLEY",30.80,20,14.40,4,0,69.20,8
+"Intermediate","Koryography","MIA ERIKSSON",45.80,0,16,12,0,73.80,9
+"Intermediate","Annie III","SHIRLEY ARONSON",42.70,20,10.80,0,3,76.50,10
+"Preliminary","Sir Dudley","SHANNON P. LILLEY",25.40,0,0,0,0,25.40,1
+"Preliminary","Tiger III","ERIN R. KELLERHOUSE",34.60,0,0,0,0,34.60,1
+"Preliminary","Dillinger III","MEG FINN",30.80,0,0,0,0,30.80,1
+"Preliminary","Oodles","JOCELYN LUNDY",36.70,0,0.80,4,0,41.50,1
+"Preliminary","Granite Falls","SARA DUKKER",38.30,0,0,4,5,47.30,1
+"Training","Lad's Night Out","BEA DI GRAZIA",23.50,0,0,0,0,23.50,1
+"Training","Alexa Blue","SHANNON P. LILLEY",28.50,0,0,0,0,28.50,1
+"Training","Best Imp","BEA DI GRAZIA",27.90,0,0,0,0,27.90,1
+"Training","Southern Panache","ANNIE LOGAN",29.00,0,0,0,0,29.00,1
+"Training","Argo","JENNIFER M. WRIGHT-WARREN",29.50,0,0,0,0,29.50,1
+"Training","Earl Grae","JANINE S. HILL",33.00,0,0,0,0,33.00,1
+"Training","Matrix III","KEITH MALLETT",29.50,0,0,4,0,33.50,1
+"Novice","Musette","MOGIE BEARDEN-MULLER",20.50,0,0,4,0,24.50,1
+"Novice","Phar Away Day","ALYSON COLE",26.00,0,0,0,0,26.00,1
+"Novice","Corlander II","ARI LOPEZ",27.00,0,0,0,0,27.00,1
+"Novice","Ben Dancing","JESSICA M. DUFFY",27.90,0,0,0,0,27.90,1
+"Novice","Idle Bells","MADISON REEB",29.00,0,0,0,0,29.00,1
+"Novice","Never Late For Honey","RACHEL COLEMAN-HUNT",30.00,0,0,0,0,30.00,1
+"Novice","Colby","GINA ECONOMOU",30.50,0,0,0,0,30.50,1
+"Novice","Macchiato II","EILEEN W. MORGENTHALER",30.00,0,1.60,0,0,31.60,1
+"Novice","Faluut","ADRIANA J. ANGELICH",30.50,0,0,0,0,30.50,1
+"Novice","Savannah","WENDELL WILLIAMS",28.40,0,0,0,0,28.40,1
+"Beginner Novice","Sixpence","BRYNN LITTLEHALE",23.20,0,0,0,0,23.20,1
+"Beginner Novice","ERISA Marveles","DAVID ADAMO",24.00,0,0,0,0,24.00,1
+"Beginner Novice","Take a Chance","ZACHARY BRANDT",30.50,0,0,0,0,30.50,1
+"Beginner Novice","Katrina IV","VALLI BOWMAN",31.50,0,0.80,0,1,33.30,1
+"Beginner Novice","Inverness","ANNIE DESMOND",30.50,0,0,0,0,30.50,1
+"Beginner Novice","Kat in Command","SUSAN BURWEN",34.70,0,0,0,0,34.70,1

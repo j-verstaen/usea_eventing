@@ -1,0 +1,225 @@
+Division,Horse,Rider,D,SXC,JXC,TSJ,JSJ,TSP,Pts,U-Pts
+"[HT] Advanced/Intermediate, AI",Elle,MEGAN MCIVER,36.8,0,1.6,4,0,42.4,1,
+"[HT] Advanced/Intermediate, AI",Bittersweet 2,JOSH BARNACLE,34.8,0,5.2,12,3.6,55.6,2,
+"[HT] Advanced/Intermediate, AI",Quintessence,MEGAN MCIVER,42.7,20,12.8,4,2.8,82.3,3,
+"[HT] Advanced/Intermediate, AI",Cinzano,AMBER BIRTCIL,35,20,TE,TE,TE,TE,TE,
+"[HT] Intermediate, OI",Can Be Sweet,LAUREN BILLYS SHADY,31.8,0,3.6,0,3.2,38.6,1,
+"[HT] Intermediate, OI",Diego,LAUREN LOPICCOLO,27.3,0,1,2,4,41.6,2,
+"[HT] Intermediate, OI",Isi,ASIA H. VEDDER,28.6,0,9.6,12,0.4,50.6,3,1-6.0
+"[HT] Intermediate, OI",Ard Cooley,SIGOURNEY JELLINS,41.6,60,E,E,E,E,E,
+"[HT] Intermediate, OI",Carolina Morning,STEPHANIE GOODMAN,39.8,80,R,R,R,R,R,
+"[HT] Preliminary, OP",Electric Daisy,BARBARA CRABO,24.5,0,6.4,0,0,30.9,1,
+"[HT] Preliminary, OP",Skyrise,JOSH BARNACLE,27.6,0,0,4,1.2,32.8,2,
+"[HT] Preliminary, OP",Kapitan Sparrow XII,MEGAN MCIVER,31.7,0,2.4,0,0,34.1,3,
+"[HT] Preliminary, OP",Versace,MADDIE SMITH,35.5,0,0,0,0,35.5,4,1-6.0
+"[HT] Preliminary, OP",Kilbunny Amigo,HAILEY BLACKBURN,31.2,0,0,4,0.4,35.6,5,2-5.0
+"[HT] Preliminary, OP",Woodland's Be Dignified,SAMI CLARK,31.7,0,6.8,0,1.6,40.1,6,3-4.0
+"[HT] Preliminary, OP",Swope,JOSEPH P. MCKINLEY,33.8,0,4.4,8,0,46.2,7,
+"[HT] Preliminary, OP",Castle Larchfield Purdy,MADDIE SMITH,30.2,0,7.6,4,4.4,46.2,8,4-3.0
+"[HT] Preliminary, OP",Dark Knight Royale,SALLY A. PHILLIPS,48.1,0,0,0,0,48.1,9,5-0.0
+"[HT] Preliminary, OP",Ixxe Hedoniste,LEAH M. FORQUER,31.9,0,15.2,0,2,49.1,10,6-0.0
+"[HT] Preliminary, OP",Daehling Dex,ELLA GARCIA,38.3,0,0,8,6,52.3,11,7-0.0
+"[HT] Preliminary, OP",Temprano,ANNA REKRUTIAK,43.1,0,3.2,4,2.4,52.7,12,8-0.0
+"[HT] Preliminary, OP",Josephine,KATE MILLER,38.1,0,8.4,4,5.2,55.7,13,9-0.0
+"[HT] Preliminary, OP",Remington Excalibur Balladeer,SAVANNAH M. BYRD,39.1,20,31.2,4,0,94.3,14,10-0.0
+"[HT] Preliminary, OP",Get Cheeky,ASIA H. VEDDER,25.2,40,R,R,R,R,R,
+"[HT] Preliminary, OP",Ozzie,MARISSA NIELSEN,27.4,20,RF,RF,RF,RF,RF,
+"[HT] Preliminary, OP",Fernhill and The Jets,MADELYN C. FLOYD,38.1,60,5.2,0,E,E,E,
+"[HT] Preliminary, OP",Coco Chanel,SHALLARY GUYMON,41.7,0,R,R,R,R,R,
+"[HT] Preliminary, OP",Elwenda DP,STEPHANIE GOODMAN,19.8,20,RF,RF,RF,RF,RF,
+"[HT] Training, JTR",Duke HW,MIA BROWN,28.6,0,0,0,0,28.6,1,
+"[HT] Training, JTR",Annabell,RANEY V. WOLFERS,35.5,0,1.2,4,3.6,44.3,2,
+"[HT] Training, JTR",Prouno,ELLIE SPURLOCK,34.5,0,12,4,0,50.5,3,
+"[HT] Training, JTR",Patito,EMMA SLOCUM,28.3,20,8.4,0,0,56.7,4,
+"[HT] Training, JTR",Supah Heat,ISABELLA DEGNER,29.5,20,8,4,0,61.5,5,
+"[HT] Training, JTR",Sir Lancelot,AUDREY I. TRILLING,35.7,20,9.6,0,0,65.3,6,
+"[HT] Training, JTR",Johnny Royal,ANNA G. WESTON SMITH,30.7,20,13.2,8,0.4,72.3,7,
+"[HT] Training, JTR",Duke's Helios,ANNA G. BROSTROM,30,40,16,8,2,96,8,
+"[HT] Training, JTR",Balladeer Kilbrickens Lad,STELLA WRIGHT,28.8,--,W,8,5.2,W,W,
+"[HT] Training, JTR",A Golden Effort,CLAIRE MATSON,37.9,80,E,8,0,E,E,
+"[HT] Training, JTR",Storm Watch,NATALIE BARTON,31.2,--,--,W,W,W,W,
+"[HT] Training, JTR",I Love Lucy,PAIGE BEAUCHAMP CRANDON,30.5,--,--,0,E,E,E,
+"[HT] Training, OT",Cappachina,TOMMY M. GREENGARD,21.9,0,0,0,0,21.9,1,
+"[HT] Training, OT",Fancy Feet II,MARGOT E. CHANDLER,24.5,0,0,0,0,24.5,2,
+"[HT] Training, OT",Lowmax,NICHOLAS B. CWICK,26.7,0,0,0,0.8,27.5,3,
+"[HT] Training, OT",Kremer VD Falieberg,TOMMY M. GREENGARD,22.9,0,0,8,0.8,31.7,4,
+"[HT] Training, OT",Lucca Bravo,ALEXIS A. HELFFRICH,31.9,0,0,0,0,31.9,5,
+"[HT] Training, OT",Viva La Vida,SOPHIE TICE,33.1,0,0.4,0,0,33.5,6,1-7.0
+"[HT] Training, OT",Piccadilly's Pride M.E.,NICHOLAS B. CWICK,31.7,0,2.8,0,1.6,36.1,7,
+"[HT] Training, OT",Libris Charlotte,ASHTON B. BENEFIEL,29.3,0,3.2,4,0,36.5,8,2-6.0
+"[HT] Training, OT",Infinity,ALINE LE,36,0,20,0,2,38,9,3-5.0
+"[HT] Training, OT",Gloriano,JOSH BARNACLE,34.1,0,0.4,4,0,38.5,10,
+"[HT] Training, OT",Mischievous,REBECCA E. SEVERT,35,0,0.4,4,0,39.4,11,
+"[HT] Training, OT",Modesto RE,TOMMY M. GREENGARD,32.6,0,0,8,0,40.6,12,
+"[HT] Training, OT",I.M. Over It,BARBARA CRABO,38.6,0,3.6,0,0.4,42.6,13,
+"[HT] Training, OT",Starting Over,JOSEPH P. MCKINLEY,39.3,0,0,4,0,43.3,14,
+"[HT] Training, OT",Oliver,JENNIFER L. MCRONALD,30,0,10.4,4,0,44.4,15,
+"[HT] Training, OT",Dubaï,GRAYSON POULOS,28.8,0,15.6,4,0.8,49.2,16,
+"[HT] Training, OT",Shannondale Fionn,TOMMY M. GREENGARD,26.9,20,2.4,0,0,49.3,17,
+"[HT] Training, OT",Athenian Conqueror,KIMBERLEY CASTRO,37.1,0,8.4,4,0,49.5,18,
+"[HT] Training, OT",Global Monmore,STEPHANIE GOODMAN,35.5,20,32,4,0.8,92.3,19,
+"[HT] Training, OT",Le Top F,AMBER BIRTCIL,31.4,--,W,0,0,W,W,
+"[HT] Training, STR",Corlandro Approved,KIRA NIYOGI,31,0,0,0,0,31,1,1-6.0
+"[HT] Training, STR",Fix It Felix,RACHEL HARNISH,35.7,0,0,0,0,35.7,2,2-5.0
+"[HT] Training, STR",Boundless,TOM TEMMERMAN JR,36,0,0,0,0,36,3,3-4.0
+"[HT] Training, STR",Prince Monsajem,KATHERINE SCHULTZ,32.6,0,0,4,0,36.6,4,4-3.0
+"[HT] Training, STR",HH Ontario,MICKAYLA HOWARD,31.9,0,5.2,0,1.6,38.7,5,
+"[HT] Training, STR",VC Caalif Elmy,CHLOE L. KISCHUK,28.1,0,7.6,4,0,39.7,6,5-2.0
+"[HT] Training, STR",Kilcurry Springfield,KATIE DILLON,36.2,0,4,0,0,40.2,7,6-0.0
+"[HT] Training, STR",Zahara,CARRIE J. FINNO,31.9,0,10,0,0,41.9,8,7-0.0
+"[HT] Training, STR",Baron de Chevalier,SUSANNAH BARD,34.3,0,4.4,4,1.2,43.9,9,8-0.0
+"[HT] Training, STR",Mucho Calor,GINA COONS,33.3,20,5.2,12,0,70.5,10,
+"[HT] Training, STR",Elfenwind,PEYTON ROGERS,34.3,20,10.8,12,4.4,81.5,11,9-0.0
+"[HT] Training, STR",Ringwood Rouge,ISABELLA N. ROBINSON,33.8,20,23.6,8,0.4,85.8,12,
+"[HT] Training, STR",Instyle,VIJOA LUCAS RICARDO,37.4,--,12,TE,TE,TE,TE,
+"[HT] Training, STR",D'Artiste,VALI FRANK,32.9,80,R,0,0,R,R,
+"[HT] Training, TAM",Chosen One DF,AMBER PEARSON,25.7,0,0,0,0,25.7,1,1-5.0
+"[HT] Training, TAM",Pride of Tautane,SAMANTHA A. STEWART,25.2,0,3.6,4,0,32.8,2,2-4.0
+"[HT] Training, TAM",Excel Star Romeo,JULIE FLETTNER,33.6,0,0,0,0,33.6,3,3-3.0
+"[HT] Training, TAM",Graceland's Ladera,CHARLOTTE FREEMAN,33.3,0,0,4,0,37.3,4,4-2.0
+"[HT] Training, TAM",Herman,PIPPA MURRAY,27.9,0,10.4,4,4.4,46.7,5,5-1.0
+"[HT] Training, TAM",Gandolph The Great,OLGA LONDA,41.4,0,10.8,8,0,60.2,6,6-0.0
+"[HT] Training, TAM",VaZoom TW,ALEXANDRA A. LEBOVIC,39.5,20,7.6,4,0,71.1,7,7-0.0
+"[HT] Training, TAM",Hillview Quality Control,MICHELLE WAGNER,39.1,60,16.8,8,0,123.9,8,8-0.0
+"[HT] Novice, JNR",Jacobite,ELLIE B. RYHORCHUK,21.9,0,0.4,0,0,22.3,1,
+"[HT] Novice, JNR",Joshua Tree,FIONA HOLLAND,23.3,0,0,0,0,23.3,2,
+"[HT] Novice, JNR",Kingsfield Jasperretto,KAYLEY BATT,25.6,0,0.4,0,0,26,3,
+"[HT] Novice, JNR",Armi,SOFIA SETO,26.9,0,0,0,0,26.9,4,
+"[HT] Novice, JNR",The Perfect Find,ANNIKA R. FOLEY,28.3,0,0,0,0,28.3,5,
+"[HT] Novice, JNR",Paulank Pepper Pot,EMMA R. PISTONE,25,0,0,4,0,29,6,
+"[HT] Novice, JNR",California Queen,ADDISON E. MARTIN,30.6,0,0.8,4,0,35.4,7,
+"[HT] Novice, JNR",American Tribute,SOPHIA B. HASLEMANN,31.7,0,0,4,0,35.7,8,
+"[HT] Novice, JNR",Amos Leigh,OLIVE BEVILACQUA,29.2,0,4.4,4,0,37.6,9,
+"[HT] Novice, JNR",Tully Mac's Happy Cinders,ALEXA PAPAHADJOPOULOS,36.9,0,0,0,1.2,38.1,10,
+"[HT] Novice, JNR",Do you believe in Magic?,ARIANNA M. VAN KLEECK,33.1,0,0,4,1.2,38.3,11,
+"[HT] Novice, JNR",Lacey Monet,LAYLA L. BELL,29.7,0,0.8,8,0,38.5,12,
+"[HT] Novice, JNR",Wine with Everything,ROSEMARY M. ESTEVERENA,30.3,0,0.4,8,0,38.7,13,
+"[HT] Novice, JNR",Balou'Quill,LAUREN FIELD,38.6,0,3.2,0,0,41.8,14,
+"[HT] Novice, JNR",Sir Elliot,JOSEPHINE CLARK,29.7,0,0,12,1.6,43.3,15,
+"[HT] Novice, JNR",Big City Blues,SASKIA REMSBERG,30,0,10,8,2.8,50.8,16,
+"[HT] Novice, JNR",Galaxy Girl,KENNEDY J. WIKLUND,32.2,0,0,12,12.4,56.6,17,
+"[HT] Novice, JNR",EPA Mo Chara,LAUREN BEBB,32.5,60,0,0,1.2,93.7,18,
+"[HT] Novice, JNR",Once Upon A Dream,MEGAN BEBB,34.4,0,TE,TE,TE,TE,TE,
+"[HT] Novice, JNR",Lancelot,SOPHIA R. THESEN,32.8,60,R,R,R,R,R,
+"[HT] Novice, JNR",Napoleon,MADDIE JACKSON,34.4,0,RF,RF,RF,RF,RF,
+"[HT] Novice, JNR",Hooked on a Feeling,PARKER E. GUYMON,29.7,20,12.8,0,E,E,E,
+"[HT] Novice, NAM",Santana,ERIKA PEREZ,25.3,0,0,0,0,25.3,1,1-5.0
+"[HT] Novice, NAM",Ava de La Luna,JEN BOULDEN,26.9,0,0,0,1.6,28.5,2,2-4.0
+"[HT] Novice, NAM",HSH Redfield Kazou,AMY PARKER,30.6,0,0,4,0,34.6,3,3-3.0
+"[HT] Novice, NAM",Medea O,MELINDA IRHAZY,28.3,0,0,4,2.4,34.7,4,4-2.0
+"[HT] Novice, NAM",Sully,MAX A. O'KREPKI,34.2,0,4,0,0,38.2,5,5-1.0
+"[HT] Novice, NAM",Power of Fourteen,KASSANDRA MCMILLAN,34.7,0,0,4,0,38.7,6,6-0.0
+"[HT] Novice, NAM",Sin City Lady,MICHAEL R. THOMAS,33.6,0,0,12,0,45.6,7,7-0.0
+"[HT] Novice, NAM",Outlander,CATHERINE TRESELER,30,0,3.6,12,0,45.6,8,8-0.0
+"[HT] Novice, NAM",Kilbeggan,MEGAN W. BEACHLER,23.6,0,33.6,0,3.6,60.8,9,9-0.0
+"[HT] Novice, NAM",Germa W,OLIVIA STEVENS,30.6,0,25.6,4,1.6,61.8,10,10-0.0
+"[HT] Novice, ON",Ironman,TOMMY M. GREENGARD,24.7,0,0,0,0,24.7,1,
+"[HT] Novice, ON",Rosewood Aoife,JOSEPH P. MCKINLEY,25.3,0,0,0,0,25.3,2,
+"[HT] Novice, ON",Catalina PJ,SIGOURNEY JELLINS,21.9,0,1.6,4,1.2,28.7,3,
+"[HT] Novice, ON",That's Me Z,TOMMY M. GREENGARD,27.2,0,2.8,0,0.8,30.8,4,
+"[HT] Novice, ON",Wynnville,ELLA GARCIA,32.5,0,0,0,0,32.5,5,1-7.0
+"[HT] Novice, ON",Paulank Impish King,STEPHANIE GOODMAN,25.3,0,3.2,4,0.4,32.9,6,
+"[HT] Novice, ON",Magic Mike,KRISTIN JOLY,26.9,0,0,4,2.4,33.3,7,
+"[HT] Novice, ON",BeamMeUp,TAYLOR MILES,31.4,0,0,4,0,35.4,8,
+"[HT] Novice, ON",Ricard,SAVANNAH M. BYRD,30,0,0,4,2.8,36.8,9,
+"[HT] Novice, ON",Glendening Allegro,ARI KANN-ORTUA,33.3,0,0.4,4,0,37.7,10,2-6.0
+"[HT] Novice, ON",BF Grace,LUCY BEARD,31.9,0,6.4,0,0,38.3,11,
+"[HT] Novice, ON",Thumper,OLIVIA A. BYRON-COOPER,29.7,0,0,8,0.8,38.5,12,3-5.0
+"[HT] Novice, ON",Just My Luck,LIBBY PORZIG,26.4,0,10,0,2.4,38.8,13,
+"[HT] Novice, ON",Georgia Peaches,SARA L. WINDLEY,29.7,0,11.2,4,3.2,48.1,14,
+"[HT] Novice, ON",Ringwood Sullivan,TERESA KOROL,29.4,0,20,4,5.6,59,15,
+"[HT] Novice, ON",Monbeg Finnegan,RHIANNON GORIN,31.1,20,11.6,4,0.4,67.1,16,
+"[HT] Novice, ON",Global Royale,MAXELLE J. PHILLIPS,26.1,60,31.6,4,3.2,124.9,17,4-4.0
+"[HT] Novice, ON",Double Date WF,MARISSA NIELSEN,25,80,E,E,E,E,E,
+"[HT] Novice, ON",Touche,ALICIA SWINTON,30.6,--,W,W,W,W,W,
+"[HT] Novice, ON",RF Azalea,INGRID GEORGE,33.9,60,R,R,R,R,R,
+"[HT] Novice, ON",Irish Diamond,ARI KANN-ORTUA,49.4,60,R,R,R,R,R,
+"[HT] Novice, SNR",Luxor,SAULO TRISTAO,22.5,0,0,0,0,22.5,1,
+"[HT] Novice, SNR",Carrigdhoun Cool Lad,ALYSIA DELEEUW,22.8,0,0,0,0,22.8,2,1-7.0
+"[HT] Novice, SNR",Laced Sensation,NATALIE BURK,26.1,0,0,0,0,26.1,3,2-6.0
+"[HT] Novice, SNR",Avoca Druid,KAREN BURKS,23.3,0,3.6,0,0.8,27.7,4,3-5.0
+"[HT] Novice, SNR",Chance Affair,LINDSAY CONNORS,24.7,0,0,4,0,28.7,5,4-4.0
+"[HT] Novice, SNR",Merriewold Quintessa,ALICE CHAN,32.8,0,0,0,0.4,33.2,6,5-3.0
+"[HT] Novice, SNR",Just Jeffrey,CAROLINE HOLMES,30.3,0,0,4,0,34.3,7,6-0.0
+"[HT] Novice, SNR",Beaulieu's Surprise,AMANDA L. PEZZUTO,35.8,0,0,0,0,35.8,8,7-0.0
+"[HT] Novice, SNR",Cruz,MUNIRIH GHODSI,35.3,0,0,4,0,39.3,9,8-0.0
+"[HT] Novice, SNR",RHF Sonata,VICKI MARTINEZ,29.7,0,6.4,4,2.4,42.5,10,9-0.0
+"[HT] Novice, SNR",Siberian Storm,DANNIELLE HOTT,33.3,0,6,4,0,43.3,11,
+"[HT] Novice, SNR",Soaring Bird,ALEXANDRA NAEVE,37.5,0,7.6,0,0,45.1,12,
+"[HT] Novice, SNR",Longwood Diamond Supreme,KALEI COLRIDGE,30.8,0,2.8,12,0.8,46.4,13,10-0.0
+"[HT] Novice, SNR",Hidden Moon,JANE L. DANIELS PEJCHA,39.7,0,0,4,3.6,47.3,14,11-0.0
+"[HT] Novice, SNR",Madmartigan,HEATHER KOZY,36.4,0,4.8,8,0.4,49.6,15,12-0.0
+"[HT] Novice, SNR",Celtic Star,TIFFANY SCHMID,31.7,0,14.4,8,0,54.1,16,13-0.0
+"[HT] Novice, SNR",Henry Jota Verona,ANNIE SHAW,36.1,20,0,0,0,56.1,17,14-0.0
+"[HT] Novice, SNR",Raptures Emblem,MATTHEW THOMPSON,33.1,0,19.2,4,0,56.3,18,15-0.0
+"[HT] Novice, SNR",Uncharted Waters,REBECCA MONDICS,26.4,0,22.8,4,3.2,56.4,19,16-0.0
+"[HT] Novice, SNR",Kai,AARON BARBER,38.6,0,0,20,0.8,59.4,20,17-0.0
+"[HT] Novice, SNR",Bold Dredger,JACY HUMPHRIES,37.2,0,19.2,8,6.8,71.2,21,18-0.0
+"[HT] Novice, SNR",Cat Ballou,KELLY A. QUINTERO,30.3,20,R,R,R,R,R,
+"[HT] Novice, SNR",Strongbow,NICOLE CHRIST,41.9,20,20.8,--,W,W,W,W,
+"[HT] Beginner Novice, JBNR",Conviction,NILAH RAMSAY,22.2,0,0,0,0,22.2,1,
+"[HT] Beginner Novice, JBNR",Black Gold,GEORGIA GOBOS,22.8,0,0,0,0,22.8,2,
+"[HT] Beginner Novice, JBNR",Prada,KATHERINE A. JACKMAN,26.9,0,0,0,0,26.9,3,
+"[HT] Beginner Novice, JBNR",Kiki’s Delivery Service,ANWYN K. CUNHA,27.8,0,0,0,0,27.8,4,
+"[HT] Beginner Novice, JBNR",Backstreet Bay,DIYA LANSBERG,32.8,0,0,0,0,32.8,5,
+"[HT] Beginner Novice, JBNR",Peterbilt,ELLE WARBURTON,30.3,0,0,4,0,34.3,6,
+"[HT] Beginner Novice, JBNR",Bravado,CODY O. KASHER,30.9,0,0,4,0,34.9,7,
+"[HT] Beginner Novice, JBNR",Absolute,LUCY B. ODOHERTY,35.6,0,0,4,0,39.6,8,
+"[HT] Beginner Novice, JBNR",Aphrodite,MAKENA MEARS,37.5,0,0,4,0,41.5,9,
+"[HT] Beginner Novice, JBNR",Sly Desert Cat,SHANNON A. FROST,34.4,0,0,12,0,46.4,10,
+"[HT] Beginner Novice, JBNR",Triple Spice,HENRY SPENCER-MORK,44.7,0,2.8,4,0,51.5,11,
+"[HT] Beginner Novice, JBNR",Blueberry Muffin,SHELBY Y. GIANNAMORE,37.8,0,24.8,4,0,66.6,12,
+"[HT] Beginner Novice, JBNR",Romeo,SALMA KUHLMANN,39.1,20,10,0,0,69.1,13,
+"[HT] Beginner Novice, JBNR",Kilkenny Fugitive,ELLEN GUDIKSEN,28.4,60,7.2,4,0,99.6,14,
+"[HT] Beginner Novice, JBNR",Balmoral Archibold,CAYENNE WILSON,29.7,0,R,0,7.6,R,R,
+"[HT] Beginner Novice, JBNR",Sweet Valentine,SOOBIN OH,30.9,20,RF,0,0,RF,RF,
+"[HT] Beginner Novice, JBNR",Kaiden,LAUREN BIRKLE,31.9,--,--,0,TE,TE,TE,
+"[HT] Beginner Novice, OBN",Redfield Out Of The Blue,KELLY A. QUINTERO,24.4,0,0,4,0,28.4,1,
+"[HT] Beginner Novice, OBN",Juliette,REBECCA E. SEVERT,26.3,0,0,4,0,30.3,2,
+"[HT] Beginner Novice, OBN",Dandelion Star,JOSH BARNACLE,36.9,0,0,0,0,36.9,3,
+"[HT] Beginner Novice, OBN",Attitude Included,JENNIFER L. MCRONALD,37.2,0,0,0,0,37.2,4,
+"[HT] Beginner Novice, OBN",Kleary's Rosie the Riveting,LUCINDA ROMERO,38.1,0,0,0,0,38.1,5,1-7.0
+"[HT] Beginner Novice, OBN",Secret Sauce,RACHEL N. FOX,34.4,0,0,4,0,38.4,6,
+"[HT] Beginner Novice, OBN",Tahoe's Prize DF,KELLY A. QUINTERO,35.3,0,0,4,0,39.3,7,
+"[HT] Beginner Novice, OBN",Kryptonite Z,SUZANNE MILLER,27.5,0,0,12,0,39.5,8,2-6.0
+"[HT] Beginner Novice, OBN",Lisbane Flame,JENNIFER L. MCRONALD,36.9,0,0,4,0,40.9,9,
+"[HT] Beginner Novice, OBN",I’m a Cool Dude,CLAIRE VESTRAND,32.5,0,5.2,8,0,45.7,10,
+"[HT] Beginner Novice, OBN",Rocket van Maarle,LAUREN HANNAH,34.1,0,0,12,0,46.1,11,3-5.0
+"[HT] Beginner Novice, OBN",Poncho,MARISSA NIELSEN,42.2,0,0,8,0,50.2,12,
+"[HT] Beginner Novice, OBN",Sir Cristiano SE,JESSICA M. MASTERS,35.9,20,0,0,0,55.9,13,4-4.0
+"[HT] Beginner Novice, OBN",Graceland's Lucia,ALISA SHEN,32.5,20,0,4,0,56.5,14,
+"[HT] Beginner Novice, OBN",CTR Trastevere,TOORA O’MAHONY,31.3,20,4,8,0.8,64.1,15,
+"[HT] Beginner Novice, OBN",Redbull,ABIGAIL PLOOF,43.4,20,0,4,0,67.4,16,
+"[HT] Beginner Novice, OBN",Mandalorian,KY PIERCE,37.8,60,E,8,0,E,E,
+"[HT] Beginner Novice, OBN",Hide and Seek (Emerson),AMBER PACHECO,47.5,80,RF,8,2.4,RF,RF,
+"[HT] Beginner Novice, OBN",Lost in Atlantis,SOPHIA FORTNER,39.1,--,--,0,E,E,E,
+"[HT] Beginner Novice, OBN",Khristina TW,ALEXANDRA A. LEBOVIC,38.1,60,E,0,0,E,E,
+"[HT] Beginner Novice, OBN",Clever Knight,MONICA J. LUKES,37.5,--,--,4,TE,TE,TE,
+"[HT] Beginner Novice, SBNR:A",Orofino AK,JUDAEA E. KIMBERLY,32.5,0,0,0,0,32.5,1,1-6.0
+"[HT] Beginner Novice, SBNR:A",Runaway Princess,TARAN VIXIE,35.3,0,0,4,0,39.3,2,
+"[HT] Beginner Novice, SBNR:A",Sophie,HEATHER STEFFEN,38.1,0,0,0,4,42.1,3,
+"[HT] Beginner Novice, SBNR:A",SpurWing’s Sugar Daddy,JEFFRY HEWITT,38.1,0,0,4,0,42.1,4,2-5.0
+"[HT] Beginner Novice, SBNR:A",Alimony,MARA SACKMAN,35.6,0,2.8,8,0,46.4,5,
+"[HT] Beginner Novice, SBNR:A",Citizen Jane,JACQUELINE P. GILMARTIN,30.3,0,0,12,4.8,47.1,6,3-4.0
+"[HT] Beginner Novice, SBNR:A",Wunderkind,TESSA MILA,39.4,0,5.6,16,0,61,7,4-3.0
+"[HT] Beginner Novice, SBNR:A",Psurprise,SAYRE HELBLING-FRY,36.6,20,6.4,4,0,67,8,
+"[HT] Beginner Novice, SBNR:A",Lukatoni,AMBER RYAN,29.4,60,21.6,0,0,111,9,
+"[HT] Beginner Novice, SBNR:A",Crimson Dynamo,JULIANNA HULSKER,39.1,60,22.4,16,2,139.5,10,5-2.0
+"[HT] Beginner Novice, SBNR:A",Bindi,DENESSSA COSSENTINE,34.7,60,E,4,0,E,E,
+"[HT] Beginner Novice, SBNR:A",Exclusive Screening,JILLIAN A. LINDNER,37.5,--,--,0,RF,RF,RF,
+"[HT] Beginner Novice, SBNR:A",Excel Star Royale,SIERRA I. JANSEN,33.4,--,--,0,TE,TE,TE,
+"[HT] Beginner Novice, SBNR:B",Little Elf,ANNIE DESMOND,27.8,0,0,0,0,27.8,1,1-6.0
+"[HT] Beginner Novice, SBNR:B",Manning,TINA BARCLAY,28.8,0,0,0,0,28.8,2,2-5.0
+"[HT] Beginner Novice, SBNR:B",Castlerea Draoi,MOLLY JOHNSON,31.3,0,0,0,0,31.3,3,3-4.0
+"[HT] Beginner Novice, SBNR:B",Levitate,EILEEN W. MORGENTHALER,32.5,0,0,0,0,32.5,4,3-4.0
+"[HT] Beginner Novice, SBNR:B",Tessa,NAZILA HEJAZI,34.4,0,0,0,1.2,35.6,5,5-2.0
+"[HT] Beginner Novice, SBNR:B",Chicago GS,EILEEN W. MORGENTHALER,28.1,0,0,8,0,36.1,6,6-0.0
+"[HT] Beginner Novice, SBNR:B",The Swiss Miss,KIREN M. NIEDERBERGER,40.6,0,0,4,2.8,47.4,7,
+"[HT] Beginner Novice, SBNR:B",Change of Luck,NAOMI L. BONESS,44.1,0,4.8,0,0.4,49.3,8,7-0.0
+"[HT] Beginner Novice, SBNR:B",Moinin's Boy,KATRINA A. CATTO,33.8,0,0,16,0,49.8,9,8-0.0
+"[HT] Beginner Novice, SBNR:B",Gabriel,KATIE KOMNENICH,28.4,20,0,4,0,52.4,10,9-0.0
+"[HT] Beginner Novice, SBNR:B",Cornet Star,JENNIFER WANG,42.8,20,32,4,0,98.8,11,10-0.0
+"[HT] Beginner Novice, SBNR:B",Ms J Zeigh,SUZANNE BROCK,32.2,0,114.4,8,6.4,161,12,
+"[HT] Beginner Novice, SBNR:B",Nando,CY ZADA,E,--,--,--,--,E,E,
+"[HT] Beginner Novice, SBNR:B",Marvella KF,ROBIN MOONEY,32.8,20,R,0,0,R,R,
+"[HT] Beginner Novice, SBNR:B",Tyroan MF,LINDA BARMAN,44.7,--,--,0,TE,TE,TE,

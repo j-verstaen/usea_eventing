@@ -1,0 +1,127 @@
+Division,Horse,Rider,Dressage,XC_Jump_Pen,XC_Time_Pen,SJ_Jump_Pen,SJ_Time_Pen,Final_Score,Rank
+"Preliminary, P:OPEN","Oceaner","DEREK DI GRAZIA",32.5,0,1.6,0,0.0,34.1,1
+"Preliminary, P:OPEN","Quaver","SOFIA LOMBERA",34.5,0,2.4,0,0.0,36.9,2
+"Preliminary, P:OPEN","Marengo","JANE DRUMMOND",39.5,0,0.8,0,0.0,40.3,3
+"Preliminary, P:OPEN","Keen Eddie","TARA E. RICHARDSON",33.5,0,8.4,0,0.0,41.9,4
+"Preliminary, P:OPEN","O'Ricardo","BEA DI GRAZIA",31.0,0,8.0,4,0.0,43.0,5
+"Preliminary, P:OPEN","Finnegan's Wake","MAGGIE BRONSON",41.0,0,4.8,0,1.0,46.8,6
+"Preliminary, P:OPEN","Paddy Winkler Lad","MOLLY MCALLISTER",40.5,0,0.0,8,2.0,50.5,7
+"Preliminary, P:OPEN","Classique Kiss","LAURA FURNISS",38.0,0,10.8,0,3.0,51.8,8
+"Preliminary, P:OPEN","Beaujolais Nouveau","KRISTEN ORTON",30.0,20,11.2,8,0.0,69.2,9
+"Preliminary, P:OPEN","San Salvador","FIONA ALLEN",32.0,0,4.0,16,29.0,81.0,10
+"Preliminary, P:OPEN","Get Shorty","BETH BARKER",32.0,40,29.6,4,0.0,105.6,11
+"Preliminary, P:OPEN","Gulliver IV","MOLLY MCALLISTER",36.5,60,14.4,12,18.0,140.9,12
+"Preliminary, P:OPEN","Cat Tracks","ALEXANDRA KNOWLES",36.0,60,36.8,16,3.0,151.8,13
+"Preliminary, P:OPEN","Dutch V","STEPHEN C. TING",39.5,0,0.0,0,0.0,39.5,E
+"Preliminary, P:OPEN","Summer Sailor","LUISA LOMBERA",34.5,0,0.0,8,18.0,60.5,E
+"Training, T:JR RIDER","Siskiyou Jubilee","GABRIELLA M. SCHLESINGER-JAMES",35.0,0,0.0,0,0.0,35.0,1
+"Training, T:JR RIDER","Sammy Dazzler","KAYLEEN P. CROWLEY",36.5,0,0.0,0,0.0,36.5,2
+"Training, T:JR RIDER","Flying Encounter","MEREDITH M. RAGNO",36.5,0,0.0,0,0.0,36.5,3
+"Training, T:JR RIDER","Avatar","PAETRA HENNIGAR",37.5,0,0.0,0,0.0,37.5,4
+"Training, T:JR RIDER","Samadhi","CHLOE MCNALLY",33.0,0,0.0,8,0.0,41.0,5
+"Training, T:JR RIDER","Spell Check","PETER G. KAUHANEN",39.5,0,1.6,0,0.0,41.1,6
+"Training, T:JR RIDER","Misty Morning","EMI HANSEN",41.5,0,0.0,0,0.0,41.5,7
+"Training, T:JR RIDER","Evening Star","CHRISTINE D. RITTHALER",37.5,0,0.0,4,0.0,41.5,8
+"Training, T:JR RIDER","Current Leader","TARA M. POLKABLA",32.5,0,2.0,8,0.0,42.5,9
+"Training, T:JR RIDER","Insluciant","MOLLY GASIEWICZ",39.0,0,0.0,4,0.0,43.0,10
+"Training, T:JR RIDER","Phar Laps Choice","JEN VROOMEN",37.5,0,0.0,4,4.0,45.5,11
+"Training, T:JR RIDER","Made You Look III","ARI PARIKH",44.5,0,2.4,0,0.0,46.9,12
+"Training, T:JR RIDER","Moonlight Serenade","COURTNEY LANCE",43.5,0,0.0,4,1.0,48.5,13
+"Training, T:JR RIDER","Manja My Main Man","HANNAH WEEMS",48.5,0,0.0,0,0.0,48.5,14
+"Training, T:JR RIDER","Frisco City","NICHOLE BAHLMAN",42.5,0,0.0,8,0.0,50.5,15
+"Training, T:JR RIDER","Ebony Hunter","ALESSIA M. BERTILACCHI-GREEN",44.0,0,0.0,8,0.0,52.0,16
+"Training, T:JR RIDER","Prince Charles","SAMANTHA VALENTINE",49.0,0,0.0,4,0.0,53.0,17
+"Training, T:JR RIDER","Wave Edition","SARAH MANNING",45.0,20,12.4,4,0.0,81.4,18
+"Training, T:JR RIDER","Midnight Snow","EMILY S. CHRISTENSEN",40.0,40,0.0,4,0.0,84.0,19
+"Training, T:JR RIDER","Frisco Bay II","PATRICIA K. SMITH",26.5,40,14.0,4,0.0,84.5,20
+"Training, T:JR RIDER","Madison's Impression","PEARL SPIELMAN",49.0,0,0.0,8,14.0,71.0,E
+"Training, T:OPEN","Lad's Night Out","BEA DI GRAZIA",23.5,0,0.0,0,0.0,23.5,1
+"Training, T:OPEN","The Principal","IAN DIERY",31.5,0,0.0,0,0.0,31.5,2
+"Training, T:OPEN","First Rate","MEG FINN",32.0,0,0.0,0,0.0,32.0,3
+"Training, T:OPEN","Good Barter","DEREK DI GRAZIA",34.0,0,0.0,4,0.0,38.0,4
+"Training, T:OPEN","Altitude","GINA M. SHAMAN",33.5,0,0.0,8,0.0,41.5,5
+"Training, T:OPEN","Private Reserve","KRISTEN ORTON",37.5,0,0.0,4,0.0,41.5,6
+"Training, T:OPEN","Razor's Edge","SILVIA SZABO",32.0,0,3.2,8,0.0,43.2,7
+"Training, T:OPEN","Straight Arrow","ALEXANDRA KNOWLES",39.5,0,0.0,4,0.0,43.5,8
+"Training, T:OPEN","The Maestro","TERESA KOROL",44.0,0,0.0,0,0.0,44.0,9
+"Training, T:OPEN","Tiara's Rose","JENNIFER WOOTEN - MACOUZET",37.0,0,0.0,12,0.0,49.0,10
+"Training, T:OPEN","Hugo","JOHNITA LANNI-CRADIT",31.0,20,0.0,4,0.0,55.0,11
+"Training, T:OPEN","Fade To Black II","CECIL MURRAY",32.0,20,8.4,8,0.0,68.4,12
+"Training, T:OPEN","Silver Wings","JENNIFER R. BOTELHO",37.0,20,0.0,12,0.0,69.0,13
+"Training, T:OPEN","Guinness","TERESA KOROL",36.5,0,0.0,4,0.0,40.5,E
+"Training, T:SR RIDER","Toshack","LISA J. WONG",30.0,0,0.0,0,0.0,30.0,1
+"Training, T:SR RIDER","Seamus of Athenry","CHRISTINE KENNEDY",37.0,0,0.0,0,0.0,37.0,2
+"Training, T:SR RIDER","Sum Happy Sum Not","WISTI G. NELSON",38.0,0,0.0,0,0.0,38.0,3
+"Training, T:SR RIDER","Ferdinand","KRIS KALSTROM",39.5,0,0.0,0,0.0,39.5,4
+"Training, T:SR RIDER","Vitaal","NICOLE HALE",33.0,0,5.2,4,0.0,42.2,5
+"Training, T:SR RIDER","Irish Brogue","LINDA L. DUBEE",36.0,0,10.0,0,0.0,46.0,6
+"Training, T:SR RIDER","Ready To Rhumba","SANDRA JOHNSON",39.5,20,0.0,0,0.0,59.5,7
+"Training, T:SR RIDER","Mon Petit Nuage","DEIRDRE MCCASKELL",41.5,20,0.0,4,0.0,65.5,8
+"Training, T:SR RIDER","By Jove","EILEEN O'FARRELL",32.5,20,0.0,4,13.0,69.5,9
+"Training, T:SR RIDER","Southern Sage","JENINA SEGALE",35.0,0,0.0,0,0.0,35.0,E
+"Training, T:SR RIDER","Michael","GABRIEL AGUILAR",48.0,0,0.0,12,16.0,76.0,E
+"Novice, N:JR RIDER","Phar Away Day","ALYSON COLE",26.0,0,0.0,0,0.0,26.0,1
+"Novice, N:JR RIDER","Corlander II","ARI LOPEZ",25.0,0,0.0,4,0.0,29.0,2
+"Novice, N:JR RIDER","Hurricane II","DANIELLE CHOU",32.5,0,0.0,0,1.0,33.5,3
+"Novice, N:JR RIDER","Akamina","LAURA W. KRIEGER",35.5,0,0.0,0,0.0,35.5,4
+"Novice, N:JR RIDER","Time to Chime","ASHLEIGH GUICH",37.5,0,0.0,0,0.0,37.5,5
+"Novice, N:JR RIDER","Custom Paint Job","CLAIRE O'CONNELL",40.0,0,0.0,0,0.0,40.0,6
+"Novice, N:JR RIDER","Slow Boat To Norway","DANIELLE KALEVA",37.5,0,0.0,4,0.0,41.5,7
+"Novice, N:JR RIDER","Mighty Mouse V","KRISTI MURPHY",42.0,0,0.0,0,0.0,42.0,8
+"Novice, N:JR RIDER","Graf Argentan","MOLLY TOTTEN",44.5,0,0.0,4,0.0,48.5,9
+"Novice, N:JR RIDER","Eagle's Flight","EMILY S. CHRISTENSEN",29.0,20,0.0,0,0.0,49.0,10
+"Novice, N:JR RIDER","Biscotty (See #103265)","SAMANTHA VALENTINE",33.0,20,0.0,0,0.0,53.0,11
+"Novice, N:JR RIDER","Nanook","ANNA MEDINA",33.0,20,0.0,0,0.0,53.0,11
+"Novice, N:JR RIDER","Quick Silver IV","EMILY MURRER",35.5,0,20.0,0,0.0,55.5,13
+"Novice, N:JR RIDER","Winchester VII","CHLOE LALONDE",38.0,20,0.8,0,0.0,58.8,14
+"Novice, N:JR RIDER","Tolar **","JENNIFER GRAHAM",37.5,20,0.0,4,0.0,61.5,15
+"Novice, N:JR RIDER","Kilbarry Hope","ERICA C. STANCLIFF",33.5,20,0.0,12,0.0,65.5,16
+"Novice, N:JR RIDER","Joie De Vivre","LANIE PETERSON",53.0,20,17.6,0,0.0,90.6,17
+"Novice, N:JR RIDER","Lira","TALIA M. GOSHAY",38.0,60,0.0,0,0.0,98.0,18
+"Novice, N:JR RIDER","Top O' The Morning","ABIGAIL HART",50.0,60,0.0,8,9.0,127.0,19
+"Novice, N:JR RIDER","Another Toy","AMY SLOAN",30.0,0,0.0,0,0.0,30.0,E
+"Novice, N:JR RIDER","Splash **","JENAI M. GARCIA",34.0,0,0.0,0,0.0,34.0,E
+"Novice, N:JR RIDER","The Party's Over","HEATHER M. WINTERS",41.0,0,0.0,0,0.0,41.0,E
+"Novice, N:JR RIDER","Rocket **","LAURA JASSOWSKI",33.0,0,0.0,4,4.0,41.0,E
+"Novice, N:JR RIDER","Huckleberry Finn III","COURTNEY GOTFRIED",49.5,0,0.0,8,0.0,57.5,E
+"Novice, N:OPEN","Isabella","JENNIFER WOOTEN - MACOUZET",27.5,0,0.0,0,0.0,27.5,1
+"Novice, N:OPEN","Lexington III","ATHENA HALL",31.5,0,0.0,0,0.0,31.5,2
+"Novice, N:OPEN","Kilduggan","BIRGIT BYERS",31.5,0,0.0,0,0.0,31.5,3
+"Novice, N:OPEN","Panderetta","JENINA SEGALE",27.0,0,0.0,8,0.0,35.0,4
+"Novice, N:OPEN","Buzz Lightfoot","GIGI (GAY G.) SCHOFIELD",33.0,0,2.8,0,0.0,35.8,5
+"Novice, N:OPEN","Cuchulainn","GIGI (GAY G.) SCHOFIELD",36.0,0,0.0,0,0.0,36.0,6
+"Novice, N:OPEN","Impish Grin","TERESA KOROL",35.0,0,2.0,0,0.0,37.0,7
+"Novice, N:OPEN","Irish Brew II","JENNIFER HECKENDORN",37.5,0,0.0,0,0.0,37.5,8
+"Novice, N:OPEN","Literal Scholar","GINA M. SHAMAN",37.0,0,0.0,8,3.0,48.0,9
+"Novice, N:OPEN","Wellington VI","JENNIFER WOOTEN - MACOUZET",30.5,20,0.0,4,7.0,61.5,10
+"Novice, N:OPEN","Scout IV","JILL OLSON",48.0,20,0.0,0,1.0,69.0,11
+"Novice, N:OPEN","Galen IV","FRANCES M. ANDERSON",31.0,40,0.0,0,0.0,71.0,12
+"Novice, N:OPEN","Clover Creek","SUSAN FREDERICKS",32.5,40,0.0,8,0.0,80.5,13
+"Novice, N:OPEN","ERISA Marveles","DAVID ADAMO",30.5,40,8.8,12,12.0,103.3,14
+"Novice, N:SR RIDER A","Immanuel","ELISABETH S. BRINTON",31.0,0,0.0,0,0.0,31.0,1
+"Novice, N:SR RIDER A","Cartier","BROOKE GIBSON",37.0,0,0.0,4,0.0,41.0,2
+"Novice, N:SR RIDER A","Charbonneau","KATHY MAYLIN",40.5,0,0.0,0,3.0,43.5,3
+"Novice, N:SR RIDER A","Rainey","THERESA SIMMONS",38.5,0,0.0,4,3.0,45.5,4
+"Novice, N:SR RIDER A","Leben","CLARE FRIEDMAN",51.0,0,0.0,4,0.0,55.0,6
+"Novice, N:SR RIDER A","Saturninus","CHERIE BAYLIS",30.5,20,8.4,0,0.0,58.9,7
+"Novice, N:SR RIDER A","Fatamorgana","MATTHEW B. WALLEY",31.0,0,0.0,4,0.0,35.0,E
+"Novice, N:SR RIDER A","Checotah","CHERI TINNEY",37.0,0,0.0,0,0.0,37.0,E
+"Novice, N:SR RIDER A","Sargeant Major **","BETH SLIKAS",34.5,0,0.0,4,0.0,38.5,E
+"Novice, N:SR RIDER A","Bailey Grey","MICHAEL R. THOMAS",38.5,0,0.0,0,0.0,38.5,E
+"Novice, N:SR RIDER B","General Lee II","KRISTINE HEGGLIN",26.5,0,0.0,4,0.0,30.5,1
+"Novice, N:SR RIDER B","Atlas II","ANNE AHLMAN",30.0,0,0.0,4,0.0,34.0,2
+"Novice, N:SR RIDER B","Urturntodance","MARY E. REESE",34.0,0,0.0,0,0.0,34.0,3
+"Novice, N:SR RIDER B","Classic Roman","REBECCA NAEVE",34.0,0,0.0,0,0.0,34.0,4
+"Novice, N:SR RIDER B","Fin Pret","TICIEN SASSOUBRE",37.0,0,0.0,0,0.0,37.0,5
+"Novice, N:SR RIDER B","Sweet Reason","VICTORIA KLEIN",40.0,0,0.0,0,0.0,40.0,6
+"Novice, N:SR RIDER B","The Perfect Storm II","EILEEN W. MORGENTHALER",32.0,20,0.0,4,0.0,56.0,7
+"Novice, N:SR RIDER B","Kinsale","ANNIE J. SCHMIDT",34.5,0,0.0,0,0.0,34.5,E
+"Beginner Novice, BN:JR RIDER","Over the Moon","GEORGIA THOMAS",34.0,0,0.0,0,0.0,34.0,1
+"Beginner Novice, BN:JR RIDER","Letrista","CARINA BERLIN",31.0,0,0.0,4,0.0,35.0,2
+"Beginner Novice, BN:JR RIDER","Chase Me Charlie","KELLY A. LORIA",42.0,0,0.0,0,0.0,42.0,3
+"Beginner Novice, BN:OPEN","Giaconda","HONOR FULLERTON STONE",35.0,0,0.0,0,0.0,35.0,1
+"Beginner Novice, BN:OPEN","Ragazzo","JULIE MANDLE",43.0,0,0.0,0,0.0,43.0,2
+"Beginner Novice, BN:SR RIDER","Sebastian XIII","ANNETTE CHOLON SIEGEL",39.5,0,9.2,0,1.0,49.7,1
+"Beginner Novice, BN:SR RIDER","Notorious","TERRI C. TERRY",42.0,0,7.6,0,2.0,51.6,2
+"Beginner Novice, BN:SR RIDER","Limerick","KIRSTIN HILL",45.5,0,7.2,0,0.0,52.7,3
+"Beginner Novice, BN:SR RIDER","Rare Echo","STEVE ROON",49.0,20,3.2,0,0.0,72.2,4

@@ -1,0 +1,80 @@
+---
+title: "cleaning"
+format: html
+editor: source
+---
+
+```{r}
+library(tidyverse)
+library(readr)
+library(stringr)
+
+```
+
+
+loop through and combine all datasets into one
+```{r}
+file_list <- list.files(path = c("data/woodside"), pattern = "\\.txt$", full.names = TRUE)
+data_list <- list()
+
+library(foreach)
+library(dplyr)
+
+final_data <- foreach(current_file = file_list, .combine = 'bind_rows') %do% {
+  
+  # The fix: set row.names = NULL and header = TRUE
+  df <- read.csv(current_file, 
+                 header = TRUE,
+                 row.names = NULL, 
+                 stringsAsFactors = FALSE, 
+                 check.names = FALSE) # check.names=FALSE prevents mangling XC_Jump_Pen
+  
+  # IMPORTANT: When row.names = NULL, read.csv sometimes shifts 
+  # columns to the right. We fix the column names here:
+  if(colnames(df)[1] == "row.names") {
+    colnames(df) <- colnames(df)[2:length(colnames(df))]
+    df <- df[, 1:(ncol(df)-1)]
+  }
+  
+  # Add the filename column using the tool that handles extensions
+  df$event_info <- tools::file_path_sans_ext(basename(current_file))
+  
+  df
+}
+
+
+
+for (i in seq_along(file_list)) {
+ 
+   current_file <- file_list[1]
+  
+  df <- read.csv(current_file, 
+               stringsAsFactors = FALSE, 
+               check.names = TRUE)
+  
+  # Add the filename column
+  df <- df %>% 
+    mutate(event_info = basename(current_file))
+  
+  df$event_info <- basename(current_file)
+  
+  # Store it in our list
+  data_list[[i]] <- df
+  
+  # Optional: Print progress
+  message(paste("Processed file", i, "of", length(file_list)))
+}
+
+# 3. Combine and Save
+# bind_rows is significantly faster than do.call(rbind, ...)
+final_data <- bind_rows(data_list)
+
+write_csv(final_data, "data/woodside_combined_data.csv")
+```
+
+
+keep only training, prelim, and modified
+
+
+
+

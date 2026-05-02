@@ -1,0 +1,235 @@
+Division,Horse,Rider,Dressage,XC_Jump_Pen,XC_Time_Pen,SJ_Jump_Pen,SJ_Time_Pen,Final_Score,Rank
+"Intermediate, OI","Quito 10","DEBORAH ROSEN",41.0,0,23.2,0,1.0,65.2,1
+"Intermediate, OI","Merlin XV","ANNE LINDLEY",36.5,0,20.4,4,5.0,65.9,2
+"Intermediate, OI","Lady Calido","YVES SAUVIGNON",34.0,20,9.2,4,0.0,67.2,3
+"Intermediate, OI","Killian O'Connor","JOLIE WENTWORTH",38.0,20,10.4,0,0.0,68.4,4
+"Intermediate, OI","Balabooga Brawley","GREGORY STRITZEL",42.5,20,6.4,4,0.0,72.9,5
+"Intermediate, OI","Outlawed","JENNIFER T. KELLY",42.0,0,29.2,0,5.0,76.2,6
+"Intermediate, OI","Audacity","KEVIN BAUMGARDNER",46.5,20,20.4,0,0.0,86.9,7
+"Intermediate, OI","Oh Good Grief","DAVID ADAMO",41.5,20,14.0,12,0.0,87.5,8
+"Intermediate, OI","NZ Swag","ASIA H. VEDDER",38.0,20,26.4,12,5.0,101.4,9
+"Intermediate, OI","Logan","COURTNEY LEONARD",36.0,40,20.0,0,6.0,102.0,10
+"Intermediate, OI","Malik","JAMIE LAWRENCE",38.5,60,19.6,0,0.0,118.1,11
+"Intermediate, OI","Indego","JENNIFER T. KELLY",37.5,40,32.4,8,4.0,121.9,12
+"Intermediate, OI","Teddy","CARRIE CARSTAIRS",37.0,40,26.0,24,0.0,127.0,13
+"Intermediate, OI","Coolnamara","JAMIE LAWRENCE",36.0,85,36.4,8,0.0,165.4,14
+"Intermediate, OI","Never on Sunday","TIFFANY L. SILVERMAN",36.5,0,0.0,0,0.0,36.5,W
+"Intermediate, OI","Rouge Et Noir","KRISTEN ORTON",40.5,0,0.0,0,0.0,40.5,E
+"Intermediate, OI","Macy","SUSANNE ROWLAND",40.5,0,0.0,0,0.0,40.5,W
+"Intermediate, OI","Abner","BRITT RODEN",42.5,0,0.0,0,0.0,42.5,E
+"Intermediate, OI","Milson's Point","TIFFANY L. SILVERMAN",44.5,0,0.0,0,0.0,44.5,R
+"Intermediate, OI","Easy Strike","MIRA BULLEN",47.0,0,0.0,0,0.0,47.0,E
+"Intermediate, OI","Skywalker IV","ANDREA BAXTER",49.5,0,0.0,0,0.0,49.5,E
+"Intermediate, OI","Hoppi","VICKI MARTINEZ",51.5,0,0.0,0,0.0,51.5,E
+"Preliminary, OP:A","July Fourth","SHANNON P. LILLEY",39.0,0,0.4,0,0.0,39.4,1
+"Preliminary, OP:A","Major Tango","COURTNEY PILLA",34.0,0,4.0,4,0.0,42.0,2
+"Preliminary, OP:A","Napoleon VIII","HEIDI D. MCRAE",44.5,0,0.0,0,0.0,44.5,3
+"Preliminary, OP:A","Cyrus","JENNIFER BRANNIGAN",37.5,0,0.0,8,0.0,45.5,4
+"Preliminary, OP:A","Hockey Pro","GINA ECONOMOU",38.5,0,0.4,8,0.0,46.9,5
+"Preliminary, OP:A","Fly","SHANNON P. LILLEY",36.5,0,5.2,8,0.0,49.7,6
+"Preliminary, OP:A","Horatio","JESSIE DEETER",36.0,0,16.0,4,0.0,56.0,7
+"Preliminary, OP:A","Dextrarius","KEVIN BAUMGARDNER",41.5,0,14.8,4,0.0,60.3,8
+"Preliminary, OP:A","Quaver","SOFIA LOMBERA",40.0,0,11.2,12,0.0,63.2,9
+"Preliminary, OP:A","Splendorofthesun","NATALIE BRADY",43.5,0,18.0,8,0.0,69.5,10
+"Preliminary, OP:A","Cowboy IV","JENNIFER T. KELLY",42.0,0,24.8,4,1.0,71.8,11
+"Preliminary, OP:A","ERISA Edward Jordan","DAVID ADAMO",32.0,20,25.6,0,1.0,78.6,12
+"Preliminary, OP:A","Havarah's Charly","MOLLY S. KINNAMON",31.0,60,42.0,0,0.0,133.0,13
+"Preliminary, OP:A","Bentley X","EARL MCFALL",36.5,0,0.0,0,0.0,36.5,E
+"Preliminary, OP:A","Romulus","NICHOLAS CWICK",37.0,0,0.0,0,0.0,37.0,E
+"Preliminary, OP:A","Estrella","ANDREA BAXTER",43.0,0,0.0,0,0.0,43.0,W
+"Preliminary, OP:B","Kildare Cavalier","DEREK DI GRAZIA",33.5,0,0.0,0,0.0,33.5,1
+"Preliminary, OP:B","Silver Spring","BETH MAHON BROWN",28.0,0,2.0,4,0.0,34.0,2
+"Preliminary, OP:B","Super Mouse","NICOLE MERCHAIN",34.5,0,13.6,4,0.0,52.1,3
+"Preliminary, OP:B","Winston XV","SHANNON P. LILLEY",44.5,0,1.2,8,0.0,53.7,4
+"Preliminary, OP:B","State Bank","ASHLEY HANNA",40.5,0,0.0,8,10.0,58.5,5
+"Preliminary, OP:B","My Name's Not Pete","LISA FISHBACK","42.00",0,15.6,12,1.0,70.6,6
+"Preliminary, OP:B","Galaxy","CARRIE CARSTAIRS",36.5,20,11.2,8,0.0,75.7,7
+"Preliminary, OP:B","Kilberry Up Grade","KELLY PRATHER",38.0,20,12.4,8,0.0,78.4,8
+"Preliminary, OP:B","Jass","KATHERINE SULZBACH",37.0,20,23.6,0,0.0,80.6,9
+"Preliminary, OP:B","Am'Or De Soie","BRITTANY AMES",36.5,40,31.6,8,17.0,133.1,10
+"Preliminary, OP:B","Copper Colleen","YVES SAUVIGNON",34.5,80,20.0,4,0.0,138.5,11
+"Preliminary, OP:B","FDF Riverina","SUSANNA HOLDER",31.5,0,0.0,0,0.0,31.5,E
+"Preliminary, OP:B","High Tower","JOHN MICHAEL DURR",37.5,0,1.2,0,0.0,38.7,E
+"Preliminary, OP:B","Senor Playboy","SUSANNE ROWLAND",41.5,0,0.0,0,0.0,41.5,E
+"Preliminary, P:RIDER","So Long As It's Red","SHAWN M. POWERS",36.5,0,8.0,0,0.0,44.5,1
+"Preliminary, P:RIDER","Dantonesque","KAYLA BIRD",38.0,0,2.4,8,0.0,48.4,2
+"Preliminary, P:RIDER","Savoy Six","KIMBERLY KASLOW",40.5,0,5.2,4,0.0,49.7,3
+"Preliminary, P:RIDER","Killian III","ERIN WILEY",40.0,0,11.6,4,0.0,55.6,4
+"Preliminary, P:RIDER","Sydney Tett","EMILY HENDRICK",48.5,0,18.4,0,0.0,66.9,5
+"Preliminary, P:RIDER","Finnegan's Wake","MAGGIE BRONSON",54.5,0,10.4,4,0.0,68.9,6
+"Preliminary, P:RIDER","Seamus III","JESSICA HILLER",41.0,0,22.8,4,2.0,69.8,7
+"Preliminary, P:RIDER","First Rate","MEG FINN",45.0,20,16.0,12,0.0,93.0,8
+"Preliminary, P:RIDER","San Salvador","FIONA ALLEN",26.5,0,58.8,12,2.0,99.3,9
+"Preliminary, P:RIDER","Latest Release","KAREN RIZZOLI",46.5,20,38.4,4,3.0,111.9,10
+"Preliminary, P:RIDER","Will Power","TRACY JAMES",39.0,0,0.0,0,0.0,39.0,E
+"Preliminary, P:RIDER","Clarissa","ALICIA TOOMBS",49.5,0,0.0,0,0.0,49.5,E
+"Training, OT:A","O'Ricardo","BEA DI GRAZIA",33.0,0,0.0,0,0.0,33.0,1
+"Training, OT:A","Fandango IV","MICHLYNN STERLING",34.0,0,0.0,0,0.0,34.0,2
+"Training, OT:A","Get Shorty","BETH BARKER",34.5,0,0.0,0,0.0,34.5,3
+"Training, OT:A","Lazydaznmiracleways","DAVID W. ACORD",38.5,0,0.0,0,0.0,38.5,4
+"Training, OT:A","Classique Kiss","LAURA FURNISS",39.5,0,1.2,0,0.0,40.7,5
+"Training, OT:A","Xtreme","HOLLY FOX",38.5,0,0.0,8,0.0,46.5,6
+"Training, OT:A","Resolute III","MEGAN GASTEL",38.0,0,0.0,16,0.0,54.0,7
+"Training, OT:A","High Patriot","JOHN MICHAEL DURR",38.5,0,21.6,4,0.0,64.1,8
+"Training, OT:A","Insluciant","MOLLY GASIEWICZ",45.0,0,0.0,4,16.0,65.0,9
+"Training, OT:A","Rail Man","NATALIE BRADY",39.0,20,7.2,4,2.0,72.2,10
+"Training, OT:A","Atlantis","ILDIKO HITES",36.0,20,18.0,0,0.0,74.0,11
+"Training, OT:A","Barn Burner","GINA ECONOMOU",42.5,20,14.0,0,0.0,76.5,12
+"Training, OT:A","Le Soldat Sur (Soldier On)","SUMMER COGAN",43.0,0,0.0,20,23.0,86.0,13
+"Training, OT:A","Razor's Edge","SILVIA SZABO",35.5,60,32.4,0,0.0,127.9,14
+"Training, OT:A","The Bachelor","VALERIE FERRARO",29.5,0,0.0,0,0.0,29.5,E
+"Training, OT:A","Makers Mark","MOLLY S. KINNAMON",33.5,0,0.0,0,0.0,33.5,E
+"Training, OT:A","What Where","ANN E. BYRON",50.5,0,0.0,0,0.0,50.5,E
+"Training, OT:A","La Femme Nikita","MARYANN SIMMONS",40.5,80,24.8,0,0.0,145.3,W
+"Training, OT:B","Lad's Night Out","BEA DI GRAZIA",31.0,0,0.0,0,0.0,31.0,1
+"Training, OT:B","Ever After","LISA SABO",32.0,0,0.0,0,0.0,32.0,2
+"Training, OT:B","Oceaner","DEREK DI GRAZIA",34.5,0,0.0,0,0.0,34.5,3
+"Training, OT:B","Cat Tracks","ALEXANDRA KNOWLES",37.5,0,0.0,0,0.0,37.5,4
+"Training, OT:B","Vertigo II","LAUREN G. BURNELL",38.0,0,0.0,0,0.0,38.0,5
+"Training, OT:B","Kanan","MARIAH DE NIJS",35.5,0,0.0,4,0.0,39.5,6
+"Training, OT:B","Keen Eddie","TARA E. RICHARDSON",36.5,0,0.0,4,0.0,40.5,7
+"Training, OT:B","Una","JIL WALTON",33.0,0,0.0,8,0.0,41.0,8
+"Training, OT:B","Gulliver VI","PAIGE HELLER",35.0,0,0.0,8,0.0,43.0,9
+"Training, OT:B","Watseka","ERIN R. KELLERHOUSE",39.0,0,1.2,4,0.0,44.2,10
+"Training, OT:B","Fiat Lux","LINDSAY CONNORS",40.5,0,3.2,4,0.0,47.7,11
+"Training, OT:B","Dillon","SHANNON P. LILLEY",40.5,0,0.0,8,0.0,48.5,12
+"Training, OT:B","Mastercopy","LAURA FURNISS",35.5,0,0.0,8,7.0,50.5,13
+"Training, OT:B","Why Not","MICHELLE TONKS",49.5,20,1.6,4,0.0,75.1,14
+"Training, OT:B","Direct Venture","COURTNEY PILLA",52.0,20,11.2,16,0.0,99.2,15
+"Training, OT:B","Gryffindor V","ANN E. BYRON",39.0,0,0.0,0,0.0,39.0,E
+"Training, OT:B","Dominik","MEGAN GASTEL",45.5,0,0.0,0,0.0,45.5,E
+"Training, T:RIDER JR","Hula Moon","EMMA A. GROVES",34.5,0,0.0,0,0.0,34.5,1
+"Training, T:RIDER JR","MacJordan","KRISTI B. FORESMAN",32.5,0,0.0,4,0.0,36.5,2
+"Training, T:RIDER JR","Seacrest","KIMBERLY KASLOW",37.5,0,0.0,0,0.0,37.5,3
+"Training, T:RIDER JR","Smarty Pants","HEIDI STEINMAN",34.0,0,0.0,4,0.0,38.0,4
+"Training, T:RIDER JR","Miss July","SHAE SMOOT",34.5,0,0.0,4,0.0,38.5,5
+"Training, T:RIDER JR","Hugo","JOHNITA LANNI-CRADIT",33.0,0,0.0,8,0.0,41.0,6
+"Training, T:RIDER JR","Shane's Friend","JENNA D. FREITAS",34.5,0,0.0,8,0.0,42.5,7
+"Training, T:RIDER JR","Spotless","ALEXANDRA CHOU",34.0,0,2.4,4,3.0,43.4,8
+"Training, T:RIDER JR","Dressed Up James","SADIE GEERNAERT",38.0,0,2.0,4,0.0,44.0,9
+"Training, T:RIDER JR","Another One","JOHN D. GRIFFIN",38.0,0,0.0,8,0.0,46.0,10
+"Training, T:RIDER JR","Gaelic Blessing","NINA MOODY",35.5,0,0.0,12,0.0,47.5,11
+"Training, T:RIDER JR","Silver Streak","SARA UMPHENOUR",32.0,20,0.0,0,0.0,52.0,12
+"Training, T:RIDER JR","Sammy Dazzler","KAYLEEN P. CROWLEY",32.0,20,0.0,0,0.0,52.0,12
+"Training, T:RIDER JR","Slowly But Shirley","MEGHAN S. NEWTON",44.5,0,0.0,4,7.0,55.5,14
+"Training, T:RIDER JR","Texas Ranger","LAUREN BILLYS",37.5,0,6.4,20,16.0,79.9,15
+"Training, T:RIDER JR","Pluto","TRISHA JARACZ",26.5,40,18.0,0,0.0,84.5,16
+"Training, T:RIDER JR","Scout IV","MIRANDA REDMOND",43.5,40,28.8,8,0.0,120.3,17
+"Training, T:RIDER JR","Sweet Griffin","CHRISTINA M. AGUET",32.5,0,0.0,0,0.0,32.5,E
+"Training, T:RIDER JR","Hagrid III","KATRINA YOUNG",41.5,0,0.0,0,0.0,41.5,W
+"Training, T:RIDER JR","Jenny Go Lightly","JAKE FERNANDEZ",47.5,145,42.4,0,0.0,234.9,E
+"Training, T:RIDER SR","Toshack","LISA J. WONG",42.5,0,0.0,0,0.0,42.5,1
+"Training, T:RIDER SR","Cabriolet","JESSICA WARTER",39.0,0,0.0,4,0.0,43.0,2
+"Training, T:RIDER SR","Top Contender","KEALY MCINTURFF",43.5,0,0.0,0,0.0,43.5,3
+"Training, T:RIDER SR","Arizona Blue","DAWN ROBBINS",39.5,0,0.0,4,0.0,43.5,4
+"Training, T:RIDER SR","Cimarron","DEBBIE DAVIS",28.0,0,0.0,16,0.0,44.0,5
+"Training, T:RIDER SR","EMR Windchester","KATIE KLOOSTER",42.0,0,0.0,4,0.0,46.0,6
+"Training, T:RIDER SR","By Jove","EILEEN O'FARRELL",46.0,0,0.0,0,0.0,46.0,7
+"Training, T:RIDER SR","Avatar","TERENCE F. SAVORY",43.5,0,0.0,4,0.0,47.5,8
+"Training, T:RIDER SR","Flying Dutchman","KRISTEN BUSBY",43.5,0,0.0,4,0.0,47.5,8
+"Training, T:RIDER SR","Do It Exact","CINDI MORAVEC",46.5,0,0.0,0,1.0,47.5,8
+"Training, T:RIDER SR","Vinny Can Go","RUTH BLEY",52.0,0,0.0,4,0.0,56.0,11
+"Training, T:RIDER SR","Oakengrove Peter H","ERIN WILDE",40.5,20,7.2,0,0.0,67.7,12
+"Training, T:RIDER SR","Beaujolais","DEDE MCCOY",34.5,20,24.0,0,0.0,78.5,13
+"Training, T:RIDER SR","General Gonzo","CONNIE BAXTER",45.5,20,20.8,0,4.0,90.3,14
+"Training, T:RIDER SR","Big Red II","ALEXANDRIA PAUL",36.0,20,11.2,20,21.0,108.2,15
+"Training, T:RIDER SR","HHA Tu Bask","TIFFANY DAWSON",41.0,40,5.2,12,28.0,126.2,16
+"Training, T:RIDER SR","Nijinski","STEWART B. KATZEN",49.5,60,29.2,0,0.0,138.7,17
+"Training, T:RIDER SR","Colin Me Crazy","ELISABETH A. MEHNER",45.0,80,38.0,0,0.0,163.0,18
+"Training, T:RIDER SR","V.E. Fantasia","SANDY BOLING",43.5,0,0.0,0,0.0,43.5,R
+"Training, T:RIDER SR","Irish Brogue","LINDA L. DUBEE",46.0,0,0.0,0,0.0,46.0,R
+"Novice, N:RIDER JR A","Abraham Darby","KATHERINE FRANCHINI",36.0,0,0.0,0,0.0,36.0,1
+"Novice, N:RIDER JR A","Caught Red Handed","RACHEL ROBERTSON-HINDMAN",36.5,0,0.0,0,0.0,36.5,2
+"Novice, N:RIDER JR A","Time to Chime","ASHLEIGH GUICH",35.0,0,0.0,0,2.0,37.0,3
+"Novice, N:RIDER JR A","Johnny Reb","KATHRYN DUBBS",43.0,0,0.0,0,0.0,43.0,4
+"Novice, N:RIDER JR A","Starstrukk","KAELA M. SULLIVAN",43.5,0,0.0,0,0.0,43.5,5
+"Novice, N:RIDER JR A","Marius","MELANIE HENDERSON",31.0,20,0.0,0,0.0,51.0,6
+"Novice, N:RIDER JR A","Never Late For Honey","RACHEL COLEMAN-HUNT",36.0,0,0.0,4,13.0,53.0,7
+"Novice, N:RIDER JR A","V.E. Copperopolis","CELINE PURCELL",45.0,0,8.8,0,0.0,53.8,8
+"Novice, N:RIDER JR A","Emerald Atlas","ASHLEY J. BROWN",42.5,20,0.0,0,0.0,62.5,9
+"Novice, N:RIDER JR A","V.E. Sweet Emotion","STEFANIE KRAL",36.0,20,0.0,4,4.0,64.0,10
+"Novice, N:RIDER JR A","Segway","JESTINE BUTTS",39.0,40,9.2,4,15.0,107.2,11
+"Novice, N:RIDER JR A","Windsor VII","HAYLEY ANNE M. MORGAN",29.5,0,0.0,0,0.0,29.5,E
+"Novice, N:RIDER JR B","Hi Ho Silver","AMY FOX",33.0,0,0.0,0,0.0,33.0,1
+"Novice, N:RIDER JR B","Prestiges Town Gypsy","STEFANIE SCHLIEF",34.5,0,0.0,0,0.0,34.5,2
+"Novice, N:RIDER JR B","V.E. Alli-oop","CHRISTINA WHITE",34.0,0,0.8,0,0.0,34.8,3
+"Novice, N:RIDER JR B","Let 'm Roll","KATHLEEN SIMON",35.0,0,0.0,0,0.0,35.0,4
+"Novice, N:RIDER JR B","Sirius Black III","KAYLA MULLER",35.5,0,0.0,0,0.0,35.5,5
+"Novice, N:RIDER JR B","Tolar **","JULIANA C. CRUZ",35.5,0,0.0,4,0.0,39.5,6
+"Novice, N:RIDER JR B","My Sha Roan Nah","MEGAN K. LAUGHTON",36.0,0,0.0,4,0.0,40.0,7
+"Novice, N:RIDER JR B","Page In Review","CHRISTIN AGRESTA",41.5,0,0.0,0,0.0,41.5,8
+"Novice, N:RIDER JR B","Wave Edition","SARAH MANNING",41.5,0,0.0,0,0.0,41.5,8
+"Novice, N:RIDER JR B","Marge the Barge","ALEXANDRIA BELL",37.5,0,0.0,4,0.0,41.5,8
+"Novice, N:RIDER JR B","V.E. Jack of Hearts","MAGGIE TREVITHICK",38.0,20,0.0,0,0.0,58.0,11
+"Novice, N:RIDER JR B","Matrix III","KEITH MALLETT",39.0,20,0.0,4,0.0,63.0,12
+"Novice, N:RIDER JR B","Synergy","MADISON M. LONG",43.5,0,17.6,4,0.0,65.1,13
+"Novice, N:RIDER JR B","Diplomatic King","SHAYNA FIELDS",37.0,60,0.0,0,1.0,98.0,14
+"Novice, N:RIDER JR B","Cutamo","JESTINE BUTTS",32.5,0,0.0,0,0.0,32.5,E
+"Novice, N:RIDER JR B","Jump Start III (Zoe)","JAIME MOFFITT",41.5,0,0.0,4,0.0,45.5,E
+"Novice, N:RIDER SR","Cinderella Man","SONEE K. ARCE",33.5,0,0.0,0,0.0,33.5,1
+"Novice, N:RIDER SR","Sweet Reason","VICTORIA KLEIN",36.5,0,0.0,0,0.0,36.5,2
+"Novice, N:RIDER SR","General Lee II","KRISTINE HEGGLIN",33.0,0,0.0,4,0.0,37.0,3
+"Novice, N:RIDER SR","Saturninus","CHERIE BAYLIS",36.0,0,0.0,0,1.0,37.0,4
+"Novice, N:RIDER SR","Windklasse","MEGHAN GEILHUFE",39.5,0,0.0,0,0.0,39.5,5
+"Novice, N:RIDER SR","Ready To Rhumba","SANDRA JOHNSON",41.0,0,0.0,0,0.0,41.0,6
+"Novice, N:RIDER SR","Sonoma","NICOLE MUSHKIN",39.0,0,0.0,4,0.0,43.0,7
+"Novice, N:RIDER SR","Fuerst Fenomenon","MATTHEW B. WALLEY",37.0,20,0.0,0,0.0,57.0,8
+"Novice, N:RIDER SR","Atlas II","ANNE AHLMAN",37.0,20,0.0,0,0.0,57.0,8
+"Novice, N:RIDER SR","Come Monday","SARAH PLEP",38.5,20,0.0,0,0.0,58.5,10
+"Novice, N:RIDER SR","Classic Roman","REBECCA NAEVE",35.5,20,0.0,4,0.0,59.5,11
+"Novice, N:RIDER SR","Naz's Last Chance","TERRY HILST",42.0,20,0.0,4,0.0,66.0,12
+"Novice, N:RIDER SR","The Lady's Man","KIM POESE",39.5,20,0.0,4,7.0,70.5,13
+"Novice, N:RIDER SR","Marreksh Express","NICOLE HAMILTON",53.5,0,0.0,12,5.0,70.5,13
+"Novice, N:RIDER SR","The Perfect Storm II","EILEEN W. MORGENTHALER",37.0,60,0.0,0,0.0,97.0,15
+"Novice, N:RIDER SR","Miss Me **","SUZANNE BROCK",57.0,20,10.4,4,11.0,102.4,16
+"Novice, N:RIDER SR","Odolus","JOAN HANKIN",37.5,85,10.8,0,0.0,133.3,17
+"Novice, N:RIDER SR","Gallahad II","LINDA K. BETTS",35.5,80,14.4,4,0.0,133.9,18
+"Novice, N:RIDER SR","Kinsale","ANNIE J. SCHMIDT",39.0,0,0.0,0,0.0,39.0,E
+"Novice, N:RIDER SR","Born To Rock","CATHLEEN STARK",39.5,0,0.0,0,0.0,39.5,E
+"Novice, N:RIDER SR","Morris **","MAGUY PALLUEL",35.0,0,0.0,12,10.0,57.0,E
+"Novice, ON","Prinzess Pia","PAT MCFARLAND",26.5,0,0.0,0,0.0,26.5,1
+"Novice, ON","Aragorn III","YVES SAUVIGNON",28.5,0,0.0,0,0.0,28.5,2
+"Novice, ON","Wolke","GABRIELLE M. GONI",26.0,0,5.2,0,0.0,31.2,3
+"Novice, ON","Really A Dancer","MARJORIE A. MOLLOY",30.5,0,0.8,0,0.0,31.3,4
+"Novice, ON","Henry Hudson","JIL WALTON",29.5,0,0.0,4,0.0,33.5,5
+"Novice, ON","Check In","NATALIE BRADY",34.0,0,0.0,0,0.0,34.0,6
+"Novice, ON","Billy White Shoes","JOSH BARNACLE",35.5,0,0.0,0,0.0,35.5,7
+"Novice, ON","Bartok SLR","GINA ECONOMOU",36.0,0,0.0,0,0.0,36.0,8
+"Novice, ON","Joey VI","NICHOLAS CWICK",36.5,0,0.0,0,0.0,36.5,9
+"Novice, ON","Crooked River","ALEXANDRIA GOFF",37.0,0,0.0,0,0.0,37.0,10
+"Novice, ON","Loyalty Counts","MICHAEL J. MEHNER",42.0,0,0.0,0,0.0,42.0,11
+"Novice, ON","Stormin' Norman III","GRETCHEN FORREY",44.5,0,0.0,0,0.0,44.5,12
+"Novice, ON","Bohem","ILDIKO HITES",23.0,20,5.2,0,0.0,48.2,13
+"Novice, ON","Runs with Scissors","BRITTANY AMES",29.0,20,0.0,0,0.0,49.0,14
+"Novice, ON","Gringosch","KARA KASK",36.0,0,16.4,0,0.0,52.4,15
+"Novice, ON","Masai","VANESSA FULLER",35.0,20,0.0,0,0.0,55.0,16
+"Novice, ON","Joyfull **","JOLIE WENTWORTH",41.0,0,26.4,0,5.0,72.4,17
+"Novice, ON","Holisko","LISA SABO",24.5,40,16.4,0,0.0,80.9,18
+"Novice, ON","Charmed (Kerry)","MICHLYNN STERLING",24.5,0,0.0,0,0.0,24.5,E
+"Novice, ON","Cimpatico","JIM DAVIS",38.0,0,0.0,0,0.0,38.0,E
+"Novice, ON","Eddie Be Ready","ERIN WILEY",38.0,0,0.0,0,0.0,38.0,E
+"Novice, ON","Outta' Hand","GINA ECONOMOU",45.0,0,0.0,0,0.0,45.0,E
+"Beginner Novice, BN:OPEN","Maseratti","WHITNEY TUCKER BILLETER",33.5,0,0.4,0,0.0,33.9,1
+"Beginner Novice, BN:OPEN","Kudos","ILDIKO HITES",29.5,40,42.0,4,0.0,115.5,6
+"Beginner Novice, BN:OPEN","Sir Gatrock","EMO HITES",37.0,165,34.0,0,0.0,236.0,7
+"Beginner Novice, BN:OPEN","Dynameis","DEBBIE A. PORT",33.0,0,0.0,20,0.0,53.0,R
+"Beginner Novice, BN:RIDER JR A","Nanook","ANNA MEDINA",32.0,0,0.0,0,0.0,32.0,1
+"Beginner Novice, BN:RIDER JR A","Salamis Salome","ZANDRA M. WILKERSON",37.5,0,0.0,4,0.0,41.5,4
+"Beginner Novice, BN:RIDER JR A","Budweiser Babe","VICTORIA HOWE",45.5,0,0.0,0,0.0,45.5,7
+"Beginner Novice, BN:RIDER JR A","Ave Maria","SOPHIE BIFFAR",39.5,0,0.0,4,3.0,46.5,8
+"Beginner Novice, BN:RIDER JR A","Orchard Hills Ganganan","NICOLE AVANT",47.0,0,5.2,0,0.0,52.2,9
+"Beginner Novice, BN:RIDER JR A","Cebastian","REBECCA DAVIS MISS",42.0,40,9.6,12,1.0,104.6,13
+"Beginner Novice, BN:RIDER JR B","Custom Paint Job","CLAIRE O'CONNELL",31.5,0,0.0,4,1.0,36.5,2
+"Beginner Novice, BN:RIDER JR B","Over the Moon","GEORGIA THOMAS",35.0,0,7.6,4,0.0,46.6,7
+"Beginner Novice, BN:RIDER JR B","Pebble Springs","ERIN D. LYNCH",49.0,0,0.0,4,0.0,53.0,9
+"Beginner Novice, BN:RIDER JR B","Clover Creek","JULIA WARTER",30.0,0,0.0,0,0.0,30.0,E
+"Beginner Novice, BN:RIDER JR B","Glory Bound","COURTNEY KENNEDY",26.0,0,0.0,12,48.0,86.0,E
+"Beginner Novice, BN:RIDER SR","Kilduggan","BIRGIT BYERS",37.5,0,0.0,0,0.0,37.5,1
+"Beginner Novice, BN:RIDER SR","Paddy O'Furniture","SUSAN ALTMAN",34.0,0,0.0,4,0.0,38.0,2
+"Beginner Novice, BN:RIDER SR","Counselor","LORA HELLER",36.0,0,0.0,0,5.0,41.0,3
+"Beginner Novice, BN:RIDER SR","Royal Dagger","MIA MACPHAIL",46.5,20,0.0,0,0.0,66.5,8
+"Beginner Novice, BN:RIDER SR","My Seven Bars Elliot","ISABELLE J. FRANCHINI",33.5,60,0.0,0,0.0,93.5,9
+"Beginner Novice, BN:RIDER SR","Notorious","TERRI C. TERRY",46.5,40,42.0,0,0.0,128.5,11
+"Beginner Novice, BN:RIDER SR","Cartier","BROOKE GIBSON",25.5,0,0.0,4,5.0,34.5,E
+"Beginner Novice, BN:RIDER SR","Fatamorgana","MATTHEW B. WALLEY",31.0,0,0.0,4,0.0,35.0,E
+"Beginner Novice, BN:RIDER SR","Im Finely Smitten","CAT D. DUBBS",45.5,0,0.0,0,0.0,45.5,E

@@ -1,0 +1,326 @@
+Division,Horse,Rider,Dressage,XC_Jump,XC_Time,SJ_Jump,SJ_Time,Final_Score,Rank
+"Intermediate OI","Livingstone","HAWLEY BENNETT-AWAD",34.20,0,4.80,0,0.00,39.00,1
+"Intermediate OI","Last Call","ALEXANDRA KNOWLES",39.20,0,3.20,4,0.00,46.40,2
+"Intermediate OI","Rumor Hazit","JULIE A. BOYER",39.20,0,7.59,0,0.00,46.80,3
+"Intermediate OI","Gin & Juice","HAWLEY BENNETT-AWAD",36.20,0,2.79,8,0.00,47.00,4
+"Intermediate OI","Sherwood","LAUREN BROOKE",38.50,0,2.79,8,0.00,49.30,5
+"Intermediate OI","Corner Street","ERIN SERAFINI SPOHR",40.80,0,0.80,8,0.00,49.60,6
+"Intermediate OI","N/A","N/A",43.50,0,9.19,0,0.00,52.70,7
+"Intermediate OI","Splendorofthesun","HAWLEY BENNETT-AWAD",39.60,0,4.01,12,0.00,55.60,8
+"Intermediate OI","Hill Street","SARA UMPHENOUR",44.20,R,R,W,W,R,R
+"Intermediate OI","Rise Against","RUBEN ARCE-IBARRA",48.90,40,28.79,W,W,W,W
+"Intermediate OI","Estrella","ANDREA BAXTER",37.70,HC,HC,HC,HC,HC,HC
+"Intermediate OI","Gallipoli II","TAMRA SMITH",41.20,R,R,W,W,R,R
+"Intermediate OI","Ringwood Magister","TIANA COUDRAY",36.20,R,R,W,W,R,R
+"Intermediate OI","El Capitan","ALICE C. SARNO",52.30,20,10.80,0,E,E,E
+"Intermediate OI","Invictus","MARA NYDES",50.80,R,R,W,W,R,R
+"Intermediate OI","Douglas","SUSAN FREDERICKS",49.20,R,R,W,W,R,R
+"Intermediate OI","Killian III","ERIN WILEY",45.40,20,18.00,0,E,E,E
+"Preliminary OP","R-Star","KRISTI M. NUNNINK",29.60,0,0.00,8,0.00,37.60,1
+"Preliminary OP","Ballingowan Miller","JOHN MICHAEL DURR",38.80,0,0.00,0,0.00,38.80,2
+"Preliminary OP","Good As Gold","JOLIE WENTWORTH",39.60,0,0.80,0,0.00,40.40,3
+"Preliminary OP","Bonza Twist of Fate","ALEXANDRA KNOWLES",33.30,0,0.00,8,0.00,41.30,4
+"Preliminary OP","Tiger III","ERIN R. KELLERHOUSE",34.20,0,0.00,8,0.00,42.20,5
+"Preliminary OP","First Field","ERIN R. KELLERHOUSE",35.00,0,0.00,8,0.00,43.00,6
+"Preliminary OP","Sir Donovan","NICHOLAS CWICK",36.30,0,4.80,4,0.00,45.10,7
+"Preliminary OP","Danny California","KRISTI M. NUNNINK",37.50,0,0.00,8,0.00,45.50,8
+"Preliminary OP","Goodknight","DAVID W. ACORD",43.80,0,6.80,0,0.00,50.60,9
+"Preliminary OP","Tambo Unico","ANNE LINDLEY",39.20,0,4.00,8,0.00,51.20,10
+"Preliminary OP","General Gonzo","ANDREA BAXTER",43.30,0,1.20,8,0.00,52.50,11
+"Preliminary OP","Kennycourt Gambler","KEVIN KRESS",40.40,20,17.60,0,16,94.00,12
+"Preliminary OP","Normandy Soldier","ELSIE PATTERSON",37.50,E,E,W,W,E,E
+"Preliminary OP","P.S. Irish Treasure","AUBURN EXCELL BRADY",36.70,W,W,W,W,W,W
+"Preliminary OP","Tim Buck Two","NICHOLAS CWICK",31.30,E,E,W,W,E,E
+"Preliminary OP","Cyrus","BERT WOOD",47.10,W,W,W,W,W,W
+"Preliminary OP","Country Swing","WANDA L. WEBB",39.60,W,W,W,W,W,W
+"Preliminary OP","High Tower","ADRIENNE HILLAS",37.50,E,E,W,W,E,E
+"Preliminary OPB","Never on Sunday","TIFFANY L. SILVERMAN",29.20,0,0.00,8,0.00,37.20,1
+"Preliminary OPB","Phoenix Secret","JOHN MICHAEL DURR",39.20,0,0.00,4,0.00,43.20,2
+"Preliminary OPB","Hoppi","VICKI MARTINEZ",38.80,0,5.19,0,0.00,44.00,3
+"Preliminary OPB","Kilkenny Gold","AUBURN EXCELL BRADY",37.10,0,0.00,8,0.00,45.10,4
+"Preliminary OPB","Fox Himself II","MARISSA WESSLUND",42.10,0,0.00,4,0.00,46.10,5
+"Preliminary OPB","Fiat Lux","LINDSAY CONNORS",40.00,0,0.80,8,0.00,48.80,6
+"Preliminary OPB","Vinny Can Go","RUTH BLEY",37.90,0,0.00,12,0.00,49.90,7
+"Preliminary OPB","Arizona Blue","DAWN ROBBINS",32.50,20,3.59,4,0.00,60.10,8
+"Preliminary OPB","Fade To Black II","CECIL MURRAY",36.70,0,18.39,8,0.00,63.10,9
+"Preliminary OPB","Belmont Ballygowan","JILLIAN TERZIAN",41.30,0,12.00,8,9,70.30,10
+"Preliminary OPB","Madison K.","GINA ECONOMOU",35.40,20,13.19,4,0.00,72.60,11
+"Preliminary OPB","Nevada Madame","JENNIFER D. SHAFFER",53.30,20,14.00,8,0.00,95.30,12
+"Preliminary OPB","Latello","SUMMER COGAN",40.00,65,30.00,8,0.00,143.00,13
+"Preliminary OPB","Notelo de Rox","FRANKIE THIERIOT STUTES",37.10,60,32.79,16,0.00,145.90,14
+"Preliminary OPB","Cinderella Man","SONEE K. ARCE",33.80,HC,HC,HC,HC,HC,HC
+"Preliminary OPB","For Kicks","KELLY PUGH",36.30,E,E,W,W,E,E
+"Preliminary OPC","Lazydaznmiracleways","STEFANIE SCHLIEF",33.80,0,6.40,0,0.00,40.20,1
+"Preliminary OPC","Maverick","ALEXANDRA BECK",37.10,0,0.00,4,0.00,41.10,2
+"Preliminary OPC","Quazar II","ANNE LADD",37.90,0,0.00,4,0.00,41.90,3
+"Preliminary OPC","Annie Oakley III","KELLY PUGH",33.30,0,0.00,4,6,43.30,4
+"Preliminary OPC","Quaver","SOFIA LOMBERA",32.90,0,3.59,8,0.00,44.50,5
+"Preliminary OPC","Bobby Hawk","ANNE LINDLEY",33.80,0,2.79,8,0.00,44.60,6
+"Preliminary OPC","Evening Star","CHRISTINE D. RITTHALER",32.10,0,6.00,8,0.00,46.10,7
+"Preliminary OPC","Lad's Night Out","CHLOE MCNALLY",35.00,0,0.00,16,0.00,51.00,8
+"Preliminary OPC","MacJordan","KRISTI B. FORESMAN",40.80,20,1.60,0,0.00,62.40,9
+"Preliminary OPC","Matrix III","KEITH MALLETT",34.20,20,11.60,0,0.00,65.80,10
+"Preliminary OPC","McTwist","JESSICA MONTGOMERY",37.50,20,6.00,8,0.00,71.50,11
+"Preliminary OPC","My Sha Roan Nah","MEGAN K. LAUGHTON",45.00,20,8.00,0,0.00,73.00,12
+"Preliminary OPC","Obewon","MICHELLE HANF",36.70,20,16.79,8,0.00,81.50,13
+"Preliminary OPC","Gaelic Blessing","NINA MOODY",38.30,E,E,W,W,E,E
+"Preliminary OPC","Vertigo II","LAUREN G. BURNELL",40.40,0,1.60,W,W,W,W
+"Preliminary OPC","Memory Loss","KATHRYN HUTTLESTON",37.10,E,E,W,W,E,E
+"Preliminary OPC","Hagrid III","KATRINA YOUNG",40.40,E,E,W,W,E,E
+"Training JTR","Tom's Star","CARINA BERLIN",34.20,0,0.00,0,0.00,34.20,1
+"Training JTR","Phar Away Day","ALYSON COLE",32.10,0,0.00,4,0.00,36.10,2
+"Training JTR","Given Half A Chance","SUZY HETTICH",32.10,0,0.00,4,0.00,36.10,3
+"Training JTR","Double Take","MORAYA CLEARY",36.80,0,0.00,4,0.00,40.80,4
+"Training JTR","V.E. Sweet Emotion","STEFANIE KRAL",37.90,0,0.00,4,0.00,41.90,5
+"Training JTR","Manja My Main Man","LIA NYDES",41.10,0,2.00,0,0.00,43.10,6
+"Training JTR","Rikki Tikki Tavi","BRYN BYER",36.90,0,1.20,8,0.00,46.10,7
+"Training JTR","Sleazy P. Martini","JILLIAN ADKINS",37.90,0,1.60,8,0.00,47.50,8
+"Training JTR","Spell Check","PATRICIA M. CAVA",27.90,0,18.00,4,0.00,49.90,9
+"Training JTR","Patrick Design","KASSANDRA MCMILLAN",40.00,0,11.19,4,0.00,55.20,10
+"Training JTR","Pikture This","KIMBERLY STEINBUCH",39.00,20,0.00,0,0.00,59.00,11
+"Training JTR","Quick Silver IV","EMILY MURRER",40.50,0,0.00,12,8.00,60.50,12
+"Training JTR","Nestles Chocklate Bear","KENDRA ROBISON",38.40,20,10.39,0,0.00,68.80,13
+"Training JTR","Am'Or De Soie","PRISCILLA SCHMITT",40.00,40,21.60,4,0.00,105.60,14
+"Training JTR","Have A Drink On Me","JOHNITA LANNI-CRADIT",42.10,60,18.39,4,0.00,124.50,15
+"Training JTR","Himalayan Highness","ERIN M. HOYT",36.30,20,11.60,E,E,E,E
+"Training JTRB","Pocket Change IV","KAELA LEDFORD",34.20,0,0.00,0,0.00,34.20,1
+"Training JTRB","Paragon II","SHELLY CIAGLO",29.50,0,2.40,4,2.00,37.90,2
+"Training JTRB","Danny Max","CHELSEA SCHAEFER",27.90,0,8.39,4,0.00,40.30,3
+"Training JTRB","Marge the Barge","ALEXANDRIA BELL",39.00,0,0.00,4,0.00,43.00,4
+"Training JTRB","Gem Dandy","AMY FOX",39.00,0,0.00,8,0.00,47.00,5
+"Training JTRB","Dimond Bay","LARA PORTE",36.90,0,6.00,8,3.00,53.90,6
+"Training JTRB","Final Concept","ALEXANDRA M. KOLB",39.00,0,0.00,16,1.00,56.00,7
+"Training JTRB","Sirius Black III","ALAINA HOWER",36.80,20,4.80,0,0.00,61.60,8
+"Training JTRB","High Expectations","KELLIE GRIGG",35.80,0,0.00,28,0.00,63.80,9
+"Training JTRB","Summer Solstice","LYNDSY COTTOR",42.10,20,9.60,8,0.00,79.70,10
+"Training JTRB","Gin Fizz","JACQUE FARR",34.20,0,0.00,E,E,E,E
+"Training JTRB","With Honors","AMBER FORNEY",37.40,60,10.39,E,E,E,E
+"Training JTRB","Talia","SALLY GROSS",46.30,0,2.79,E,E,E,E
+"Training JTRB","Sir Nelson","NICOLE AVANT",35.30,E,E,W,W,E,E
+"Training JTRB","Somebody To Love","ALEXIS DUBBS",40.00,E,E,W,W,E,E
+"Training OTA","Jude's Law","ANDREW C. TEMKIN",31.60,0,0.00,0,0.00,31.60,1
+"Training OTA","U. Vandemeer","KELLY PRATHER",32.60,0,0.00,0,0.00,32.60,2
+"Training OTA","Panache Paard","KELLY PRATHER",33.70,0,0.80,0,0.00,34.50,3
+"Training OTA","Charmed (Kerry)","MICHLYNN STERLING",30.00,0,0.80,8,0.00,38.80,4
+"Training OTA","Stonewall","DAVID ADAMO",37.40,0,3.59,0,0.00,41.00,5
+"Training OTA","Kinetic Energy","LEXIE FORSTER",44.20,0,0.00,0,0.00,44.20,6
+"Training OTA","Miracle Save","HAWLEY BENNETT-AWAD",39.50,0,6.00,0,0.00,45.50,7
+"Training OTA","NZ Flash Harry","LAURA FURNISS",36.30,0,8.80,4,0.00,49.10,8
+"Training OTA","Quite Fetching","BUNNIE S. SEXTON",40.00,0,10.39,0,0.00,50.40,9
+"Training OTA","Kanan","MARIAH DE NIJS",39.50,0,4.40,8,0.00,51.90,10
+"Training OTA","Devareux","ERIN SERAFINI SPOHR",32.60,20,0.00,12,0.00,64.60,11
+"Training OTA","All Business II","TAMRA SMITH",35.30,20,20.00,4,0.00,79.30,12
+"Training OTA","Smurf","DEBORAH ROSEN",31.10,60,30.39,4,0.00,125.50,13
+"Training OTA","Malik","JAMIE LAWRENCE",43.20,85,79.19,4,0.00,211.40,14
+"Training OTA","On The Road","ASHLEY MCCLELLAND",37.40,40,26.00,E,E,E,E
+"Training OTB","Quinn The Eskimo","LISA S. EVERETT",35.80,0,0.00,0,0.00,35.80,1
+"Training OTB","Colby","GINA ECONOMOU",36.80,0,0.00,0,0.00,36.80,2
+"Training OTB","Whitaker","RANDIE WALDMAN",37.40,0,0.00,0,0.00,37.40,3
+"Training OTB","All Star","KELLY PRATHER",30.50,0,0.00,8,0.00,38.50,4
+"Training OTB","Socrates","KELLY PRATHER",36.30,0,4.00,0,0.00,40.30,5
+"Training OTB","Taukalot","JORDAN BALLENGER",33.20,0,0.00,12,0.00,45.20,6
+"Training OTB","Parfait","ERIN R. KELLERHOUSE",41.60,0,0.00,4,0.00,45.60,7
+"Training OTB","Reality Happens","LAUREN WHITLOCK",41.10,0,4.80,4,0.00,49.90,8
+"Training OTB","Pallas Ballyowen","COURTNEY PILLA",41.60,0,1.20,8,0.00,50.80,9
+"Training OTB","N/A","JENNIFER L. MCRONALD",44.70,0,9.60,4,0.00,58.30,10
+"Training OTB","Litoral","TRISHA JARACZ",42.60,0,13.19,4,0.00,59.80,11
+"Training OTB","Solo","LAUREN BROOKE",36.30,0,4.00,4,16.00,60.30,12
+"Training OTB","Lincoln's Copper Penny","SUMMER COGAN",41.60,20,16.39,4,0.00,82.00,13
+"Training OTB","Rubin Rose","DEBBIE DAVIS",46.30,0,6.80,20,14.00,87.10,14
+"Training OTB","Optimist II","MICHLYNN STERLING",42.10,E,E,W,W,E,E
+"Training STAR","Do It Exact","CINDI MORAVEC",34.20,0,0.00,0,0.00,34.20,1
+"Training STAR","Sexy Rexy","RUTH BLEY",35.30,0,0.00,0,0.00,35.30,2
+"Training STAR","Pele II","HILARY B. NIEMANN",34.80,0,0.00,4,0.00,38.80,3
+"Training STAR","Distinctive Heir","MEGAN W. BEACHLER",39.50,0,1.60,4,0.00,45.10,4
+"Training STAR","Borneo Wigwam","HILARY BATES",44.20,0,2.00,0,0.00,46.20,5
+"Training STAR","Marcus","SUE BUXTON",37.40,20,15.19,0,0.00,72.60,6
+"Training STAR","Triton's Valor","DANA CHASE",41.60,20,5.19,8,0.00,74.80,7
+"Training STAR","Governess","KATE MILLER",42.10,0,94.00,4,0.00,140.10,8
+"Training STAR","Dodge","STEWART B. KATZEN",42.10,80,58.79,4,0.00,184.90,9
+"Training STAR","Frequent Flyer","GABRIEL AGUILAR",47.40,E,E,W,W,E,E
+"Training STR","Starless Night","LINDSEY B. WEAVER",30.50,0,0.00,0,0.00,30.50,1
+"Training STR","Scotsman","NAHMI L. JONES",35.80,0,0.00,0,0.00,35.80,2
+"Training STR","Akamina","LAURA W. KRIEGER",30.00,0,1.60,8,0.00,39.60,3
+"Training STR","Aramis V","MICHAEL R. THOMAS",43.70,0,0.00,4,0.00,47.70,4
+"Training STR","Macchiato II","EILEEN W. MORGENTHALER",34.70,0,13.19,0,0.00,47.90,5
+"Training STR","Fuerst Fenomenon","MATTHEW B. WALLEY",38.40,0,4.00,16,0.00,58.40,6
+"Training STR","NoMee Jack","MAGUY PALLUEL",48.40,0,0.00,12,0.00,60.40,7
+"Training STR","Daredevil","ASHLEY PROWS",33.70,0,21.20,8,0.00,62.90,8
+"Training STR","Maxwell IV","ALISON DACHER",34.20,0,9.60,16,14.00,73.80,9
+"Training STR","Savannah","WENDELL WILLIAMS",34.70,20,15.19,8,0.00,77.90,10
+"Training STR","Jimmy Chou","NORA BATTIG",37.40,20,50.79,12,2.00,122.20,11
+"Training STR","Abraham Darby","KATHERINE FRANCHINI",33.20,105,14.39,4,0.00,156.60,12
+"Training STRB","Court Jester","FRANCES M. ANDERSON",29.50,0,0.00,4,0.00,33.50,1
+"Training STRB","EMR Windchester","KATIE KLOOSTER",36.30,0,0.00,0,0.00,36.30,2
+"Training STRB","Ready To Rhumba","SANDRA JOHNSON",38.40,0,0.00,0,0.00,38.40,3
+"Training STRB","V.E. Nokia","KAYLEEN P. CROWLEY",41.60,0,0.00,8,0.00,49.60,4
+"Training STRB","Don't Fence Me In","LISA FLOOD",41.10,0,6.40,4,0.00,51.50,5
+"Training STRB","Willoughby Bay","JOY M. SIMON",43.70,0,6.40,4,0.00,54.10,6
+"Training STRB","The Perfect Storm","EILEEN W. MORGENTHALER",43.70,0,1.20,12,3.00,59.90,7
+"Training STRB","Saga Gold","MARY C. OSLUND",39.50,20,0.00,4,0.00,63.50,8
+"Training STRB","Ko-Star","DENISE BONNET",35.80,W,W,W,W,W,W
+"Training STRB","Vitaal","NICOLE HALE",39.00,0,9.60,E,E,E,E
+"Training STRB","Montini **","JERALD DOWNEN",42.10,40,39.20,E,E,E,E
+"Novice JNRA","Mighty Mouse","KRISTI MURPHY",32.10,0,0.00,0,0.00,32.10,1
+"Novice JNRA","Kashmir","EMILY DAVENPORT",31.60,0,0.00,4,0.00,35.60,2
+"Novice JNRA","Walzertansen","DANIELA R. MARINARO",35.80,0,0.00,0,0.00,35.80,3
+"Novice JNRA","Dunn to a T","EMILY O'BRIEN",37.90,0,0.00,0,0.00,37.90,4
+"Novice JNRA","Uno Mas II","KATIE FLANNIGAN",39.00,0,0.00,0,0.00,39.00,5
+"Novice JNRA","Without A Doubt","ALEXANDRA TATARU",40.00,0,0.00,0,0.00,40.00,6
+"Novice JNRA","Capable of Passion","MALLORY WARR",43.20,0,0.00,0,0.00,43.20,7
+"Novice JNRA","Pebble Springs","ERIN D. LYNCH",40.50,0,0.00,4,0.00,44.50,8
+"Novice JNRA","I'm The Gingerbread Man","AMANDA SWENT",40.00,0,6.40,0,0.00,46.40,9
+"Novice JNRA","N/A","MIKAELA STREETER",44.70,40,26.39,4,0.00,115.10,10
+"Novice JNRA","N/A","AMY FOX",31.10,E,E,12,0.00,E,E
+"Novice JNRA","Gone Fishin'","JOHANNA YOUNG",32.10,W,W,E,E,E,E
+"Novice JNRA","Marcus","LAUREN E. KNIGHT",33.20,E,E,0,0.00,E,E
+"Novice JNRA","Flying Encounter","CLAIRE H. SMITH",39.00,W,W,E,E,E,E
+"Novice JNRB","Maletto V","ZOE WINOKUR",32.60,0,0.00,0,0.00,32.60,1
+"Novice JNRB","Sir Dudley","OLIVIA C. FRANCIS",32.60,0,1.60,0,0.00,34.20,2
+"Novice JNRB","Cody's Crush","KAYLA TOBLER",36.30,0,0.00,0,0.00,36.30,3
+"Novice JNRB","Denim Blues","HANNA RAMLETH",25.30,0,0.00,12,0.00,37.30,4
+"Novice JNRB","N/A","MONICA DETTMER",40.00,0,0.00,0,0.00,40.00,5
+"Novice JNRB","Tedd","ANNE A. BENNETT",37.40,0,0.00,4,0.00,41.40,6
+"Novice JNRB","Beau Cheval","REESE MASON",41.10,0,0.00,4,0.00,45.10,7
+"Novice JNRB","N/A","CERELLE RICHARDS",46.90,0,0.00,4,0.00,50.90,8
+"Novice JNRB","Mocha Twist","KATHERINE A. WILSON",37.40,0,0.00,20,0.00,57.40,9
+"Novice JNRB","Zack's Got A Knack","MADELINE D. SEXTON",35.80,20,2.79,4,0.00,62.60,10
+"Novice JNRB","Sight Unseen","VICTORIA HOWE",32.60,20,4.80,8,0.00,65.40,11
+"Novice JNRB","Tall, Dark and Handsome","MADISON M. LONG",29.50,R,R,0,0.00,R,R
+"Novice JNRB","Lift Off","THERESA SMRT",37.40,W,W,E,E,E,E
+"Novice JNRB","Napoleon VIII","MOLLY F. MCRAE",35.80,W,W,E,E,E,E
+"Novice JNRB","Kalypso's Page","ALEXA WOLF",37.40,E,E,0,0.00,E,E
+"Novice ONA","Kona","ANN E. BYRON",31.60,0,0.00,0,0.00,31.60,1
+"Novice ONA","Cash N Diamonds","MEG FINN",38.40,0,0.00,0,0.00,38.40,2
+"Novice ONA","Winter's Fable","JOHN STRASSBURGER",36.30,0,0.00,4,0.00,40.30,3
+"Novice ONA","Abracadabra","TRACY L. SIMS",37.90,0,0.00,4,0.00,41.90,4
+"Novice ONA","Kilkenny Star","JANINE S. HILL",35.30,0,0.00,8,0.00,43.30,5
+"Novice ONA","N/A","DAVID ADAMO",35.80,0,6.08,8,0.00,49.80,6
+"Novice ONA","Irish Trick","ZABOU CULLUM",29.00,0,24.39,4,0.00,57.40,7
+"Novice ONA","Sterling Knight","GINA M. SHAMAN",36.30,0,0.00,24,0.00,60.30,8
+"Novice ONA","N/A","JOHN STRASSBURGER",45.30,0,0.00,16,0.00,61.30,9
+"Novice ONA","Alla'bye","DEBBIE DAVIS",41.10,20,7.59,4,0.00,72.70,10
+"Novice ONA","Smoke Alarm","BETH MAHON BROWN",30.00,85,15.60,0,0.00,130.60,11
+"Novice ONA","Peace Keeper","SUMMER COGAN",36.30,80,31.20,8,0.00,155.50,12
+"Novice ONB","Chanson de Coeur","SUSAN DAVIES",34.20,0,0.00,0,0.00,34.20,1
+"Novice ONB","Calvin","KELLY PRATHER",32.60,0,0.00,4,0.00,36.60,2
+"Novice ONB","Jalisco","RUBEN ARCE-IBARRA",39.50,0,0.00,0,0.00,39.50,3
+"Novice ONB","Orion's Light","SILVIA SZABO",40.50,0,0.00,0,0.00,40.50,4
+"Novice ONB","N/A","ERIN SERAFINI SPOHR",36.90,0,0.00,4,0.00,40.90,5
+"Novice ONB","Crocodile","KRISTEN ORTON",32.10,0,12.39,0,0.00,44.50,6
+"Novice ONB","Casey Griffin","TINA HOOVER",41.60,0,3.59,0,0.00,45.20,7
+"Novice ONB","N/A","N/A",37.40,0,8.39,0,0.00,45.80,8
+"Novice ONB","N/A","TARA VERKUIL",34.70,0,10.80,4,0.00,49.50,9
+"Novice ONB","Paneolo","MICHLYNN STERLING",32.10,0,7.19,16,0.00,55.30,10
+"Novice ONB","Perfectly Possible","WILLOW MCEVOY",38.40,0,9.19,8,0.00,55.60,11
+"Novice ONB","Guinness","MARISSA WESSLUND",35.80,20,1.20,8,0.00,65.00,12
+"Novice ONB","Kern Ridge","DEBBIE OPP",42.10,0,20.39,8,0.00,70.50,13
+"Novice ONB","Finale","DEIRDRE MCCASKELL",39.00,20,22.00,16,0.00,97.00,14
+"Novice ONB","True Distraction","JAMIE LAWRENCE",35.30,W,W,E,E,E,E
+"Novice SNAR","Leap of Faith XI","SUE BUXTON",25.80,0,0.00,0,0.00,25.80,1
+"Novice SNAR","Hector O'Malley","CATHERINE AISNER",30.50,0,3.20,0,0.00,33.70,2
+"Novice SNAR","Weatherspoon","SONDRA OTTENSTEIN",35.30,0,0.00,0,0.00,35.30,3
+"Novice SNAR","N/A","N/A",35.30,0,0.00,0,0.00,35.30,4
+"Novice SNAR","Magdalena","SUSANNE MUSZALA",36.30,0,3.59,0,0.00,39.90,5
+"Novice SNAR","Sly Fox","MASHA KHMARTSEVA",37.90,0,8.00,0,0.00,45.90,6
+"Novice SNAR","Scallywag","PAIGE HELLER",37.90,0,16.39,0,0.00,54.30,7
+"Novice SNAR","Splash VIII","JENAI M. GARCIA",39.00,20,0.00,0,0.00,59.00,8
+"Novice SNAR","Comanche Moon","CELINE FALLETTA",39.50,20,7.19,4,0.00,70.70,9
+"Novice SNAR","Meant To Fly","BARBARA J. BARKE DVM",25.80,E,E,0,0.00,E,E
+"Novice SNAR","Jagstar","JEANNETTE ROBB",41.10,W,W,0,0.00,W,W
+"Novice SNAR","N/A","AMY E. NELMS",26.30,E,E,423,0.00,E,E
+"Novice SNR","Kilbarry Hope","ERICA C. STANCLIFF",30.00,0,0.00,4,0.00,34.00,1
+"Novice SNR","Irish Coader","NICOLE HAMILTON",36.90,0,0.00,0,0.00,36.90,2
+"Novice SNR","Miss Ramsey","SUSAN FAIDI",35.30,0,2.79,0,0.00,38.10,3
+"Novice SNR","Winter Prints","CAROLYNN BUNDGARD",39.00,0,0.00,0,0.00,39.00,4
+"Novice SNR","AE Psymmetry (AKA Timi)","BETSY WOBUS",35.30,0,0.00,4,0.00,39.30,5
+"Novice SNR","Sweet Reason","VICTORIA KLEIN",35.30,0,0.00,4,0.00,39.30,6
+"Novice SNR","Jasper","NICOLE MUSHKIN",36.30,0,0.00,4,0.00,40.30,7
+"Novice SNR","Coyote Red Radish","SHAWN SKILLMAN",37.40,0,0.00,4,0.00,41.40,8
+"Novice SNR","Chance of a Lifetime","GAIL J. BULLARD",30.00,0,10.80,4,0.00,44.80,9
+"Novice SNR","Hot Fudge","RICHARD K. HOLMES",40.50,0,0.80,4,0.00,45.30,10
+"Novice SNR","N/A","CHRISTINE PAULEY",43.70,0,0.00,4,0.00,47.70,11
+"Novice SNR","Tonbild's Fatasha","ROBYN M. DENEGA",34.20,0,0.00,8,9.00,51.20,12
+"Novice SNR","Kiera","MEG GOULD",31.10,20,2.00,4,0.00,57.10,13
+"Novice SNR","Erin Go Dash","ALICIA M. CHANDLER",38.40,E,E,12,0.00,E,E
+"Novice SNR","Prudence","CLAIRE DAILEY",34.70,E,E,0,0.00,E,E
+"Novice SNRB","Alden's Image","HEIDI BARTLETT",34.70,0,0.00,0,0.00,34.70,1
+"Novice SNRB","Ransom","MEG GOULD",34.20,0,0.00,4,0.00,38.20,2
+"Novice SNRB","Honest Ike","MADELYN REAVES",36.30,0,0.00,4,0.00,40.30,3
+"Novice SNRB","Charbonneau","KATHY MAYLIN",32.10,0,6.00,4,0.00,42.10,4
+"Novice SNRB","Pied Piper","VANESSA BLOUNT",38.40,0,0.00,4,0.00,42.40,5
+"Novice SNRB","Rhys's Pieces","NANCY BENSON",32.60,0,0.00,4,6.00,42.60,6
+"Novice SNRB","Albert G","KATIE KOMNENICH",35.30,0,0.00,8,0.00,43.30,7
+"Novice SNRB","Mr. Nobody","SARAH BUNDGARD",39.50,0,0.00,4,0.00,43.50,8
+"Novice SNRB","Giaconda","HONOR FULLERTON STONE",33.70,20,0.00,0,0.00,53.70,9
+"Novice SNRB","Valor","CASEY L. CLEARY",33.70,0,23.20,8,0.00,64.90,10
+"Novice SNRB","Eclipse The Sun","CATHLEEN STARK",41.60,0,45.20,16,15.00,117.80,11
+"Novice SNRB","Fatamorgana","MATTHEW B. WALLEY",33.70,W,W,E,E,E,E
+"Beginner Novice JBNR","Samadhi","FRANCESCA LAMPERT",33.50,0,0.00,0,0.00,33.50,1
+"Beginner Novice JBNR","Rico Suave","RACHEL PRESSON",43.00,0,0.00,0,0.00,43.00,2
+"Beginner Novice JBNR","N/A","N/A",40.00,0,0.00,4,0.00,44.00,3
+"Beginner Novice JBNR","Hez Redefined","JULIA BERGAMASCHI",33.00,20,0.00,0,0.00,53.00,4
+"Beginner Novice JBNR","Mr. Darcy","REBECCA WALDERN",38.00,20,0.00,4,0.00,62.00,5
+"Beginner Novice JBNR","N/A","KYLAN MORRIS",38.00,0,13.60,4,14.00,69.60,6
+"Beginner Novice JBNR","N/A","EMILY HALBREICH",27.00,60,0.00,0,0.00,87.00,7
+"Beginner Novice JBNR","N/A","N/A",47.00,20,15.60,12,2.00,96.60,8
+"Beginner Novice JBNR","Nip-it-in-the-bud","CHLOE DELEHANTY",32.00,85,0.00,0,0.00,117.00,9
+"Beginner Novice JBNR","N/A","N/A",49.00,20,46.40,4,0.00,119.40,10
+"Beginner Novice JBNR","N/A","SYDNEY PAUL",47.00,W,W,E,E,E,E
+"Beginner Novice JBNRB","Makin' Magic","EMMA SULLIVAN",24.50,0,0.00,0,0.00,24.50,1
+"Beginner Novice JBNRB","N/A","MADISON R. LLOYD",29.00,0,0.00,0,0.00,29.00,2
+"Beginner Novice JBNRB","Mozart","SARAH BRICKEY",32.50,0,0.00,4,0.00,36.50,3
+"Beginner Novice JBNRB","N/A","CLAIRE A. CLICKNER",33.00,0,0.00,4,0.00,37.00,4
+"Beginner Novice JBNRB","Frisco City","NICHOLE BAHLMAN",40.50,0,0.00,0,0.00,40.50,5
+"Beginner Novice JBNRB","N/A","SHANNON MERALA",34.00,0,0.00,8,0.00,42.00,6
+"Beginner Novice JBNRB","Gino","HOLLY NASH",42.50,0,0.00,0,0.00,42.50,7
+"Beginner Novice JBNRB","Flying Expectations","CAROLINE M. MODIC",42.00,0,1.60,8,0.00,51.60,8
+"Beginner Novice JBNRB","Kay Dee May","ADRIANNE D'AMATO",45.00,0,0.00,8,0.00,53.00,9
+"Beginner Novice JBNRB","N/A","KRISTIN M. LYNCH",41.00,20,0.00,0,0.00,61.00,10
+"Beginner Novice JBNRB","N/A","N/A",37.50,0,16.00,8,2.00,63.50,11
+"Beginner Novice JBNRB","N/A","N/A",43.00,20,3.20,12,22.00,100.20,12
+"Beginner Novice JBNRC","Custom Paint Job","CLAIRE O'CONNELL",34.50,0,0.00,0,0.00,34.50,1
+"Beginner Novice JBNRC","N/A","N/A",37.00,0,0.00,0,0.00,37.00,2
+"Beginner Novice JBNRC","N/A","HANNA RAMLETH",39.00,0,0.00,0,0.00,39.00,3
+"Beginner Novice JBNRC","N/A","N/A",39.00,0,0.00,4,0.00,43.00,4
+"Beginner Novice JBNRC","N/A","MADALENA P. PARISI",46.50,0,0.00,4,0.00,50.50,5
+"Beginner Novice JBNRC","N/A","N/A",49.50,0,15.60,4,2.00,71.10,6
+"Beginner Novice JBNRC","N/A","N/A",39.00,40,0.00,8,0.00,87.00,7
+"Beginner Novice JBNRC","N/A","AMANDA LARSEN",41.50,RR,RR,8,0.00,R,R
+"Beginner Novice JBNRC","N/A","DANIELLE MCKINLEY",48.50,E,E,0,0.00,E,E
+"Beginner Novice OBN","N/A","JULIE MANDLE",32.00,0,0.00,0,0.00,32.00,1
+"Beginner Novice OBN","Chelios","DEBBIE DAVIS",36.00,0,0.80,0,0.00,36.80,2
+"Beginner Novice OBN","Rhiannon","DANIELLE DOWNING",37.00,0,0.00,0,0.00,37.00,3
+"Beginner Novice OBN","The Anchorman","REBECCA NAEVE",33.50,0,0.00,4,0.00,37.50,4
+"Beginner Novice OBN","Donatella","DANIELLE DOWNING",33.50,0,0.00,4,0.00,37.50,5
+"Beginner Novice OBN","Jeffersonn","DAWN ROBBINS",27.50,20,0.00,0,0.00,47.50,6
+"Beginner Novice OBN","Runabout","RACHEL ROBERTSON-HINDMAN",38.50,20,0.00,0,0.00,58.50,7
+"Beginner Novice OBN","Destined To Be","ERIN L. MCCABE",35.50,0,19.60,4,0.00,59.10,8
+"Beginner Novice OBN","PVTC Selene","SOFIA LOMBERA",49.00,0,0.00,12,0.00,61.00,9
+"Beginner Novice OBN","Silver Sage","SANDY BOLING",36.00,20,1.60,4,4.00,65.60,10
+"Beginner Novice OBN","N/A","MAGGIE TREVITHICK",50.50,40,26.79,4,0.00,121.30,11
+"Beginner Novice OBN","N/A","PAM ROMELFANGER",38.50,E,E,8,16.00,E,E
+"Beginner Novice OBN","N/A","HILLARY J. LUDWIG",48.00,W,W,E,E,E,E
+"Beginner Novice OBN","N/A","KRISTEN ORTON",38.00,E,E,4,0.00,E,E
+"Beginner Novice SBNR","N/A","GWEN HUBBARD",36.00,0,0.00,0,0.00,36.00,1
+"Beginner Novice SBNR","Village Prince","N/A",37.00,0,0.00,0,0.00,37.00,2
+"Beginner Novice SBNR","N/A","N/A",41.50,0,0.00,4,0.00,45.50,3
+"Beginner Novice SBNR","Bread and Butter","JO CAIN-STILES",41.00,0,0.00,12,0.00,53.00,4
+"Beginner Novice SBNR","Letrista","MARIDA BERLIN",43.00,8.80,0,4,4.00,59.80,5
+"Beginner Novice SBNR","Rockey","KATHRYN M. KADE",36.00,40,10.80,4,0.00,90.80,6
+"Beginner Novice SBNR","N/A","KRISTINE ZBILICKI",42.00,60,0.00,8,3.00,113.00,7
+"Beginner Novice SBNR","N/A","JULIA K. TUSSING",34.50,E,E,0,0.00,E,E
+"Beginner Novice SBNR","N/A","ERIN SAUNDERS",40.50,W,W,E,E,E,E
+"Beginner Novice SBNR","N/A","JEANNE CARLEY",45.50,W,W,E,E,E,E
+"Beginner Novice SBNRB","Britannica","ANNIE DESMOND",29.50,0,0.00,4,0.00,33.50,1
+"Beginner Novice SBNRB","Reb's Honor **","CAROL ARNOLD",36.00,0,0.00,0,0.00,36.00,2
+"Beginner Novice SBNRB","N/A","MARIE ROUSSEL",35.00,0,0.00,4,0.00,39.00,3
+"Beginner Novice SBNRB","My Seven Bars Elliot","ISABELLE J. FRANCHINI",41.50,0,0.00,0,0.00,41.50,4
+"Beginner Novice SBNRB","The Irish Hooligan","KATHRYN DAVIS",42.50,0,0.00,0,0.00,42.50,5
+"Beginner Novice SBNRB","N/A","N/A",42.00,0,0.00,4,0.00,46.00,6
+"Beginner Novice SBNRB","Diva","ELIZABETH HANSEN",40.50,0,0.00,8,0.00,48.50,7
+"Beginner Novice SBNRB","Pudding","BRIAN FRANCHINI",37.00,0,0.00,12,0.00,49.00,8
+"Beginner Novice SBNRB","Katrina IV","VALLI BOWMAN",28.50,0,0.00,12,10.00,50.50,9
+"Beginner Novice SBNRB","N/A","MICHELLE CAPPARELLI",31.00,1.20,0,8,11.00,51.20,10
+"Beginner Novice SBNRB","N/A","GREG CAMPILLO",42.50,18.39,0,4,16.00,80.90,11
+"Beginner Novice SBNRB","Igman","JAYNE SLAYTON",40.50,W,W,E,E,E,E

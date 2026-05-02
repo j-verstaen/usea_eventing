@@ -1,0 +1,33 @@
+Division,Horse,Rider,Dressage,SXC,JXC,TSJ,JSJ,Total_Score,Points
+"[HT] Advanced, A","Florestan du Serin","JOSH BARNACLE",38.3,0,18.8,12,9,78.1,112.0
+"[HT] Advanced, A","I Spy","MARC GRANDIA",50.8,20,31.2,4,1,107,210.0
+"[HT] Advanced, A","Uppercrust D","ANNA C. COLLIER",38.3,40,56.4,4,9,147.7,38.0
+"[HT] Advanced, A","Safari","ANNE CARR",37.9,RR,WW,RR,-,-,-
+"[HT] Advanced, A","Ballinakill Glory","KELLY PRATHER",33.3,EE,WW,EE,-,-,-
+"[HT] Intermediate, OI","Cooper","JENNIFER BRANNIGAN",27.7,0,11.2,0,0,38.9,112.0
+"[HT] Intermediate, OI","Ringwood Magister","TIANA COUDRAY",25.8,0,21.2,0,2,49,210.0
+"[HT] Intermediate, OI","Beacon Hill","MAXANCE MCMANAMY",35,0,12.4,4,0,51.4,38.0
+"[HT] Intermediate, OI","Catch A Star","RACHEL DWYER",38.9,0,7.2,8,11,65.1,40.0
+"[HT] Intermediate, OI","Last Call","ALEXANDRA KNOWLES",36.9,20,12.4,4,0,73.3,50.0
+"[HT] Intermediate, OI","Renegade Reno","KATE GILLESPIE",36.9,60,30.4,12,0,139.3,60.0
+"[HT] Preliminary, OP","Beaujolais Nouveau","KRISTEN ORTON",29.6,0,0.8,0,0,30.4,16.0
+"[HT] Preliminary, OP","Sir Donovan","NICHOLAS CWICK",36.3,0,0,0,0,36.3,25.0
+"[HT] Preliminary, OP","Horatio","JESSIE DEETER",31.9,0,8.4,0,0,40.3,34.0
+"[HT] Preliminary, OP","R-Star","KRISTI M. NUNNINK",30.4,0,21.6,0,0,52,40.0
+"[HT] Preliminary, PR","InForAPound Dunvegan","GABRIEL AGUILAR",33.3,0,4.4,8,0,45.7,16.0
+"[HT] Preliminary, PR","Lucky Teddy","MAX GERDES",38.2,0,0,8,0,46.2,25.0
+"[HT] Preliminary, PR","Kilkenny Star","JANINE S. HILL",40,0,1.6,4,2,47.6,34.0
+"[HT] Preliminary, YOP","Idle Bells","MADISON REEB",30.7,0,0,4,0,34.7,16.0
+"[HT] Preliminary, YOP","Ballingowan Miller","JOHN MICHAEL DURR",31.1,0,0,4,0,35.1,25.0
+"[HT] Training, JTR","Denim Blues","HANNA RAMLETH",35.5,0.4,0,0,0,35.9,16.0
+"[HT] Training, JTR","Sir Dudley","OLIVIA C. FRANCIS",39.5,0,0,0,0,39.5,25.0
+"[HT] Training, JTRB","Good Time Charlie","STACIA L. ARNOLD",31.5,0,0,0,0,31.5,17.0
+"[HT] Training, OTA","Alvescot Poacher","NICHOLAS CWICK",30,0,0,0,0,30,16.0
+"[HT] Training, OTB","Gin Fizz","HAWLEY BENNETT-AWAD",29.5,0,0,0,0,29.5,16.0
+"[HT] Novice, JNRA","Christopher Robin V","KENZIE AMACK",35,0,0,0,0,35,16.0
+"[HT] Novice, JNRB","Hurricane II","DANIELLE CHOU",28.5,0,0,4,0,32.5,16.0
+"[HT] Novice, ONA","Globetrotter","JOSH BARNACLE",28,0,0,4,0,32.1,16.0
+"[HT] Novice, ONB","Worthy Opponent V.E.","DANA J. ESTES",27,0,0,0,0,27,16.0
+"[HT] Novice, SNAR","Alla'bye","JULIA PHILLIPS",30,0,0,0,0,30,16.0
+"[HT] Beginner Novice, JBNR","Nip-it-in-the-bud","CHLOE DELEHANTY",34.2,0,0,0,0,34.2,16.0
+"[HT] Beginner Novice, OBN","Unspecified","HAWLEY BENNETT-AWAD",32.1,0,0,0,0,32.1,-
