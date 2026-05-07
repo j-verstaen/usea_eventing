@@ -1,35 +1,202 @@
-Division,Horse,Rider,Dressage,SXC,JXC,TSJ,JSJ,Total_Score,Points
-"[HT] Preliminary, OPA","Ben Cruise","DAVID P. KOSS",36.3,0,5.2,0,0,41.5,16.0
-"[HT] Preliminary, OPA","Penelope Pitstop","LAVINIA JOHNSTON",41.3,0,2.8,0,0,44.1,25.0
-"[HT] Preliminary, OPA","Caruso 202","AUBURN EXCELL BRADY",42.1,0,2.8,0,0,44.9,34.0
-"[HT] Preliminary, OPA","Snap Decision II","JEANINE K. ALLRED",33.3,0,13.6,0,6,52.9,40.0
-"[HT] Preliminary, OPA","FDF Riverina","SUSANNA HOLDER",35.8,0,15.6,4,4,59.4,50.0
-"[HT] Preliminary, OPB","Candy","LEXY ALEXANDRA FUNK",28.8,0,6.8,4,3,42.6,16.0
-"[HT] Preliminary, OPB","Kilkenny Gold","AUBURN EXCELL BRADY",35.8,0,3.2,4,0,43,25.0
-"[HT] Preliminary, OPB","Look Sweet","DAVID P. KOSS",33.3,0,2.8,4,5,45.1,34.0
-"[HT] Training, JTR","Fen Cera","DANIELLE MCKINLEY",35.8,0,0,0,0,35.8,15.0
-"[HT] Training, JTR","Sixpence","BRYNN LITTLEHALE",34.7,0,0,12,0,46.7,24.0
-"[HT] Training, JTRB","High Expectations","KELLIE GRIGG",28.4,0,0,4,0,32.4,16.0
-"[HT] Training, JTRB","Sir Dudley","OLIVIA C. FRANCIS",34.2,0,0,0,0,34.2,25.0
-"[HT] Training, OT","Sportsfield Oliver","KRISTI M. NUNNINK",35.8,0,0.8,0,0,36.6,16.0
-"[HT] Training, OT","Trafalgar","DAVID W. ACORD",35.3,0,0,4,0,39.3,25.0
-"[HT] Training, STR","Nantucket Red","AMBER LEVINE",30,0,3.6,0,0,33.6,16.0
-"[HT] Training, STR","Kiwi Heart","SARAH A. JOYNT",41.6,0,0,0,2,43.6,25.0
-"[HT] Novice, JNRA","Picasso Du Murier","AMANDA VOLLE",27.4,0,2.8,0,0,30.2,16.0
-"[HT] Novice, JNRA","Lady Lola","ELLEN M. GARAVATTI",35.3,0,0,0,0,35.3,25.0
-"[HT] Novice, JNRB","Christopher Robin V","KENZIE AMACK",31.1,0,0,4,0,35.1,16.0
-"[HT] Novice, JNRB","Risky Business","MONICA DETTMER",35.3,0,2.8,0,0,38.1,25.0
-"[HT] Novice, ON","Orion's Light","SILVIA SZABO",32.6,0,0,0,0,32.6,16.0
-"[HT] Novice, ON","Sweet Pea V","DANIELLE DOWNING",33.2,0,0,0,0,33.2,25.0
-"[HT] Novice, SNAR","Rooster Rock","KIMBERLY HANSEN",27.4,0,0,0,4,31.4,15.0
-"[HT] Novice, SNAR","AE Psymmetry (AKA Timi)","BETSY WOBUS",32.1,0,0,0,0,32.1,24.0
-"[HT] Novice, SNR","Loyalty Counts","ELISABETH A. MEHNER",26.3,0,0,0,0,26.3,16.0
-"[HT] Novice, SNR","Wave Edition","KIM SPERO",33.2,0,0,0,0,33.2,25.0
-"[HT] Beginner Novice, JBNR","Unknown","LAUREN HENRY",29,0,0,0,0,29,-
-"[HT] Beginner Novice, JBNR","Walter Farley","MARA SACKMAN",32.5,0,0,0,0,32.5,25.0
-"[HT] Beginner Novice, JBNRB","Bailey Ann","JOANNA SAUNDERS",29.5,0,0,0,0,29.5,16.0
-"[HT] Beginner Novice, JBNRB","V.E. Jack of Hearts","Unknown",35,0,0,4,0,39,-
-"[HT] Beginner Novice, JBNRC","Coup de Ville","SOPHIE E. HULME",32,0,0,0,0,32,16.0
-"[HT] Beginner Novice, OBN","Unknown","MATTHEW R. BROWN",25,0,0,8,0,33,-
-"[HT] Beginner Novice, SBNAR","Unknown","LEAH M. FORQUER",34.5,0,0,0,0,34.5,-
-"[HT] Beginner Novice, SBNR","Aurora","EVA BECK-ERISMANN",33.5,0,0,0,0,33.5,16.0
+Event,Division,Competitor,D-S,XC-J,XC-T,SJ-J,SJ-T,S,P,Pts,U-Pts
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",Ben Cruise / DAVID P. KOSS,36.3,0,5.2,0,0,41.5,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",Penelope Pitstop / LAVINIA JOHNSTON,41.3,0,2.8,0,0,44.1,2,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",Caruso 202 / AUBURN EXCELL BRADY,42.1,0,2.8,0,0,44.9,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",Snap Decision II / JEANINE K. ALLRED,33.3,0,13.6,0,6,52.9,4,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",FDF Riverina / SUSANNA HOLDER,35.8,0,15.6,4,4,59.4,5,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",Ballingowan Pizazz / LINDSAY CONNORS,32.1,20,12,0,2,66.1,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",Porto Banus / COURTNEY OLENIK,46.7,20,7.2,0,0,73.9,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",NVR Peter The Great / CAROLYN HOFFOS,37.5,20,20,4,3,84.5,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",Cartier / BROOKE GIBSON,38.8,E,E,4,1,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",Taukalot / JORDAN BALLENGER,30.4,--,0,E,E,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPA (Starters: 11)",Irish Promise / REBECCA FARLEY,48.3,--,0,E,E,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Candy / LEXY ALEXANDRA FUNK,28.8,0,6.8,4,3,42.6,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Kilkenny Gold / AUBURN EXCELL BRADY,35.8,0,3.2,4,0,43,2,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Look Sweet / DAVID P. KOSS,33.3,0,2.8,4,5,45.1,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Kiwi / EMILY S. CHRISTENSEN,43.3,0,2,12,0,57.3,4,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Just Watch Me / ALEXANDRA CHOU,37.1,0,6,28,0,71.1,5,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Vinny Can Go / RUTH BLEY,38.3,20,12,8,0,78.3,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Copycat Chloe / KELLY PUGH,35.8,20,24.8,0,0,80.6,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Impish Grin / KATHERINE HOWARD,42.5,40,40.8,0,0,123.3,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Borneo Wigwam / HILARY BATES,40.8,60,36.4,4,2,143.2,9,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Winchester / CAMILLE POWELL,39.6,--,0,W,W,W,W,--,--
+Woodside Spring H.T. (May 2006),"[HT] Preliminary, OPB (Starters: 11)",Ballingowan Miller / JOHN MICHAEL DURR,38.8,W,W,4,0,W,W,--,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTR (Starters: 10)",Fen Cera / DANIELLE MCKINLEY,35.8,0,0,0,0,35.8,1,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTR (Starters: 10)",Sixpence / BRYNN LITTLEHALE,34.7,0,0,12,0,46.7,2,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTR (Starters: 10)",Kalypso's Page / ALEXA WOLF,47.4,0,0,0,0,47.4,3,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTR (Starters: 10)",Erin's Luck / ERIN EISNER,41.1,0,9.6,4,0,54.7,4,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTR (Starters: 10)",Tradewinds / SUMMER LESTER,44.2,0,20.8,0,0,65,5,1.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTR (Starters: 10)",Kept Secret / AMANDA LARSEN,48.4,20,33.6,0,4,106,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTR (Starters: 10)",Bella Fiebre / REBECCA HAMMOND,44.2,60,17.2,0,0,121.4,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTR (Starters: 10)",Allegra / SYDNEE HYMAN,46.8,--,0,TE,TE,TE,TE,--,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTR (Starters: 10)",Imperial Heights / SALLY GROSS,47.4,R,R,8,9,R,R,--,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTR (Starters: 10)",Never Late For Honey / RACHEL COLEMAN-HUNT,43.7,--,0,E,E,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",High Expectations / KELLIE GRIGG,28.4,0,0,4,0,32.4,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",Sir Dudley / OLIVIA C. FRANCIS,34.2,0,0,0,0,34.2,2,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",Sight Unseen / VICTORIA HOWE,39,0,0,0,0,39,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",Promising Future / JESSICA M. ELLIS,43.2,0,0,0,0,43.2,4,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",Sirius Black III / ALAINA HOWER,37.4,0,3.6,4,0,45,5,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",Kansas City / ADDISON JOHNSON,44.2,0,1.6,0,0,45.8,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",Castle View / KATHERINE S. MELLIS,39,0,3.2,0,4,46.2,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",Jimmy Chou / CLAIRE H. SMITH,35.8,0,20,4,0,59.8,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",Memoferu / KARINA QUINLAN,44.7,0,0,16,0,60.7,9,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",Hez Redefined / JULIA BERGAMASCHI,45.3,0,10,8,0,63.3,10,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, JTRB (Starters: 11)",Sophisticate / JULIAN HOMBURGER,36.8,60,52.8,12,0,161.6,11,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Sportsfield Oliver / KRISTI M. NUNNINK,35.8,0,0.8,0,0,36.6,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Trafalgar / DAVID W. ACORD,35.3,0,0,4,0,39.3,2,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Limerick II / TAREN HOFFOS,34.7,0,2.4,8,0,45.1,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Bahrain Legacy / HILARY BATES,42.6,0,2.8,0,0,45.4,4,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",V.E. Nikolaus / KAYLEEN P. CROWLEY,37.9,0,5.2,4,0,47.1,5,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Ketel One / GABRIELLE M. GONI,39.5,0,1.2,4,3,47.7,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Dually / KATE ERICKSON,37.9,0,0,12,0,49.9,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Coyote Red Radish / KRISTI M. NUNNINK,29.5,0,14,8,0,51.5,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Hilltop's Tabula Rasa / MATTHEW R. BROWN,48.4,0,0,4,0,52.4,9,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Ballad of Eire / JENNIFER R. BOTELHO,53.7,0,1.6,4,0,59.3,10,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Puck / SHANNON P. LILLEY,32.1,20,16.4,4,0,72.5,11,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Fire Fox / SHANNON P. LILLEY,44.7,40,34,0,0,118.7,12,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",/ RYAN B. BROWN,40,60,28.4,0,0,128.4,13,--,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Fleeceworks Fernhill / JENNIFER WOOTEN - MACOUZET,35.3,--,0,TE,TE,TE,TE,--,--
+Woodside Spring H.T. (May 2006),"[HT] Training, OT (Starters: 15)",Nanook / JENNIFER WOOTEN - MACOUZET,44.2,W,W,4,2,W,W,--,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Nantucket Red / AMBER LEVINE,30,0,3.6,0,0,33.6,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Kiwi Heart / SARAH A. JOYNT,41.6,0,0,0,2,43.6,2,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",My Nevada Chance / ASHLEIGH GUICH,40,0,4.8,0,0,44.8,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Toukoutou / CHRISTIANA ROSENBLATT,41.6,0,0,4,0,45.6,4,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Misty Morning / EMI HANSEN,36.3,0,0,12,0,48.3,5,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",For Kicks / KATY HOVER-SMOOT,48,0,0.8,0,0,48.8,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",N-Vest / JENNETTE R. SCANLON,38.4,0,0,12,1,51.4,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",V.E. Finnegan / SANDY BOLING,36.8,0,6.4,12,0,55.2,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Sir Charles / SUSAN DAVIES,40.5,0,6.4,8,3,57.9,9,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Savannah / ALLISON WILLIAMS,35.3,0,16.4,8,0,59.7,10,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Tegini / JAIMI MARTIN-PETERSON,28.5,20,20.4,0,0,68.9,11,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",NZ Smoke Alarm / CHERIE BAYLIS,46.8,0,6.4,16,2,71.2,12,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Scallywag / PAIGE HELLER,40,0,23.2,8,13,84.2,13,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Marquis / PASCALE WINNICK,38.4,40,22.4,4,0,104.8,14,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Cachet / TERRY CLARK,31.6,--,0,E,E,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Training, STR (Starters: 16)",Hector O'Malley / CATHERINE AISNER,39,E,E,16,4,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Picasso Du Murier / AMANDA VOLLE,27.4,0,2.8,0,0,30.2,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Lady Lola / ELLEN M. GARAVATTI,35.3,0,0,0,0,35.3,2,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Lift Off / THERESA SMRT,34.7,0,0,4,0,38.7,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Hermione NSF / ASHLEY BLACK,31.6,0,0,8,0,39.6,4,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Showman Pago / VICTORIA G. POWELL,40.5,0,0,0,0,40.5,5,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",By Jove / SHELBY K. JONES,36.8,0,0,8,0,44.8,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Ragazzo / HOLLY G. WENZELL,37.9,0,4.4,4,6,52.3,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Faust II / CHENERY LOWE,50,0,0,4,0,54,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Bobbie Dazzler / HANNAH PETREK,40.5,20,0,4,0,64.5,9,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Mia Bella / LANI FRAZER,37.4,0,31.2,0,0,68.6,10,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",True Confidence / HALEY NELSON,37.9,20,9.6,8,0,75.5,11,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Tigger Toy / MIKAELA STREETER,40,40,7.6,0,0,87.6,12,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Moonlit Dancer / MADISON K. HOGAN,30.5,40,8.8,8,19,106.3,13,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRA (Starters: 14)",Yours Truly / MAKENNA RICE KERR,35.8,--,0,E,E,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Christopher Robin V / KENZIE AMACK,31.1,0,0,4,0,35.1,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Risky Business / MONICA DETTMER,35.3,0,2.8,0,0,38.1,2,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Swiss Miss / SARA FISHMAN,39.5,0,0,4,0,43.5,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Dashing II / CHRISTINE E. FLOCK,44.7,0,0,0,0,44.7,4,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Sunny J / KYLAN MORRIS,44.7,0,0,0,0,44.7,5,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Rico Suave / RACHEL PRESSON,37.9,0,0,8,0,45.9,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Gifted Guru / EMMA SULLIVAN,38.4,0,0,0,8,46.4,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Wendover's High Lander / JENNIFER M. RAMIREZ,39.5,0,4,0,3,46.5,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Atticus / OLIVIA HONIGHAUSEN,42.1,20,0.8,0,0,62.9,9,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Equanimity / JULIETTE VERSTAEN,41.1,20,5.6,0,3,69.7,10,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Protégé / EMILY N. STEEMERS,46.8,0,18.4,8,0,73.2,11,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Samadhi / FRANCESCA LAMPERT,34.7,0,16,12,40,102.7,12,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",Classy Cassie / LAUREN BRANAGH,36.3,--,0,E,E,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, JNRB (Starters: 14)",/ MARISSA MONROE,37.9,E,E,4,4,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Orion's Light / SILVIA SZABO,32.6,0,0,0,0,32.6,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Sweet Pea V / DANIELLE DOWNING,33.2,0,0,0,0,33.2,2,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Worthy Opponent V.E. / DANA J. ESTES,31.6,0,0,4,0,35.6,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Purisimas Magic Girl / JENNIFER WOOTEN - MACOUZET,32.1,0,0,4,0,36.1,4,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Punahou / ALEXIS A. HELFFRICH,30,0,0,8,0,38,5,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",London / DAN BYRUM,35.3,0,0,4,0,39.3,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Sterling Knight / GABRIEL AGUILAR,33.2,0,0,8,0,41.2,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Speakeasy II / SHANNON P. LILLEY,34.2,0,0,0,8,42.2,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",/ SARAH JANE NICHOLS JOLLEY,38.4,0,0,4,0,42.4,9,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Paddington / SILVIA SZABO,37.4,0,0,4,1,42.4,10,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Snow Tango / SARA UMPHENOUR,32.1,0,0,0,11,43.1,11,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",/ AMBER LEVINE,37.4,0,0,8,0,45.4,12,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Leo / LISA S. EVERETT,32.6,0,3.2,0,10,45.8,13,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Playin' It Cool / SARAH JANE NICHOLS JOLLEY,42.6,0,0,4,0,46.6,14,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Odolus / JOAN HANKIN,37.9,0,11.6,0,0,49.5,15,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Vilnius / PAT MCFARLAND,32.1,TE,TE,0,8,TE,TE,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, ON (Starters: 17)",Time to Chime / ASHLEIGH GUICH,46.8,--,0,W,W,W,W,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNAR (Starters: 10)",Rooster Rock / KIMBERLY HANSEN,27.4,0,0,0,4,31.4,1,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNAR (Starters: 10)",AE Psymmetry (AKA Timi) / BETSY WOBUS,32.1,0,0,0,0,32.1,2,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNAR (Starters: 10)",Borneo Royale / NORA BATTIG,30.5,0,0.4,0,3,33.9,3,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNAR (Starters: 10)",Life's Good / MARISSA NIELSEN,30.5,0,0,8,0,38.5,4,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNAR (Starters: 10)",B A Keaster / HEIDI HOFFMANN,32.1,0,4.8,8,0,44.9,5,1.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNAR (Starters: 10)",Mr. Martini / MARISSA NIELSEN,43.7,0,0,4,0,0,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNAR (Starters: 10)",Isabeau / VICKY KOSS,27.4,0,14.8,4,2,48.2,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNAR (Starters: 10)",/ BROOK MORRISON,36.8,0,3.6,8,4,52.4,8,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNAR (Starters: 10)",Fancy That / TIFFANY BENNETT,39.5,E,E,4,0,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNAR (Starters: 10)",Wildwych Eclipse / MAX GERDES,27.9,E,E,8,0,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Loyalty Counts / ELISABETH A. MEHNER,26.3,0,0,0,0,26.3,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Wave Edition / KIM SPERO,33.2,0,0,0,0,33.2,2,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Kool Margarita / KAREN BEALE,32.6,0,3.6,0,0,36.2,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Strawberry Sunshine / NICKU BASTANI,40.5,0,0,0,0,40.5,4,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Santana / JULIANNE TURNER,40.5,0,0,0,0,40.5,5,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Shongehon / HOLLIS K. BROCK,43.2,0,0,0,0,43.2,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Denton / DIANE FINKELSTEIN,39,0,10.8,0,0,49.8,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Cosmic Kiwi / HELEN JARVIS,45.8,0,5.2,0,0,51,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Au Contraire / LEEAN NOUNNAN,43.7,0,3.2,0,5,51.9,9,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Magdalena / SUSANNE MUSZALA,42.1,0,0,4,6,52.1,10,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Giaconda / HONOR FULLERTON STONE,33.2,20,0,0,1,54.2,11,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",/ SUZANNE LITTEL,42.6,0,15.6,0,4,62.2,12,--,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Spider V / KRISTI ALAMEDA,34.2,20,9.2,8,0,71.4,13,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Good Day Gali / ELISABETH A. MEHNER,30,20,23.2,0,0,73.2,14,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Of Royal Lace / KAREN BEALE,40,0,38.4,0,0,78.4,15,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Novice, SNR (Starters: 16)",Kiwi Spice / MAX GERDES,43.2,60,0,8,0,HC,HC,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNR (Starters: 12)",/ LAUREN HENRY,29,0,0,0,0,29,1,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNR (Starters: 12)",Walter Farley / MARA SACKMAN,32.5,0,0,0,0,32.5,2,5.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNR (Starters: 12)",/ KELLY M. GARDNER,29,0,0,4,0,33,3,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNR (Starters: 12)",Bonanza Bonney Bar / VICKIE HORVATICH,34,0,0,0,0,34,4,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNR (Starters: 12)",Jersey Boy / MIKA POLNIASZEK,34,0,0,4,0,38,5,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNR (Starters: 12)",Applejack /,38.5,0,0,0,0,38.5,6,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNR (Starters: 12)",/ MORGAN CARVER,39,0,0,0,0,39,7,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNR (Starters: 12)",Uno Mas II /,35.5,0,0,0,4,39.5,8,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNR (Starters: 12)",King's Rio Grande / MERIDITH L. STARRETT,39.5,0,0,4,2,45.5,11,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNR (Starters: 12)",/ AUSTIN HENDERSON,41,TE,TE,0,1,TE,TE,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRB (Starters: 12)",Bailey Ann / JOANNA SAUNDERS,29.5,0,0,0,0,29.5,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRB (Starters: 12)",V.E. Jack of Hearts /,35,0,0,4,0,39,2,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRB (Starters: 12)",Siskiyou Jubilee / KATE SULLIVAN,40.5,0,0,0,0,40.5,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRB (Starters: 12)",/ LAUREN BRANAGH,46.5,0,0,0,0,46.5,4,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRB (Starters: 12)",/ AINSLEY FARADAY,44.5,0,0,4,0,48.5,5,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRB (Starters: 12)",Earth To Zoey / MIREYA CABRON-HEINECK,47,0,3.6,0,0,50.6,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRB (Starters: 12)",Platinum Traveler / BRITTANY K. JONES,45.5,20,0,0,0,65.5,9,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRC (Starters: 12)",Coup de Ville / SOPHIE E. HULME,32,0,0,0,0,32,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRC (Starters: 12)",Halley's Comet /,34.5,0,0,0,0,34.5,2,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRC (Starters: 12)",/ ARIANNA BARZMAN-GRENNAN,34.5,0,0,0,1,35.5,3,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRC (Starters: 12)",/ RACHEL N. FOX,35.5,0,0,0,0,35.5,4,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRC (Starters: 12)",Shane's Friend / LIANA SMOLICH,36,0,0,0,0,36,5,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRC (Starters: 12)",MGRM Whimsical / EMMA MCCRACKEN,37.5,0,0,4,0,41.5,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRC (Starters: 12)",Dancin' With Dynamite / MARIAH S. COOGAN,33.5,0,11.2,0,0,44.7,9,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRC (Starters: 12)",About Time / LOGAN E. BEARDEN,35.5,0,0,4,8,47.5,11,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, JBNRC (Starters: 12)",/ ALLISON BEERS,38.5,E,E,0,0,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, OBN (Starters: 8)",/ MATTHEW R. BROWN,25,0,0,8,0,33,1,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, OBN (Starters: 8)",/ JOHN STRASSBURGER,33.5,0,0,0,0,33.5,2,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, OBN (Starters: 8)",/ CAROLYN HOFFOS,37.5,0,0,0,0,37.5,3,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, OBN (Starters: 8)",Goldquest / LAURIE ALLRED,40.5,0,0,0,0,40.5,4,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, OBN (Starters: 8)",Bridget / VICKY KOSS,35.5,0,5.2,0,0,40.7,5,1.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, OBN (Starters: 8)",/ SUSANNA HOLDER,36.5,0,5.6,0,3,45.1,6,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, OBN (Starters: 8)",/ JOHN MICHAEL DURR,35.5,R,R,4,0,R,R,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, OBN (Starters: 8)",/ CARRIE J. FINNO,35,--,0,E,E,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",/ LEAH M. FORQUER,34.5,0,0,0,0,34.5,1,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",Jet Legs /,37.5,0,0,0,0,37.5,2,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",Reb's Honor ** / CAROL ARNOLD,40.5,0,0,0,0,40.5,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",Oxidation /,37.5,0,4.4,0,0,41.9,4,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",Logan / KRISTINA ALBRIGHT,39.5,0,0,4,0,43.5,5,2.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",Willing Accomplice / LINDA K. BETTS,36,0,0,4,6,46,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",Igman / JAYNE SLAYTON,45.5,0,18.4,0,2,65.9,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",/ JEANNE CARLEY,43,0,0,12,36,91,8,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",/ TARA VERKUIL,22.5,0,68.4,0,6,96.9,9,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",De Mello / MEGAN GASTEL,33.5,E,E,4,0,E,E,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNAR (Starters: 11)",Comanche Moon / ALECIA MILLER,50.5,W,W,16,16,W,W,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",Aurora / EVA BECK-ERISMANN,33.5,0,0,0,0,33.5,1,6.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",/ COLLEEN SHJEFLO,37.5,0,0,0,0,37.5,2,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",Awesome Commander / CLAUDIA DUNCAN,35,0,0,4,0,39,3,4.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",Sotto Voce / LEEAN NOUNNAN,38,0,0,0,5,43,4,3.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",/ LARA MOSER,28,20,0,0,0,48,5,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",Kinsale / ANNIE J. SCHMIDT,38.5,0,0,4,6,48.5,6,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",Cash N Diamonds / GILLIAN WARD,45.5,0,0,4,0,49.5,7,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",Hadahunch / SHARON IX,38,0,5.2,0,7,50.2,8,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",Diva / ELIZABETH HANSEN,39.5,20,0,4,4,67.5,10,0.0,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",Figaro /,37.5,0,6.8,12,15,71.3,12,--,--
+Woodside Spring H.T. (May 2006),"[HT] Beginner Novice, SBNR (Starters: 13)",Hunter / HELEN JARVIS,47,0,28.8,0,19,94.8,13,0.0,--

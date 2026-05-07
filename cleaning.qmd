@@ -1,80 +1,251 @@
 ---
-title: "cleaning"
+title: "Cleaning USEA text files"
 format: html
 editor: source
 ---
+Notes to future me
+- there are still a couple data sets that need to be converted used claude
+- make sure the compiling data still works as expected, some of the data looks a little different with the new datasets
+
+
+
 
 ```{r}
 library(tidyverse)
 library(readr)
 library(stringr)
-
 ```
 
+Look through all the files in one place to make sure we keep all the data we want and proper column names
 
-loop through and combine all datasets into one
+```{r, look_at_data}
+raw_peek <- function(file_path) {
+  # Read with all cols as character so nothing is coerced; header = col names
+  df <- read_csv(file_path, col_types = cols(.default = "c"), show_col_types = FALSE)
+
+  list(
+    event  = tools::file_path_sans_ext(basename(file_path)),
+    header = names(df),
+    first  = unname(unlist(df[1, ])))}
+
+peeked <- map(file_list, raw_peek)
+
+max_cols <- map_int(peeked, ~ max(length(.x$header), length(.x$first))) |> max()
+
+pad <- function(x) c(x, rep(NA_character_, max_cols - length(x)))
+
+rows <- map(peeked, function(p) {
+  bind_cols(
+    tibble(file = p$event, type = c("header", "first_row")),
+    setNames(
+      as_tibble(rbind(pad(p$header), pad(p$first))),
+      paste0("col_", seq_len(max_cols))))})
+
+peek_df <- bind_rows(rows)
+```
+
+Loop through and combine all datasets into one
+
 ```{r}
-file_list <- list.files(path = c("data/woodside"), pattern = "\\.txt$", full.names = TRUE)
-data_list <- list()
+read_and_rename <- function(file_path) {
+  df <- read_csv(
+    file_path,
+    col_types = cols(.default = "c"),
+    show_col_types = FALSE
+  )
 
-library(foreach)
-library(dplyr)
+  event <- tools::file_path_sans_ext(basename(file_path))
 
-final_data <- foreach(current_file = file_list, .combine = 'bind_rows') %do% {
-  
-  # The fix: set row.names = NULL and header = TRUE
-  df <- read.csv(current_file, 
-                 header = TRUE,
-                 row.names = NULL, 
-                 stringsAsFactors = FALSE, 
-                 check.names = FALSE) # check.names=FALSE prevents mangling XC_Jump_Pen
-  
-  # IMPORTANT: When row.names = NULL, read.csv sometimes shifts 
-  # columns to the right. We fix the column names here:
-  if(colnames(df)[1] == "row.names") {
-    colnames(df) <- colnames(df)[2:length(colnames(df))]
-    df <- df[, 1:(ncol(df)-1)]
+  if (ncol(df) < 10) {
+    warning(glue::glue("'{event}' has {ncol(df)} columns (expected 10+). Skipping."))
+    return(NULL)
   }
-  
-  # Add the filename column using the tool that handles extensions
-  df$event_info <- tools::file_path_sans_ext(basename(current_file))
-  
-  df
+
+  df <- df[, 1:10]
+  names(df) <- target_names
+
+  df |>
+    mutate(
+      final_score = suppressWarnings(as.numeric(final_score)),
+      # rank and all penalty cols kept as character to preserve RF, W, etc.
+      event_info  = event
+    ) |>
+    relocate(event_info)
 }
 
-
-
-for (i in seq_along(file_list)) {
- 
-   current_file <- file_list[1]
-  
-  df <- read.csv(current_file, 
-               stringsAsFactors = FALSE, 
-               check.names = TRUE)
-  
-  # Add the filename column
-  df <- df %>% 
-    mutate(event_info = basename(current_file))
-  
-  df$event_info <- basename(current_file)
-  
-  # Store it in our list
-  data_list[[i]] <- df
-  
-  # Optional: Print progress
-  message(paste("Processed file", i, "of", length(file_list)))
-}
-
-# 3. Combine and Save
-# bind_rows is significantly faster than do.call(rbind, ...)
-final_data <- bind_rows(data_list)
-
-write_csv(final_data, "data/woodside_combined_data.csv")
+compiled_data <- map(file_list, read_and_rename) |>
+  compact() |>
+  bind_rows() |>
+  add_count(event_info, division, name = "n_entries")
 ```
 
 
-keep only training, prelim, and modified
+Some of the data didn't copy over correctly when I created the CSV files. Check which ones seem to have suspiciously low numbers of entries, and then look at the original files to see if there are any issues with them.
+```{r}
+event_totals <- compiled_data |>
+  count(event_info, name = "total_entries")
+
+event_totals
+```
+
+
+The rankings are all wonky, but we can recalucalted the rankings based on final score.
+
+```{r}
+compiled_data_2 <- compiled_data |>
+  mutate(
+    rank_calc = {
+      r <- rep(NA_integer_, n())
+      has_score <- !is.na(final_score) & !is.na(suppressWarnings(as.numeric(rank)))
+      r[has_score] <- rank(final_score[has_score], ties.method = "min") |> as.integer()
+      r
+    },
+    .by = c(event_info, division)
+  )
+```
+
+test
+
+```{r}
+test <- compiled_data_2 |>
+  mutate(diff = as.numeric(rank)-as.numeric(rank_calc) )
+```
+
+Final Cleaned dataset and save
+
+```{r}
+lev <- c("Intermediate", "Preliminary", "Training",  "Beginner Novice", "Novice",
+  "Advanced", "2 Year-old", "3 Year-old", "Yearling", "Modified/Training", 
+  "Modified", "Starter", "3-Star", "2-Star", "1-Star", 
+  "5 Year-old", "4 Year-old", "4-Star")
+
+
+final_data <- compiled_data_2 |>
+  mutate(
+    level = map_chr(division, ~ {
+      match <- lev[str_detect(.x, fixed(lev))]
+      if (length(match) == 0) NA_character_ else match[1]
+    }),
+    division2 = map2_chr(division, level, ~ {
+      if (is.na(.y)) return(NA_character_)
+      .x |>
+        str_remove("^\\[HT\\]\\s*") |>
+        str_remove(fixed(.y)) |>
+        str_remove("^[,\\s]+") |>
+        na_if("")
+    })
+  ) |>
+  rename(level_division = division) |>
+  rename(division = division2) |>
+  mutate(level = ifelse(str_detect(division, "Modified/"), "Modified", level))
+
+```
+
+** double check that the code above still works right with the new data im using for the files that didnt work out the first time
+
+Play around with just training, modified, and prelim
+```{r}
+tp <- final_data |>
+  filter(level %in% c("Training", "Modified/Training", "Modified", "Preliminary")) 
+
+unique(tp$division)
+```
+
+
+E = eliminated ; either too many refusals or jumping in wrong order
+W = withdrawn ; before starting course
+R = retire ; choose to stop mid course
+RRR  = retire ; choose to stop mid course
+WW = withdrawn from welfare ; before starting course specific to vet issues
+
+
+HC = out of competition ; schooling so not for a score or rank
+CR = compulsory retirement ; forced to stop mid course due to rule violation (could be because horse looks bad)
+TE = technical elimination ; rule issue like jumping a fence not in course or illegal equipment
+TETE = technical elimination ; rule issue like jumping a fence not in course or illegal equipment
+
+
+RF = rider fall ; immediate elimination
+RFRF = rider fall ; immediate elimination
+MR = mandatory retirement ; similar to CR and is a safety concern
+RR = rider requirement ; rider has a safety issue not related to horse
+
+
+EE = eliminated
+EEE = eliminated
 
 
 
+```{r}
+# codes that indicate unsafe non-completion
+safety_codes <- c("E", "EE", "EEE", "R", "RRR", "CR", "RF", "RFRF", "MR", "RR")
 
+# dashes mean horse is already out - treat as NA
+dash_pattern <- "^-+$"
+
+tp_analysis <- tp |>
+  # exclude HC entries entirely
+  filter(
+    !xc_jump_pen %in% c("HC") | is.na(xc_jump_pen),
+    !sj_jump_pen %in% c("HC") | is.na(sj_jump_pen)
+  ) |>
+  mutate(
+    # extract year for pre/post 2019 split
+    year = as.integer(str_extract(event_info, "\\d{4}")),
+    period = if_else(year < 2019, "pre_2019", "post_2019"),
+
+    # clean dashes to NA
+    xc_jump_clean = if_else(str_detect(xc_jump_pen, dash_pattern), NA_character_, xc_jump_pen),
+    sj_jump_clean = if_else(str_detect(sj_jump_pen, dash_pattern), NA_character_, sj_jump_pen),
+
+    # flag safety codes in each phase
+    xc_unsafe = xc_jump_clean %in% safety_codes,
+    sj_unsafe = sj_jump_clean %in% safety_codes,
+    any_unsafe = xc_unsafe | sj_unsafe,
+
+    # three outcomes
+    outcome = case_when(
+      any_unsafe                                      ~ "unsafe_nonfinish",
+      !any_unsafe & !is.na(final_score)               ~ "safe_finish",
+      !any_unsafe & is.na(final_score)                ~ "nonsafety_nonfinish"
+    )
+  ) |>
+  # flag horse+rider appearing at more than one level per event
+  mutate(
+    multi_level_flag = n_distinct(level) > 1,
+    .by = c(event_info, horse, rider)
+  )
+
+# inspect flagged horse+rider pairs
+tp_analysis |>
+  filter(multi_level_flag) |>
+  select(event_info, horse, rider, level, division) |>
+  arrange(event_info, horse, rider)
+```
+
+
+```{r}
+tp_analysis |>
+  summarise(
+    total = n(),
+    .by = c(year, level, outcome)
+  ) |>
+  mutate(
+    level   = factor(level, levels = c("Training", "Modified", "Preliminary")),
+    outcome = factor(outcome, levels = c("safe_finish", "nonsafety_nonfinish", "unsafe_nonfinish"),
+                     labels = c("Safe Finish", "Non-Safety Non-Finish", "Unsafe Non-Finish"))
+  ) |>
+  ggplot(aes(x = year, y = total, color = level)) +
+  geom_line() +
+  geom_point() +
+  facet_wrap(~ outcome) +
+  scale_x_continuous(breaks = seq(2005, 2025, by = 2)) +
+  labs(
+    x     = "Year",
+    y     = "Total Entries",
+    color = "Level",
+    title = "Outcomes by Year and Level"
+  ) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```

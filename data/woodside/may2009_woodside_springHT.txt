@@ -1,40 +1,341 @@
-Division,Horse,Rider,D,SXC,JXC,TSJ,JSJ,TSP,Pts
-"[HT] Advanced, A","Ballinakill Glory","KELLY PRATHER",33.8,0,8,4,0,45.8,112.0
-"[HT] Advanced, A","Fric Frac Berence","FRANKIE THIERIOT STUTES",37.5,0,4,8,0,49.5,210.0
-"[HT] Advanced, A","R-Star","KRISTI M. NUNNINK",31.3,0,19.6,4,3,57.9,38.0
-"[HT] Advanced, A","Lady Calido","ROBYN FISHER",28.8,20,15.2,4,0,68,40.0
-"[HT] Advanced, A","Bucephalus III","SHANNON P. LILLEY",38.8,20,17.2,0,0,76,50.0
-"[HT] Intermediate, OI","Catch A Star","RACHEL DWYER",31.9,0,0,8,0,39.9,112.0
-"[HT] Intermediate, OI","Ben Cruise","JEANINE K. ALLRED",31.5,0,10,0,0,41.5,210.0
-"[HT] Intermediate, OI","Last Call","ALEXANDRA KNOWLES",36.9,0,6.4,0,0,43.3,38.0
-"[HT] Intermediate, OI","Goodknight","DAVID W. ACORD",40,0,6.4,0,0,46.4,40.0
-"[HT] Preliminary, OP","Corner Street","KRISTI M. NUNNINK",34.4,0,4,0,0,38.4,16.0
-"[HT] Preliminary, OP","Chummin","LISA PEECOOK",33.3,0,1.2,4,0,38.5,25.0
-"[HT] Preliminary, PHC","Jude's Law","BETH MAHON BROWN",29.6,0,0,0,0,29.6,16.0
-"[HT] Preliminary, PHC","Parfait","ERIN R. KELLERHOUSE",31.7,0,0,0,0,31.7,25.0
-"[HT] Preliminary, PR","Bonza Twist of Fate","TERESA HARCOURT",30,0,0,0,0,30,16.0
-"[HT] Preliminary, PR","Savoy Six","KIMBERLY KASLOW",30.7,0,0,0,0,30.7,25.0
-"[HT] Preliminary, PRC","Ballingowan Pizazz","LINDSAY CONNORS",31,0,0,0,0,31,16.0
-"[HT] Preliminary, PRC","Balabooga Brawley","MOLLY TOTTEN",30.8,0,0,4,0,34.8,25.0
-"[HT] Preliminary, PRC","Unknown","Unknown",35.6,20,6.8,4,0,66.4,-
-"[HT] Training, JTRA","Gaelic Blessing","MCKENZIE D. MILLER",33,0,0,0,0,33,16.0
-"[HT] Training, JTRA","Kalypso's Page","ALEXA WOLF",34.5,0,0,0,0,34.5,25.0
-"[HT] Training, JTRB","Just Watch Me","ALEXANDRA CHOU",31.5,0,0,0,0,31.5,16.0
-"[HT] Training, OT","Filou","RACHEL DWYER",25.5,0,0,0,0,25.5,16.0
-"[HT] Training, STAR","Borneo Wigwam","HILARY BATES",29,0,0,0,0,29,17.0
-"[HT] Training, STR","Picasso Du Murier","AMANDA VOLLE",32.5,0,0,0,0,32.5,16.0
-"[HT] Training, TH","Project Runway","MAXANCE MCMANAMY",27.5,0,0,0,0,27.5,16.0
-"[HT] Novice, JNRA","Corinthoz","KIERA CARTER",30.5,0,0,0,0,30.5,16.0
-"[HT] Novice, JNRA","Unknown","REESE MASON",35,0,0,4,3,42,HC
-"[HT] Novice, JNRB","Rockstar IV","MADDY MAZZOLA",35.5,0,0,0,0,35.5,16.0
-"[HT] Novice, NH","Rooster Rock","MATTHEW R. BROWN",31,0,0,0,0,31,16.0
-"[HT] Novice, ON","Rangoon","VALORIE MACKEY",24,0,1.6,0,2,27.6,16.0
-"[HT] Novice, SNAmt","Miss Tattletail","ELIZABETH MILLER",32.5,0,0,0,0,32.5,16.0
-"[HT] Novice, SNR","Amadeus VI","DANA WILCOX",30,0,0,0,0,30,16.0
-"[HT] Beginner Novice, JBNRA","Jersey Boy","MIKA POLNIASZEK",32.6,0,0,0,0,32.6,16.0
-"[HT] Beginner Novice, JBNRA","Unknown","HOLLIE READ",35.8,0,0,8,0,43.8,-
-"[HT] Beginner Novice, JBNRB","Unknown","ARIANNA BARZMAN-GRENNAN",35.3,0,0,0,0,35.3,-
-"[HT] Beginner Novice, OBN","Warrior","IAN DIERY",34.2,0,0,0,0,34.2,16.0
-"[HT] Beginner Novice, SBNAMT","Cash N Diamonds","GILLIAN WARD",32.6,0,0,0,0,32.6,16.0
-"[HT] Beginner Novice, SBNRA","Ping Pong","JULIE FLETTNER",29.5,0,0,0,0,29.5,16.0
-"[HT] Beginner Novice, SBNRB","Roxabelle","CHERYL F. REYNOLDS",34.7,0,0,4,0,38.7,16.0
+Event,Division,Competitor,D-S,XC-J,XC-T,SJ-J,SJ-T,S,P,Pts,U-Pts
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Advanced, A (Starters: 5)",Ballinakill Glory / KELLY PRATHER,33.8,0,8,4,0,45.8,1,12.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Advanced, A (Starters: 5)",Fric Frac Berence / FRANKIE THIERIOT STUTES,37.5,0,4,8,0,49.5,2,10.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Advanced, A (Starters: 5)",R-Star / KRISTI M. NUNNINK,31.3,0,19.6,4,3,57.9,3,8.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Advanced, A (Starters: 5)",Lady Calido / ROBYN FISHER,28.8,20,15.2,4,0,68,4,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Advanced, A (Starters: 5)",Bucephalus III / SHANNON P. LILLEY,38.8,20,17.2,0,0,76,5,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Intermediate, OI (Starters: 10)",Catch A Star / RACHEL DWYER,31.9,0,0,8,0,39.9,1,12.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Intermediate, OI (Starters: 10)",Ben Cruise / JEANINE K. ALLRED,31.5,0,10,0,0,41.5,2,10.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Intermediate, OI (Starters: 10)",Last Call / ALEXANDRA KNOWLES,36.9,0,6.4,0,0,43.3,3,8.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Intermediate, OI (Starters: 10)",Goodknight / DAVID W. ACORD,40,0,6.4,0,0,46.4,4,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Intermediate, OI (Starters: 10)",Beaujolais Nouveau / KRISTEN ORTON,35.4,0,11.6,0,0,47,5,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Intermediate, OI (Starters: 10)",The Mistress II / SAMANTHA A. STEWART,35.4,0,8.4,4,0,47.8,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Intermediate, OI (Starters: 10)",Look Sweet / DAVID P. KOSS,41.2,0,0,8,0,49.2,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Intermediate, OI (Starters: 10)",Uppercrust D / ANNA C. COLLIER,31.9,0,24.4,4,0,60.3,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Intermediate, OI (Starters: 10)",Chauncy / SUZY J. ELLIOTT,40.8,20,22.8,0,0,83.6,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Intermediate, OI (Starters: 10)",Fox Himself II / MARISSA WESSLUND,48.5,80,57.6,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, OP (Starters: 10)",Corner Street / KRISTI M. NUNNINK,34.4,0,4,0,0,38.4,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, OP (Starters: 10)",Chummin / LISA PEECOOK,33.3,0,1.2,4,0,38.5,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, OP (Starters: 10)",Divine Inspiration / GINA O. MILES,41.5,0,0,0,0,41.5,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, OP (Starters: 10)",Mozart / VALERIE BELOT,33.7,0,0,8,0,41.7,4,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, OP (Starters: 10)",Amira / MELISSA BEARDSLEY,44.1,0,20,0,0,64.1,5,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, OP (Starters: 10)",Command N' Rule / ALLYSON GREEN,37.8,20,27.6,4,0,89.4,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, OP (Starters: 10)",Coup D'Etat / JOHN MICHAEL DURR,41.5,E,E,--,--,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, OP (Starters: 10)",Jefferson D'Aurois / KEVIN BAUMGARDNER,40.4,W,W,--,--,W,W,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, OP (Starters: 10)",Ketel One / GABRIELLE M. GONI,39.3,E,E,--,--,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, OP (Starters: 10)",Oso Proudly / SUZANNE BROCK,41.9,0,2.8,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Jude's Law / BETH MAHON BROWN,29.6,0,0,0,0,29.6,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Parfait / ERIN R. KELLERHOUSE,31.7,0,0,0,0,31.7,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Ogopogo / SUZY J. ELLIOTT,33.1,0,1.2,0,0,34.3,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Notelo de Rox / FRANKIE THIERIOT STUTES,31.5,0,0,4,0,35.5,4,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Snap Decision II / JEANINE K. ALLRED,36,0,0,0,0,36,5,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Calvin / STEPHANIE A. COOPER,32.1,0,6.4,0,0,38.5,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Bee Hive / KELLY PRATHER,33.3,0,4,4,0,41.3,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Canadian Spy / HAWLEY BENNETT-AWAD,39.6,0,0,4,0,43.6,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Taukalot / JORDAN BALLENGER,34.8,0,0,12,0,46.8,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Governess / KATE MILLER,40.6,20,8.4,0,5,74,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Juicy Couture / ALEXANDRA KNOWLES,41.9,R,R,--,--,R,R,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",Danny California / KRISTI M. NUNNINK,36.3,R,R,--,--,R,R,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PHC (Starters: 13)",KF MacGuinness / SARAH VERNLUND,R,--,--,--,--,R,R,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Bonza Twist of Fate / TERESA HARCOURT,30,0,0,0,0,30,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Savoy Six / KIMBERLY KASLOW,30.7,0,0,0,0,30.7,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Raquel / MADISON REEB,34.4,0,0,0,0,34.4,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Court Jester / FRANCES M. ANDERSON,34.4,0,0,0,0,34.4,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Oz The Tin Man / KATHERINE GROESBECK,30.7,0,0,4,0,34.7,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Rikki Tikki Tavi / BRYN BYER,34.4,0,0.8,0,1,36.2,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Lincoln's Copper Penny / EMMA DEANE,33.7,0,3.6,0,0,37.3,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",V.E. Nokia / KAYLEEN P. CROWLEY,39.3,0,0.4,0,0,39.7,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Current Leader / TARA M. POLKABLA,33,0,7.6,0,0,40.6,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Tiger III / GAIL A. BRACKETT,38.5,0,0,4,0,42.5,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Borneo Royale / NORA BATTIG,33.7,0,16,0,0,49.7,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",X (The Perfect Ten) / MADISON GOLD,42.2,0,0,8,0,50.2,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Killian III / CLAIRE DAILEY,32.2,0,2,12,5,51.2,13,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Bahrain Legacy / HILARY BATES,43.3,0,10.4,0,0,53.7,14,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Hoppi / VICKI MARTINEZ,41.5,20,15.2,4,0,80.7,15,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Sexy Rexy / RUTH BLEY,34.1,40,20,0,0,94.1,16,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Slewdelu / DOROTHY STRAND,41.5,20,32,8,1,102.5,17,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Fen Cera / DANIELLE MCKINLEY,45.9,60,13.2,0,0,119.1,18,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",V.E. Finnegan / SANDY BOLING,46.7,80,29.2,4,0,159.9,19,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Tom's Star / CARINA BERLIN,32.6,RF,RF,--,--,RF,RF,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Impish Grin / KATHERINE HOWARD,36.3,E,E,--,--,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",Nieco / COLE HEMINGWAY,29.3,20,16.4,W,W,W,W,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PR (Starters: 23)",My Sha Roan Nah / MEGAN K. LAUGHTON,40.4,E,E,--,--,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Ballingowan Pizazz / LINDSAY CONNORS,31,0,0,0,0,31,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Balabooga Brawley / MOLLY TOTTEN,30.8,0,0,4,0,34.8,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Made Ya Look IV / LISA LEVINE,32.1,0,0,4,0,36.1,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Omar / DEBBIE DAVIS,29.6,0,3.2,4,0,36.8,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Vinny Can Go / RUTH BLEY,37.1,0,0,0,0,37.1,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",InForAPound Dunvegan / GABRIEL AGUILAR,36.3,0,0.8,0,0,37.1,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Lucky Teddy / MAX GERDES,35.2,0,0,4,0,39.2,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",New Moon / CHELSEA SCHAEFER,33.5,0,0,4,2,39.5,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Wondaree Skite /,41.5,0,0,0,0,41.5,9,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Gwendolyn / CALLI M. HELLERSTEIN,39.6,0,0,4,0,43.6,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Pele II / HILARY B. NIEMANN,36.5,0,0,0,9,45.5,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Kiwi / EMILY S. CHRISTENSEN,35.2,0,0,12,0,47.2,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Matrix III / KEITH MALLETT,43.3,0,0,4,1,48.3,13,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Lad's Night Out / CHLOE MCNALLY,36.5,0,10.8,4,1,52.3,14,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Kennycourt Gambler / KEVIN KRESS,38.8,0,2.8,16,0,57.6,15,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",FDF Riverina / SUSANNA HOLDER,39.4,0,11.6,8,6,65,16,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Raucous Bacchus / KATRINA PURA,36.7,0,0,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Hail II / NATALIA K. NENEMAN,34.2,MR,MR,--,--,MR,MR,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Preliminary, PRC (Starters: 20)",Kilkenny Star / JANINE S. HILL,40.8,0,6.4,W,W,W,W,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Gaelic Blessing / MCKENZIE D. MILLER,33,0,0,0,0,33,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Kalypso's Page / ALEXA WOLF,34.5,0,0,0,0,34.5,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Christopher Robin V / KENZIE AMACK,35,0,1.2,0,0,36.2,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Sixpence / BRYNN LITTLEHALE,39,0,0,0,0,39,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",The Perfect Storm / ALAINA HOWER,40,0,0,0,0,40,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Worthy Opponent V.E. / STEFANIE KRAL,30.5,0,0,12,0,42.5,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",The Dark Knight / MERISSA UNDERWOOD,34,0,0,12,0,46,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Jimmy Chou / CLAIRE H. SMITH,34.5,0,19.6,8,0,62.1,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",ShoShoni Safe Cracker / FIONA CLYDE-BROCKWAY,42,20,6.8,0,0,68.8,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Jagstar / DANIELLE RATY,36,20,5.2,16,0,77.2,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Capri / KRISTIN M. LYNCH,41,60,26,0,0,127,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Promising Future / JESSICA M. ELLIS,42.5,0,2.4,RF,RF,RF,RF,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Tuck Everlasting / REESE MASON,38,E,E,--,--,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRA (Starters: 14)",Imperial Heights / BRETT NOH,35,E,E,--,--,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Just Watch Me / ALEXANDRA CHOU,31.5,0,0,0,0,31.5,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Lucy in the Sky with Diamonds / KELLY A. LORIA,33,0,0,0,0,33,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Castle View / KATHERINE S. MELLIS,36.5,0,0,0,0,36.5,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Kansas City / ADDISON JOHNSON,38.5,0,0,0,0,38.5,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Marengo / ANTONIA DRUMMOND,39,0,4.8,0,0,43.8,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Denim Blues / HANNA RAMLETH,42,0,0,4,0,46,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Doctor's Orders / SALLY GROSS,41.5,0,6.8,0,0,48.3,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Wendover's High Lander / JENNIFER M. RAMIREZ,35,20,8,4,0,67,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",My Romeo / JULIET BARWICK,39.5,20,11.6,0,0,71.1,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Papa's Duchess / MADELEINE S. MOORE,48,20,0,4,0,72,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Belmont Ballygowan / MADDY MAZZOLA,45,0,15.2,12,0,72.2,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Silver Granite / ALYSSA THUNEN,45.5,0,27.6,12,18,103.1,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, JTRB (Starters: 13)",Kept Secret / AMANDA LARSEN,44.5,20,33.2,8,10,115.7,13,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Filou / RACHEL DWYER,25.5,0,0,0,0,25.5,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Carasi / ERIN WILEY,34.5,0,0,4,0,38.5,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Logan / JOSEPH P. MCKINLEY,34.5,0,2.4,4,0,40.9,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Sanssouci / YVES SAUVIGNON,37.5,0,0,4,0,41.5,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Dunn to a T / DAVID W. ACORD,34,0,0,8,0,42,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Midnight Sky Noel / KELLY PRATHER,30.5,0,0,12,0,42.5,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Ransom / SHIRLEY ARONSON,41,0,0,4,0,45,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Oscar of Penzance / EARL MCFALL,45.5,0,0,0,0,45.5,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Go Ask Shakespeare / TARA M. POLKABLA,35,0,0,12,0,47,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Sherwood / LAUREN BROOKE,38.5,0,7.6,4,0,50.1,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Glory / HILLARY J. LUDWIG,44,0,0,8,0,52,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Victory Dance / ALLYSON GREEN,29.5,0,8.4,8,15,60.9,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Raydiance / TOORA NOLAN,36,20,8,0,0,64,13,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Il Duce / SHANNON P. LILLEY,39.5,20,12,0,0,71.5,14,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Blackfoot Mystery / LISA PEECOOK,37.5,20,5.6,12,0,75.1,15,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Starbuck / LAUREL R. MECK,34.5,60,9.2,16,0,119.7,16,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Jefferson / NATALIE BRADY,31,0,RF,--,--,RF,RF,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, OT (Starters: 18)",Firebolt / JOHN STRASSBURGER,47,0,TE,--,--,TE,TE,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Borneo Wigwam / HILARY BATES,29,0,0,0,0,29,1,7.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Notting Hill / LEXY ALEXANDRA FUNK,28,0,0,4,0,32,2,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Rienzo / ALESSIA M. BERTILACCHI-GREEN,31,0,2,0,0,33,3,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Odolus / KIMBERLY KASLOW,34,0,0,0,0,34,4,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Purple Rein / LARAMIE MAXWELL,35.5,0,0,0,0,35.5,5,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Starless Night / LINDSEY B. WEAVER,35,0,0,4,0,39,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Santarae / LOUISE H. LESLIE,32,0,10.4,0,0,42.4,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Five O'Clock Somewhere / SUE CHURCH,30,0,7.2,8,0,45.2,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Charbonneau / KATHY MAYLIN,37,0,0.8,8,0,45.8,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Weatherspoon / SONDRA OTTENSTEIN,38,0,0,8,0,46,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Brighton / KRISTEN BUSBY,35,0,0,16,0,51,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Arecibo / SARAH MCCARTHY,36,0,9.6,8,0,53.6,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Isengart / FIONA ALLEN,31,20,7.2,0,0,58.2,13,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Sportsfield Oliver / KATHRYN SCOTT,34,20,15.6,16,0,85.6,14,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Helianthus / CARLY GREGORY,35.5,0,MR,--,--,MR,MR,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",All Business II / KATHLEEN MURPHY,36,W,W,--,--,W,W,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Falcon / MARISSA MARCOTTE,30.5,20,9.2,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Jasper / NICOLE MUSHKIN,36.5,W,W,--,--,W,W,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STAR (Starters: 19)",Kinsale / ANNIE J. SCHMIDT,33.5,0,6,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Picasso Du Murier / AMANDA VOLLE,32.5,0,0,0,0,32.5,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Wild Guess / NICOLE MUSHKIN,35.5,0,0,0,0,35.5,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Misty Morning / EMI HANSEN,38.5,0,0,0,0,38.5,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Flying Cannon / NICOLE ANNESE,35.5,0,3.2,4,0,42.7,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Toukoutou / CHRISTIANA ROSENBLATT,39.5,0,0,4,0,43.5,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Southern Panache / RACHEL BARNACLE,35.5,0,0,8,0,43.5,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Trilogy II / HAYLEY DEANE,36.5,0,2,8,0,46.5,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Halley's Comet / VICKY PURNELL,36,0,2.8,8,0,46.8,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Allegra / JULIE MANDLE,41.5,0,0,8,0,49.5,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Eclipse The Sun / CATHLEEN STARK,40,0,0,12,0,52,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",For Kicks / KATY HOVER-SMOOT,48.5,0,4.8,0,0,53.3,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Marquis / PASCALE WINNICK,36,20,0,8,0,64,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Do It Exact / CINDI MORAVEC,39.5,0,0,8,18,65.5,13,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Aramis V / MICHAEL R. THOMAS,43.5,20,0,4,0,67.5,14,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Spell Check / ALEXANDRA EASTMAN DVM,40,0,5.2,12,23,80.2,15,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Kendall Jackson / SAMANTHA BACHELDER,35.5,20,20,8,0,83.5,16,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",Scallywag / PAIGE HELLER,41,20,22,12,0,95,17,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, STR (Starters: 18)",The Great Gatsby / ELENA DRAKE-KNIGHT,41,60,59.6,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Project Runway / MAXANCE MCMANAMY,27.5,0,0,0,0,27.5,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",C'czar / JOHN MICHAEL DURR,31,0,0,0,0,31,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Cozzell / KATHERINE FRANCHINI,36,0,0,0,0,36,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Genuine / GINA O. MILES,34.5,0,1.6,0,0,36.1,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Ballyquinn / JOLIE WENTWORTH,33.5,0,0,4,0,37.5,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Edelbrock / ANN E. BYRON,35,0,0,4,0,39,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Travita / KAYLEEN P. CROWLEY,44,0,14,4,0,62,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Mystik Kharma / KIM F. GOTO,38,20,23.2,12,0,93.2,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Land Rover / JOLIE WENTWORTH,26,60,17.6,4,0,107.6,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",George Clooney / JANINE S. HILL,39.5,20,8.8,W,W,W,W,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Come Back Kid / AMBER LEVINE,33,0,RF,--,--,RF,RF,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Santini / DANIELLE DOWNING,42,0,3.2,W,W,W,W,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",Wildwych Eclipse / AMANDA VOLLE,30.5,E,E,--,--,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Training, TH (Starters: 14)",V.E. Nikolaus / ELIANA ATHAYDE,37,0,TE,--,--,TE,TE,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Corinthoz / KIERA CARTER,30.5,0,0,0,0,30.5,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Great Expectations / CAROLINE M. DEIN,29.5,0,0,0,1,30.5,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Perfect Intentions / SARAH BRAUN,35,0,0,0,0,35,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Dillon / JOANNA SAUNDERS,31,0,2.4,0,2,35.4,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Improvisor / LAUREN HENRY,36,0,0.4,0,0,36.4,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Borneo Silver Echo / ALICE CONEYBEER,35.5,0,2.8,0,0,38.3,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Coup de Ville / SOPHIE E. HULME,37.5,0,2.4,0,0,39.9,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Winter's Fable / CLAIRE O'CONNELL,36,0,0,4,0,40,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",W.G. Angel / DELPHINE SCHALLER,36,0,0,4,7,47,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Moonlit Dancer / MADISON K. HOGAN,34,20,6,4,1,65,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Sunny J / KYLAN MORRIS,34,20,13.2,4,0,71.2,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Tenango / MADISON R. LLOYD,30,40,6,0,0,76,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",MayDay / NATALIE DORNAN,34,60,7.2,0,0,101.2,13,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",/ REESE MASON,35,0,0,4,3,42,HC,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Sweet Velvet Moon / KIERA K. SULLIVAN,33,E,E,4,12,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRA (Starters: 16)",Quaver / HANNA RAMLETH,36.5,RF,RF,0,5,RF,RF,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Rockstar IV / MADDY MAZZOLA,35.5,0,0,0,0,35.5,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Ragazzo / HOLLY G. WENZELL,37.5,0,0,0,0,37.5,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Jalisco / ASHLEY BLACK,34.5,0,0,4,1,39.5,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",TigerLilly / CAROLINE M. DEIN,37.5,0,4.4,0,0,41.9,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Braveheart / SHELBY RODEKOHR,38,0,4.4,4,0,46.4,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Earth To Zoey / MIREYA CABRON-HEINECK,42.5,0,0,4,0,46.5,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Willy Jump The Moon / RONNIE N. HODGKINSON,43.5,0,15.6,4,0,63.1,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Protégé / EMILY N. STEEMERS,40,20,0.4,4,0,64.4,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Hide and Seeker / KYANA SAZEGARI,35,20,5.6,8,7,75.6,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",True Confidence / HALEY NELSON,34.5,40,12,4,20,110.5,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Atticus / OLIVIA HONIGHAUSEN,39.5,--,--,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Folklore Sean Crowley / CLAIRE A. CLICKNER,32,--,--,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",West of the Wind / RACHEL N. FOX,36,E,E,0,0,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Where's My Tuxedo / SASHA L. BARR,37.5,E,E,4,0,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, JNRB (Starters: 15)",Wild Bill Cody / LIBBY CORVIN,54.5,--,--,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",Rooster Rock / MATTHEW R. BROWN,31,0,0,0,0,31,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",London / DAN BYRUM,31,0,0,0,0,31,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",Auburn Labs Patronus / GINA O. MILES,30,0,0,4,0,34,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",Infinite / TRACY JAMES,34,0,0,0,0,34,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",Primo / SAMANTHA BACHELDER,31.5,0,0,4,4,39.5,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",Apres Ski / ALEXA K. PERKIEL,28,0,1.2,8,3,40.2,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",HOBGOBLIN / LAVINIA JOHNSTON,41,0,18.4,0,0,59.4,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",T.W. Teddy / SHIRLEY ARONSON,30.5,0,12,16,3,61.5,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",Northern Lights / ERIN SERAFINI SPOHR,37,0,20.4,0,6,63.4,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",Bally Quick Coin / MEG FINN,32.5,20,7.6,4,3,67.1,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",Twiggy / JENNA D. FREITAS,38,20,16,4,0,78,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, NH (Starters: 12)",High Times / JENNIFER MCFALL,30,60,19.6,4,0,113.6,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Rangoon / VALORIE MACKEY,24,0,1.6,0,2,27.6,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Whistlin Dixie / MICHELLE EMMERMANN,29,0,2.4,0,0,31.4,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Passoa / ALEXA K. PERKIEL,31.5,0,0,0,0,31.5,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Learning To Fly / TRISTEN N. HOOKS DVM,32.5,0,0,0,0,32.5,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Cashmere Candlelight / KELLY PRATHER,35.5,0,0,0,0,35.5,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Hermione NSF / RUBEN ARCE-IBARRA,36,0,0,0,1,37,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",King's Cross / JOSEPH P. MCKINLEY,33.5,0,0,4,0,37.5,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Sir Charles / VALORIE MACKEY,37,0,2.8,0,2,41.8,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Napoleon Dynamite / JOHN STRASSBURGER,38,0,4.4,0,0,42.4,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Sterling Knight / GINA M. SHAMAN,38.5,0,0,4,0,42.5,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Royal Rogue / LISA F. RIVAS,45.5,0,0,0,0,45.5,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Orion's Light / SILVIA SZABO,49,0,0,0,0,49,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Waltzing Matilda / MEG FINN,36.5,0,2.8,4,8,51.3,13,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Virginian Sky / NATALIE BRADY,35.5,20,21.2,0,0,76.7,14,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Touch of Luck / ALEXANDRA KNOWLES,46,20,22,4,0,92,15,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, ON (Starters: 16)",Pied Piper / VANESSA BLOUNT,43,--,--,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Miss Tattletail / ELIZABETH MILLER,32.5,0,0,0,0,32.5,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Silver Spring / LAURA A. WERNER,33.5,0,0.4,0,0,33.9,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Pandora / VALLI BOWMAN,30.5,0,2.8,0,2,35.3,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Holani / AMANDA A. STYSKAL,35.5,0,0,0,0,35.5,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Clifton Hi Max / EILEEN W. MORGENTHALER,36,0,3.2,0,0,39.2,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Awesome Commander / CLAUDIA DUNCAN,39.5,0,2,0,4,45.5,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Britannica / ANNIE DESMOND,26,0,13.2,12,0,51.2,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Brogue / MARK A. BRENNAN,49,0,0,4,0,53,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Kaiden / CARRIE J. FINNO,45.5,0,7.2,8,0,60.7,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Orion's Bold Princess / VALI FRANK,48,0,1.6,8,4,61.6,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Magdalena / SUSANNE MUSZALA,38.5,20,4,0,0,62.5,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Rhys's Pieces / NANCY BENSON,37,20,11.6,0,1,69.6,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Ready to Rumble / DONELLE LAUGHLIN,39,40,1.2,0,0,80.2,13,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Go-Kart / CAITLIN LIGHTHOUSE,41.5,0,34.8,4,1,81.3,14,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Orchidee / DONELLE LAUGHLIN,41.5,40,5.6,0,0,87.1,15,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNAmt (Starters: 16)",Roaming No More / CLARE FRIEDMAN,37,RF,RF,0,6,RF,RF,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Amadeus VI / DANA WILCOX,30,0,0,0,0,30,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Balanz VK / JESSICA HILLER,30,0,0,0,0,30,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Lift Off / THERESA SMRT,31,0,0,0,0,31,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Noble / ALLYSON GILLESPIE,38,0,0,0,0,38,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Callahan / KRISTEN MERALA,36,0,0,4,0,40,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Giaconda / HONOR FULLERTON STONE,36.5,0,0,0,5,41.5,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Prince Maximillian / MARLEE J. HOLMES,35,0,7.2,0,0,42.2,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Selene / GRETCHEN FORREY,40,0,4,0,5,49,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Lethal Industry / SHARON Z. FLAGG-MORAN,32.5,20,10,0,0,62.5,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Ivory Joe / LYNDA MALAVANYA MD,39.5,0,16,8,4,67.5,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Aughisky / JULIE WHITE,42.5,0,5.6,16,15,79.1,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Notorious / TERRI C. TERRY,33.5,0,8.8,4,34,80.3,12,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Gatsby / CHRISTINA GRI,46.5,20,17.6,0,1,85.1,13,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Hot Fudge / RICHARD K. HOLMES,39,0,9.6,12,43,103.6,14,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",A Clockwork Orange / ANDREW PALEY,45.5,80,11.6,0,0,137.1,15,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Helix / MARISSA MARCOTTE,29,E,E,0,9,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Jet Legs / LESA K. MELLIS,37,TE,TE,0,0,TE,TE,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Novice, SNR (Starters: 18)",Oxidation / MARCIA FURTADO,37,W,W,0,7,W,W,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRA (Starters: 11)",Jersey Boy / MIKA POLNIASZEK,32.6,0,0,0,0,32.6,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRA (Starters: 11)",Uno Mas II / MELISSA E. FRENCH,33.2,0,0,0,0,33.2,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRA (Starters: 11)",Top Dollar / JESSICA M. GRADILLAS,35.3,0,3.6,0,1,39.9,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRA (Starters: 11)",Soldier Boy / AMANDA CANEPA,36.8,0,0,0,4,40.8,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRA (Starters: 11)",/ HOLLIE READ,35.8,0,0,8,0,43.8,5,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRA (Starters: 11)",King's Rio Grande / MERIDITH L. STARRETT,41.1,0,0.8,4,0,45.9,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRA (Starters: 11)",/ KALLIE MILLER,37.4,0,0,8,11,56.4,8,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRA (Starters: 11)",Sweet Pea V / SIMONE K. VAN OMMEREN,38.4,20,0,4,0,62.4,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRA (Starters: 11)",/ MADALENA P. PARISI,39,40,0,0,0,79,10,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRA (Starters: 11)",Willing and Able / ALYSSA HATAI,33.2,E,E,0,0,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRB (Starters: 13)",/ ARIANNA BARZMAN-GRENNAN,35.3,0,0,0,0,35.3,1,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRB (Starters: 13)",Miss Encore / KELLY M. GARDNER,37.4,0,0,0,0,37.4,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRB (Starters: 13)",Samadhi / FRANCESCA LAMPERT,40,0,0,0,0,40,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRB (Starters: 13)",/ MADISON TEMKIN,40.5,20,0,0,1,61.5,6,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRB (Starters: 13)",Just Like Marilyn / ABIGAIL READ,29.5,20,0.4,4,8,61.9,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRB (Starters: 13)",Applejack / MAGUIRE A. LESSARD,46.8,20,0,4,0,70.8,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRB (Starters: 13)",Percy Lane / AINSLEIGH O. MITCHELL,E,--,--,--,--,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRB (Starters: 13)",Buddy / AMBER PEARSON,38.4,RF,RF,0,0,RF,RF,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, JBNRB (Starters: 13)",Dancin' With Dynamite / MARIAH S. COOGAN,30.5,RF,RF,0,0,RF,RF,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",Warrior / IAN DIERY,34.2,0,0,0,0,34.2,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",/ AMBER LEVINE,34.7,0,0,0,0,34.7,2,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",/ SANDY BOLING,37.4,0,0,0,0,37.4,3,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",Ovation / LEAH M. FORQUER,34.2,0,11.2,0,0,45.4,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",/ SANDY BOLING,34.2,0,4.8,12,0,51,5,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",/ DANIELLE DOWNING,35.8,20,0,0,0,55.8,6,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",/ NORA PETERSON,38.4,20,0,0,0,58.4,7,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",/ ERIN SERAFINI SPOHR,42.1,0,18,4,3,67.1,8,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",Tango Mangerine / HEIDI D. MCRAE,35.3,0,0,12,22,69.3,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",Stroke of Luck / SUZANNE BROCK,41.6,20,17.6,0,0,79.2,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",Tricky But Nice / ANNE A. BENNETT,34.7,40,12.4,8,0,95.1,11,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",/ KIRSTEN L. STRAIN,41.1,40,19.2,12,3,115.3,12,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",Total Eclipse / WENDY WEBSTER,38.4,--,--,R,R,R,R,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",Wyntersong / NORA PETERSON,39,R,R,0,0,R,R,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, OBN (Starters: 15)",Derrinjer / ALEXANDRA KNOWLES,31.6,--,--,R,R,R,R,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",Cash N Diamonds / GILLIAN WARD,32.6,0,0,0,0,32.6,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",/ ASHLEY ANDERSON,31.6,0,0,4,0,35.6,2,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",Pudding / BRIAN FRANCHINI,40,0,0,0,0,40,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",Winter Blaze / SABINE SHORT,37.9,0,0,4,0,41.9,4,3.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",/ CAROL ARNOLD,41.6,0,0,0,5,46.6,5,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",Po'Ele / BARBARA SLAUGHTER,38.4,0,6.4,0,7,51.8,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",Kilbarry Milly / LAURA ALFORD,35.3,0,7.2,0,11,53.5,7,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",Chocolat / SARA KATLEMAN,33.2,40,5.6,8,0,86.8,8,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",Budweiser Babe /,37.4,0,16.4,0,0,53.8,HC,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",/ JULIA K. TUSSING,39,--,--,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",Diva / ELIZABETH HANSEN,35.3,--,--,R,R,R,R,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",/ BOB M. GARCIA,40.5,RF,RF,0,0,RF,RF,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",/ KELLYN BRICKER,51.1,--,--,E,E,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNAMT (Starters: 14)",/ MARY DARBY,38.4,W,W,16,51,W,W,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",Ping Pong / JULIE FLETTNER,29.5,0,0,0,0,29.5,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",Delacroix / MICHAEL BROOK,27.9,0,0,4,1,32.9,2,5.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",Two Timing Tommy / MEG GOULD,36.3,0,0,0,0,36.3,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",/ CHELSEA CLYDE-BROCKWAY,44.7,0,1.6,0,0,46.3,4,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",Igman / JAYNE SLAYTON,37.9,0,5.2,4,1,48.1,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",All In / ROBERTA ZAJAC,39.5,0,0,8,2,49.5,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",/ JEANNE CARLEY,37.9,0,11.6,0,0,49.5,7,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",/ CARA BEASLEY,45.8,20,0,4,0,69.8,8,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",The Joker / KIMBERLY A. MORSE,43.2,20,6.8,8,9,87,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",/ NILDA MESISTRANO,44.7,0,56.4,8,29,138.1,10,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",Plan B / TARA VERKUIL,43.2,E,E,--,--,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRA (Starters: 12)",Bally Reefe / CARRIE BARRETT,42.6,E,E,--,--,E,E,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",Roxabelle / CHERYL F. REYNOLDS,34.7,0,0,4,0,38.7,1,6.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",/ ERICA D. BARTON,42.1,0,0,0,0,42.1,2,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",Caught Red Handed / JANE BURKEMPER,39.5,0,0,0,6,45.5,3,4.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",/ REBECCA WALDERN,45.8,0,0,0,0,45.8,4,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",Goldie Hawn / CHARLOTTE THUNEN,47.9,0,0,0,0,47.9,5,2.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",Cutamo / JOHN F. MARSHALL,46.3,0,0,4,0,50.3,6,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",/ COLLEEN SHJEFLO,43.7,0,9.2,0,0,52.9,7,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",/ BROOK MORRISON,39.5,0,4,12,0,55.5,8,--,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",Katrina IV / DREW CORRADINI,47.4,0,0,8,5,60.4,9,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",Fiener Things / SHANTAL LAMELAS,42.1,20,0,4,1,67.1,10,0.0,--
+Woodside Eventing Summer H.T. (Aug 2006),"[HT] Beginner Novice, SBNRB (Starters: 11)",Secret Affair / HANNAH M. BRAUN,44.7,E,E,--,--,E,E,--,--
